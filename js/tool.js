@@ -1,12 +1,12 @@
 (function(argument) {
-	/*
+	
 	Ash.Tween.easeInInt=function(t,b,c,d){
 		return parseInt(c*(t/=d)*t + b);
 	};
 	Ash.Tween.easeOutInt=function(t,b,c,d){
 		return parseInt(-c *(t/=d)*(t-2) + b);
 	};
-	*/
+	
 	
 	var _weekyday = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 
@@ -20,7 +20,7 @@
 			return ret;
 		};
 		this.colorToRgb=function(color16){
-			if(color16.indexOf('rgb'!==-1)){
+			if(color16.indexOf('rgb')!==-1){
 				return color16;
 			}
 			var r = parseInt(color16.slice(1,3),16),
@@ -124,6 +124,13 @@
 				var _v = localStorage.getItem(key);
 				return _v ? _v : undefined;
 			}
+		};
+
+		this.getVueRouteViewName = function(url){
+			var arr = url.split('/'),
+				l=arr.length,
+				last = l-1;
+			return arr[last];
 		};
 
 	};

@@ -412,6 +412,9 @@
             linear: function(t,b,c,d){
                 return c*t/d + b;
             },
+            linearInt: function(t,b,c,d){
+                return parseInt(c*t/d + b);
+            },
             easeIn: function(t,b,c,d){
                 return c*(t/=d)*t + b;
             },
@@ -421,6 +424,16 @@
             easeInOut: function(t,b,c,d){
                 if ((t/=d/2) < 1) return c/2*t*t + b;
                 return -c/2 * ((--t)*(t-2) - 1) + b;
+            },
+            easeInInt: function(t,b,c,d){
+                return parseInt(c*(t/=d)*t + b);
+            },
+            easeOutInt: function(t,b,c,d){
+                return parseInt(-c *(t/=d)*(t-2) + b);
+            },
+            easeInOutInt: function(t,b,c,d){
+                if ((t/=d/2) < 1) return parseInt(c/2*t*t + b);
+                return parseInt(-c/2 * ((--t)*(t-2) - 1) + b);
             },
             IntLinear:function(t,b,c,d){
                 return parseInt(c*t/d + b);
@@ -698,7 +711,7 @@
                     this.Sprites[m][fn](i);
                 }
             },
-            play:function(startFrame,endFrame,repeat){
+            play:function(startFrame,endFrame,repeat,newCallback){
                 if(this.RequestId == null){
                     var me = this,
                         step,
@@ -741,6 +754,7 @@
                             me._repeat--;
                             if(me._repeat === 0){
                                 me.RequestId=null;
+                                newCallback && newCallback();
                                 me.endFunc && me.endFunc();
                             }else{
                                i=start;

@@ -14,8 +14,18 @@
 
 	</head>
 	<body>
+		<script type="text/javascript">
+			var Img; 
 
-		
-
+			Img = new Image(); 
+			//Img.src = isrc; 
+			Img.onload = function () 
+			{ 
+				console.log("complete : "+Img.complete +"\nreadyState : "+Img.readyState) 
+				//document.body.appendChild(Img); 
+			} 
+			Img.src = '../img/avatar/Adrian Delamico.png?v=sdsd'; 
+			
+		</script>
 	</body>
 </html>

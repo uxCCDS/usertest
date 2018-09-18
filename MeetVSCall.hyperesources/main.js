@@ -5108,6 +5108,8 @@ window.mainFunc = function(hypeDocument){
 	var people_talking;
 	function playPeopleTalking(){
 
+		return;
+
 		if ( group_meeting_waiting || $('#inCallPanel .audio_options').is(':visible') || $('#inCallPanel .callme_popover').is(':visible') ){
 			return;
 		}

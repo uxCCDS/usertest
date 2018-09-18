@@ -68,6 +68,7 @@ window.mainFunc = function(hypeDocument){
 	var in_share = false;
 	var others_is_sharing = false;
 	var audio_type = 'pc';
+	var video_type = 'video_on';
 
 
 	// -----------------------------------
@@ -4128,9 +4129,13 @@ window.mainFunc = function(hypeDocument){
 			if(getSpaceAttr(selectedRoomListId, 'meeting_started') == 1){
 				$('#intersPanel .btn_video .txt').text('Join with video');
 				$('#intersPanel .btn_audio .txt').text('Join without video');
+
+				$('#intersPanel .btn_meeting .txt').text('Join meeting');
 			}else{
 				$('#intersPanel .btn_video .txt').text('Start with video');
 				$('#intersPanel .btn_audio .txt').text('Start without video');
+
+				$('#intersPanel .btn_meeting .txt').text('Start meeting');
 			}
 			
 			
@@ -4199,6 +4204,7 @@ window.mainFunc = function(hypeDocument){
 
 
 			}else{
+
 				switchToMeet()
 				//$('#intersPanel .people_call').hide();
 
@@ -4976,6 +4982,7 @@ window.mainFunc = function(hypeDocument){
 
 			showActPanel('files')
 			$('#filesPanel .list .onedrive').click();
+			showSidePanel('chat')
 
 		});
 
@@ -5275,7 +5282,7 @@ window.mainFunc = function(hypeDocument){
 	var people_talking;
 	function playPeopleTalking(){
 
-		if ( group_meeting_waiting || $('#inCallPanel .audio_options').is(':visible') || $('#inCallPanel .callme_popover').is(':visible') || getSpaceAttr(incall_room_id, 'call-type') != 'audio_only'  ){
+		if ( audio_type == 'no_audio' || group_meeting_waiting || $('#inCallPanel .audio_options').is(':visible') || $('#inCallPanel .callme_popover').is(':visible') || getSpaceAttr(incall_room_id, 'call-type') != 'audio_only'  ){
 			return;
 		}
 
@@ -7231,6 +7238,51 @@ window.mainFunc = function(hypeDocument){
 
 
 
+	$('#intersPanel .btn_meeting').on('mouseover', function(evt){
+		evt.stopPropagation();
+
+		if(video_type == 'video_on'){
+			$('#selfVideoBackground .white').fadeTo('slow', 0);
+			$('#self-view').removeClass('blurVideo');
+		}
+		
+	});
+	$('#intersPanel .btn_meeting').on('mouseout', function(evt){
+		evt.stopPropagation();
+		if(video_type == 'video_on'){
+			$('#selfVideoBackground .white').fadeTo('slow', 1);
+			$('#self-view').addClass('blurVideo');
+		}
+		
+	});
+	$('#intersPanel .btn_meeting').on('click', function(evt){
+		evt.stopPropagation();
+
+		if(incall_room_id != undefined){
+			// cannot join while already in a call
+			return;
+		}
+
+		if(video_type == 'video_on'){
+			if(audio_type == 'callme'){
+				joinMeetingWithVideo(true);
+			}else{
+				joinMeetingWithVideo();
+			}
+		}else{
+			if(audio_type == 'callme'){
+				joinMeetingWithAudio(true);
+			}else{
+				joinMeetingWithAudio();
+				
+			}
+		}
+		
+
+		$('.obtp_toast').fadeOut();
+		
+	});
+
 
 
 
@@ -7310,7 +7362,6 @@ window.mainFunc = function(hypeDocument){
 
 		$('#intersPanel .people_call .call_menu .ck').hide();
 		$('#intersPanel .people_call .call_menu .itm-'+selectedCallIdx+' .ck').show();
-		console.log('selectedCallIdx', selectedCallIdx)
 
 
 		switchToCall()
@@ -7319,33 +7370,100 @@ window.mainFunc = function(hypeDocument){
 
 
 	///////  audio options
-	$('#intersPanel .audio_option_btns .b_pc').on('click', function(evt){
+
+	var selectedAudioVideoLabel1 = 'Use computer for audio'
+	var selectedAudioVideoLabel2 = ', video on'
+
+	$('#pop_audio_video').hide()
+
+	$('#intersPanel .audio_option_btns').on('mouseover', function(evt){
+		$('#intersPanel .audio_option_btns .sub_lb').text('Change audio/video join options')
+	});
+
+	$('#intersPanel .audio_option_btns').on('mouseout', function(evt){
+		$('#intersPanel .audio_option_btns .sub_lb').text(selectedAudioVideoLabel1+selectedAudioVideoLabel2)
+	});
+
+	$('#intersPanel .audio_option_btns').on('click', function(evt){
+		if($('#pop_audio_video').is(':visible')){
+			$('#pop_audio_video').fadeOut(100);
+		}else{
+			$('#pop_audio_video').fadeIn(100);
+		}
+		$('#FTE_audio_video').remove()
+	});
+
+	$('#FTE_audio_video .close').on('click', function(evt){
+		$('#FTE_audio_video').remove()
+	});
+
+	$('#pop_audio_video .btn_pc').on('click', function(evt){
 		changeAudioTo('pc');
 	});
-	$('#intersPanel .audio_option_btns .b_phone').on('click', function(evt){
+	$('#pop_audio_video .btn_phone').on('click', function(evt){
 		changeAudioTo('phone');
 	});
-	$('#intersPanel .audio_option_btns .b_no_audio').on('click', function(evt){
+	$('#pop_audio_video .btn_no_audio').on('click', function(evt){
 		changeAudioTo('no_audio');
+	});
+	$('#pop_audio_video .btn_video_on').on('click', function(evt){
+		changeVideoTo('video_on');
+	});
+	$('#pop_audio_video .btn_video_off').on('click', function(evt){
+		changeVideoTo('video_off');
 	});
 
 	function changeAudioTo(type){
 		$('#intersPanel .audio_option_btns .btn').removeClass('selected')
+
+		$('#pop_audio_video .ck_a').hide()
+
 		if(type == 'pc'){
-			$('#intersPanel .audio_option_btns .lb').text('Use computer for audio')
-			$('#intersPanel .audio_option_btns .b_pc').addClass('selected')
+			selectedAudioVideoLabel1 = 'Use computer for audio'
 			audio_type = 'pc'
+			$('#pop_audio_video .btn_pc .ck_a').show()
+			$('#intersPanel .audio_option_btns .ico_audio').css('background', 'url('+hypeDocument.resourcesFolderURL()+'/ico_av_pc.svg) no-repeat center')
 		}else if(type == 'phone'){
-			$('#intersPanel .audio_option_btns .lb').text('Use phone for audio')
-			$('#intersPanel .audio_option_btns .b_phone').addClass('selected')
+			selectedAudioVideoLabel1 = 'Use phone for audio'
 			audio_type = 'callme'
+			$('#intersPanel .audio_option_btns .ico_audio').css('background', 'url('+hypeDocument.resourcesFolderURL()+'/ico_av_phone.svg) no-repeat center')
+			$('#pop_audio_video .btn_phone .ck_a').show()
 		}else if(type == 'no_audio'){
-			$('#intersPanel .audio_option_btns .lb').text('No audio')
-			$('#intersPanel .audio_option_btns .b_no_audio').addClass('selected')
+			selectedAudioVideoLabel1 = 'No audio'
 			audio_type = 'no_audio'
+			$('#pop_audio_video .btn_no_audio .ck_a').show()
+			$('#intersPanel .audio_option_btns .ico_audio').css('background', 'url('+hypeDocument.resourcesFolderURL()+'/ico_av_no_audio.svg) no-repeat center')
 		}
+		$('#intersPanel .audio_option_btns .ico_audio').css('background-size', '12px')
+		
+		$('#intersPanel .audio_option_btns .sub_lb').text(selectedAudioVideoLabel1+selectedAudioVideoLabel2)
+	}
+	function changeVideoTo(type){
+		$('#intersPanel .audio_option_btns .btn').removeClass('selected')
+		if(type == 'video_on'){
+			selectedAudioVideoLabel2 = ', video on'
+			video_type = 'video_on'
+
+			$('#self-view').show();
+
+			$('#intersPanel .audio_option_btns .ico_video').css('background', 'url('+hypeDocument.resourcesFolderURL()+'/ico_av_video_on.svg) no-repeat center')
+
+		}else if(type == 'video_off'){
+			selectedAudioVideoLabel2 = ', no video'
+			video_type = 'video_off'
+
+			$('#self-view').hide();
+
+			$('#intersPanel .audio_option_btns .ico_video').css('background', 'url('+hypeDocument.resourcesFolderURL()+'/ico_av_video_off.svg) no-repeat center')
+		}
+		$('#intersPanel .audio_option_btns .ico_video').css('background-size', '12px')
+
+		$('#pop_audio_video .ck_v').hide()
+		$('#pop_audio_video .btn_'+video_type+' .ck_v').show()
+		$('#intersPanel .audio_option_btns .sub_lb').text(selectedAudioVideoLabel1+selectedAudioVideoLabel2)
 	}
 	changeAudioTo('pc');
+	changeVideoTo('video_on');
 
 
 	function switchToCall(){
@@ -7356,6 +7474,9 @@ window.mainFunc = function(hypeDocument){
 
 		$('#intersPanel .btn_call_drop').show();
 		$('#intersPanel .selected_number').show()
+		if($('#FTE_audio_video').length > 0){
+			$('#FTE_audio_video').hide()
+		}
 
 		if(window.meet_vs_call_option == 3 || window.meet_vs_call_option == 4){
 			$('#intersPanel .btn_call_drop').hide();
@@ -7372,6 +7493,8 @@ window.mainFunc = function(hypeDocument){
 		setSpaceAttr(selectedRoomListId, 'call-or-meet', 'call');
 
 		$('#intersPanel .audio_option_btns').hide()
+		$('#intersPanel .btn_1v1meeting').show();
+		$('#intersPanel .btn_spacemeeting').hide();
 	}
 
 	function switchToMeet(){
@@ -7394,9 +7517,15 @@ window.mainFunc = function(hypeDocument){
 			$('#intersPanel .selected_number').hide()
 		}
 
+		if($('#FTE_audio_video').length > 0){
+			$('#FTE_audio_video').hide()
+		}
+
 		setSpaceAttr(selectedRoomListId, 'call-or-meet', 'meet');
 
 		$('#intersPanel .audio_option_btns').show()
+		$('#intersPanel .btn_1v1meeting').hide();
+		$('#intersPanel .btn_spacemeeting').show();
 	}
 
 	
@@ -11415,6 +11544,10 @@ window.mainFunc = function(hypeDocument){
 
 	    if(!$('#waffleMenu .ico_people').hitTest(xPos, yPos) && !$('#pop_plist').hitTest(xPos, yPos)){
 			hideSpacePlist()
+	    }
+
+	    if(!$('#intersPanel .audio_option_btns').hitTest(xPos, yPos) && !$('#pop_audio_video').hitTest(xPos, yPos)){
+			$('#pop_audio_video').fadeOut(100);
 	    }
 
 	}

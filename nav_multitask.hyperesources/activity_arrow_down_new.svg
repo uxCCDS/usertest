@@ -1,0 +1,22 @@
+<svg width="12px" height="6px" viewBox="0 0 12 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Activity-menu-(WIP)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Activity-menu-1.1" transform="translate(-983.000000, -151.000000)" fill="#000000">
+            <g id="App" transform="translate(208.000000, 128.000000)">
+                <g id="content" transform="translate(388.000000, 0.000000)">
+                    <g id="top-bar">
+                        <g id="button" transform="translate(230.000000, 16.000000)">
+                            <g id="format/panel-control-thin-down_12" transform="translate(157.000000, 4.000000)">
+                                <g id="panel-control-thin-down_12" transform="translate(0.000000, 3.000000)">
+                                    <path d="M5.99987227,5.82999992 C5.80687227,5.82999992 5.61287227,5.77403471 5.44487227,5.66210427 L0.444872268,2.33117451 C-0.0141277325,2.02536458 -0.138127732,1.4047503 0.167872268,0.945036023 C0.473872268,0.486321123 1.09387227,0.361398765 1.55487227,0.668208077 L5.99987227,3.62936766 L10.4448723,0.668208077 C10.9048723,0.361398765 11.5248723,0.486321123 11.8318723,0.945036023 C12.1378723,1.4047503 12.0138723,2.02536458 11.5548723,2.33117451 L6.55487227,5.66210427 C6.38687227,5.77403471 6.19287227,5.82999992 5.99987227,5.82999992" id="fill"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

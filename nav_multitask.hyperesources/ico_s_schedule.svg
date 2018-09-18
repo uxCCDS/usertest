@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="B---better" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Phase-2-Day-1-A-10.2" transform="translate(-834.000000, -172.000000)">
+            <g id="App" transform="translate(208.000000, 128.000000)">
+                <g id="content" transform="translate(320.000000, 0.000000)">
+                    <g id="top-bar">
+                        <g id="activity" transform="translate(306.000000, 44.000000)">
+                            <g id="Group">
+                                <circle id="Oval-5" fill="#D65D2A" cx="12" cy="12" r="12"></circle>
+                                <g id="icon" transform="translate(7.000000, 7.000000)">
+                                    <rect id="bounding" x="0" y="0" width="10" height="10"></rect>
+                                    <g id="fill" fill="#FFFFFF">
+                                        <path d="M1.625,9 C1.28,9 1,8.72 1,8.375 L1,8 L9,8 L9,8.375 C9,8.72 8.72,9 8.375,9 L1.625,9 Z M8.375,2.002 C8.72,2.002 9,2.282 9,2.627 L9,7 L1,7 L1,2.627 C1,2.282 1.28,2.002 1.625,2.002 L8.375,2.002 Z M8,1.002 L8,0.5 C8,0.224 7.776,0 7.5,0 C7.224,0 7,0.224 7,0.5 L7,1.002 L3,1.002 L3,0.5 C3,0.224 2.776,0 2.5,0 C2.224,0 2,0.224 2,0.5 L2,1.002 L1.625,1.002 C0.729,1.002 0,1.731 0,2.627 L0,8.375 C0,9.271 0.729,10 1.625,10 L8.375,10 C9.271,10 10,9.271 10,8.375 L10,2.627 C10,1.731 9.271,1.002 8.375,1.002 L8,1.002 Z"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51 (57462) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Prototype-(USE)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Open-word-1.0" transform="translate(-866.000000, -496.000000)">
+            <g id="App" transform="translate(208.000000, 128.000000)">
+                <g id="content" transform="translate(388.000000, 0.000000)">
+                    <g id="light/buttons/circle/dark-grey/32/normal" transform="translate(270.000000, 368.000000)">
+                        <circle id="circle" fill="#333333" cx="14" cy="14" r="14"></circle>
+                        <g id="format/edit_12_w" transform="translate(8.000000, 8.000000)" fill="#FFFFFF" stroke-width="1">
+                            <g id="edit_12_w">
+                                <path d="M1.5649,8.9529 L1.1539,10.8449 L3.0449,10.4329 L10.6929,2.7859 C10.8909,2.5879 10.9999,2.3259 10.9999,2.0459 C10.9999,1.7659 10.8909,1.5029 10.6929,1.3059 C10.2979,0.9099 9.6079,0.9099 9.2129,1.3059 L1.5649,8.9529 Z M0.4999,11.9989 C0.3689,11.9989 0.2409,11.9469 0.1469,11.8519 C0.0259,11.7319 -0.0251,11.5589 0.0119,11.3919 L0.6189,8.5969 C0.6389,8.5039 0.6859,8.4179 0.7539,8.3499 L8.5059,0.5989 C9.3039,-0.1991 10.6029,-0.1991 11.3999,0.5989 C11.7869,0.9849 11.9999,1.4989 11.9999,2.0459 C11.9999,2.5929 11.7869,3.1059 11.3999,3.4929 L3.6489,11.2449 C3.5809,11.3119 3.4949,11.3589 3.4009,11.3799 L0.6059,11.9879 C0.5709,11.9949 0.5349,11.9989 0.4999,11.9989 Z" id="fill"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

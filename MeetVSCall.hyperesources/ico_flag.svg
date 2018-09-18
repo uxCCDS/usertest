@@ -1,0 +1,23 @@
+
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Screen-2.0" transform="translate(-224.000000, -335.000000)" fill="#FFFFFF">
+            <g id="App" transform="translate(208.000000, 128.000000)">
+                <g id="sidebar">
+                    <g id="item" transform="translate(0.000000, 192.000000)">
+                        <g id="list">
+                            <g id="icon" transform="translate(16.000000, 15.000000)">
+                                <g id="fill">
+                                    <path d="M6.141,3.152 C5.946,3.347 5.946,3.664 6.141,3.859 L8.285,6.003 L1,6.003 L1,1 L8.293,1 L6.141,3.152 Z M9.5,0 L0.5,0 C0.224,0 0,0.223 0,0.5 L0,9.5 C0,9.776 0.224,10 0.5,10 C0.777,10 1,9.776 1,9.5 L1,7.003 L9.492,7.003 C9.694,7.003 9.876,6.881 9.954,6.694 C10.031,6.507 9.988,6.292 9.845,6.149 L7.202,3.506 L9.854,0.853 C9.996,0.71 10.039,0.495 9.962,0.308 C9.885,0.121 9.703,0 9.5,0 Z"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

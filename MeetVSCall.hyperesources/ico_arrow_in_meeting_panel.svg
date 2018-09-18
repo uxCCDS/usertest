@@ -1,0 +1,23 @@
+
+<svg width="24px" height="8px" viewBox="0 0 24 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="In-Meeting-Navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.280000001">
+        <g id="In-Meeting-Activities-During-Sharing-2.0" transform="translate(-708.000000, -224.000000)" fill="#000000">
+            <g id="App" transform="translate(208.000000, 128.000000)">
+                <g id="drawer" transform="translate(0.000000, 80.000000)">
+                    <g id="top-bar">
+                        <g id="format/panel-control-down_24" transform="translate(500.000000, 8.000000)">
+                            <g id="panel-control-down_24" transform="translate(0.000000, 8.000000)">
+                                <g id="icon">
+                                    <path d="M12,8.0000219 C11.7480206,8.0000219 11.4960411,7.9520219 11.2570606,7.8570219 L1.25787674,3.8570219 C0.231960474,3.4460219 -0.266998803,2.2830219 0.143967655,1.2570219 C0.553934195,0.232021898 1.71483945,-0.265978102 2.74375547,0.143021898 L12,3.8460219 L21.2562445,0.143021898 C22.2851606,-0.264978102 23.4460658,0.232021898 23.8560323,1.2570219 C24.2669988,2.2830219 23.7680395,3.4460219 22.7421233,3.8570219 L12.7429394,7.8570219 C12.5039589,7.9520219 12.2519794,8.0000219 12,8.0000219"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

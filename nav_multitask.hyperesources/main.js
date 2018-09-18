@@ -4982,6 +4982,7 @@ window.mainFunc = function(hypeDocument){
 
 			showActPanel('files')
 			$('#filesPanel .list .onedrive').click();
+			showSidePanel('chat')
 
 		});
 

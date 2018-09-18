@@ -1449,13 +1449,3 @@ a, a:hover, a:active, .link {
 }
 
 
-.audio_option_btns .btn.selected{
-	background-color: rgba(0,0,0,.15);
-}
-.audio_option_btns .btn:hover{
-	background-color: rgba(0,0,0,.05);
-}
-.audio_option_btns .btn.selected:hover{
-	background-color: rgba(0,0,0,.15);
-}
-

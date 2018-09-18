@@ -449,19 +449,19 @@ window.mainFunc = function(hypeDocument){
 				},
 				{
 					name: 'George Edwards',
-					time: 'Yesterdy, 14:36',
+					time: 'Yesterday, 14:36',
 					unread: true,
 					msg: 'Thanks <span class="color_mention_other">Emma</span> and <span class="color_mention_other">Brandon</span>. Keeps up the good work!',
 				},
 				{
 					name: 'George Edwards',
-					time: 'Yesterdy, 16:02',
+					time: 'Yesterday, 16:02',
 					unread: true,
 					file_name: 'Budget Plan.docx',
 					file_size: '24 KB',
 					file_type: 'onedrive',
 					file_img: 'file_doc.png',
-					msg: 'Hi All, here is the doc I promised you, its stored on OneDrive.',
+					msg: "Hi All, here is the doc I promised you, it's stored on OneDrive.",
 				},
 			],
 			interstitialPage: {
@@ -4653,12 +4653,12 @@ window.mainFunc = function(hypeDocument){
 
 				if(obj.file_name){
 					html += " <div class='file' style='background-image: url(" + resourceUrl + "files/" + obj.file_img + "); '> "
-					html += " <div class='overlay con_flex_row' > "
-					html += " <div class='left flex_1'> "
+					html += " <div class='overlay' > "
+					html += " <div class='left'> "
 					html += " <div class='title'>"+obj.file_name+"</div> "
 					html += " <div class='size'>"+obj.file_size+"</div> "
 					html += " </div> "
-					html += " <div class='right flex_none con_flex_row'> "
+					html += " <div class='right con_flex_row'> "
 					html += " <div class='flex_none ico ico_edit' style='background: url("+hypeDocument.resourcesFolderURL()+"/ico_file_edit.svg) no-repeat 0 0;' ></div> "
 					html += " <div class='flex_none ico ico_open' style='background: url("+hypeDocument.resourcesFolderURL()+"/ico_file_open.svg) no-repeat 0 0;' ></div> "
 					html += " <div class='flex_none ico ico_down' style='background: url("+hypeDocument.resourcesFolderURL()+"/ico_file_down.svg) no-repeat 0 0;' ></div> "
@@ -7433,9 +7433,13 @@ window.mainFunc = function(hypeDocument){
 			group_meeting_waiting = true
 			if(people_call_or_meet == 'meet'){
 				$('#inCallPanel .waiting').show();
-				setTimeout(othersJoinMeeting, 8+2000, 'video')
+				setTimeout(function(){
+					othersJoinMeeting();
+					showSidePanel('people')
+				}, 8+2000, 'video')
 			}else{
 				othersJoinMeeting('video');
+				showSidePanel('people')
 			}
 
 			hideAllActPanels();
@@ -7564,7 +7568,7 @@ window.mainFunc = function(hypeDocument){
 
 			switchCalls = 2;
 
-
+			showSidePanel('people')
 			showActPanel('chat');
 			showWaffleMenu()
 
@@ -7608,8 +7612,12 @@ window.mainFunc = function(hypeDocument){
 			group_meeting_waiting = true
 			if(people_call_or_meet == 'meet'){
 				$('#inCallPanel .waiting').show();
-				setTimeout(othersJoinMeeting, 8+2000, 'audio')
+				setTimeout(function(){
+					showSidePanel('people')
+					othersJoinMeeting();
+				}, 8+2000, 'audio')
 			}else{
+				showSidePanel('people')
 				othersJoinMeeting('audio');
 			}
 			
@@ -7761,7 +7769,7 @@ window.mainFunc = function(hypeDocument){
 
 			switchCalls = 2;
 
-
+			showSidePanel('people')
 			showActPanel('chat');
 			showWaffleMenu()
 
@@ -10519,14 +10527,14 @@ window.mainFunc = function(hypeDocument){
     	window.sidePanelStatus = 'open'
 
 	    if( getSpaceAttr(selectedRoomListId, 'data-incall') == 'true' ){
-	    	$('#sidePanel .close').hide();
-	    	$('#sidePanel .title').hide();
-	    	$('#sidePanel .tabs').show();
+	    	$('#sidePanel .head .close').hide();
+	    	$('#sidePanel .head .title').hide();
+	    	$('#sidePanel .head .tabs').show();
 
 	    }else{
-	    	$('#sidePanel .close').show();
-	    	$('#sidePanel .title').show();
-	    	$('#sidePanel .tabs').hide();
+	    	$('#sidePanel .head .close').show();
+	    	$('#sidePanel .head .title').show();
+	    	$('#sidePanel .head .tabs').hide();
 	    }
 
     	$('#button_sidepanel .arrow').css('transform', 'rotate(180deg)');

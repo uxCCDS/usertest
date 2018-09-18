@@ -285,10 +285,13 @@ a, a:hover, a:active, .link {
     font-family: 'SF-Pro-Text-Bold';
 }
 
-.chat_msg_item .file .overlay {
+#chatPanel .chat_msg_item .file .overlay {
+	display: -webkit-flex !important;
+	-webkit-flex-flow: row; 
+	-webkit-flex-wrap: nowrap;
     transition: all 0.2s ease-out;
     position: absolute;
-    width: 320px;
+    width: 100%;
     height: 52px;
     bottom: 0;
     overflow: hidden;
@@ -297,30 +300,71 @@ a, a:hover, a:active, .link {
     opacity: 0;
 }
 
-.chat_msg_item .overlay .left{
+#chatPanel .chat_msg_item .overlay .left{
+	-webkit-flex:1;
     padding: 10px 0 0 10px;
 }
-.chat_msg_item .overlay .left .title{
+#chatPanel .chat_msg_item .overlay .left .title{
     font-size: 15px;
     font-family: 'SF-Pro-Text-Bold';
 }
-.chat_msg_item .overlay .left .size{
+#chatPanel .chat_msg_item .overlay .left .size{
     font-size: 12px;
     font-family: 'SF-Pro-Text-Regular';
     color: rgba(0,0,0,0.6);
 }
 
 
-.chat_msg_item .overlay .right{
+#chatPanel .chat_msg_item .overlay .right{
+	-webkit-flex:none;
     padding-right: 8px;
 }
-.chat_msg_item .overlay .right .ico{
+#chatPanel .chat_msg_item .overlay .right .ico{
     width: 28px;
     height: 28px;
     cursor: pointer;
     margin: 12px 3px;
 }
 
+
+
+
+#sidePanel .chat_msg_item .file .overlay {
+    transition: all 0.2s ease-out;
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    bottom: 0;
+    overflow: hidden;
+    background: rgba(255,255,255,0.72);
+    box-shadow: 0px -1px 0px rgba(0,0,0,0.06);
+    opacity: 0;
+}
+
+#sidePanel .chat_msg_item .overlay .left{
+    padding: 20px 0 0 10px;
+}
+#sidePanel .chat_msg_item .overlay .left .title{
+    font-size: 15px;
+    font-family: 'SF-Pro-Text-Bold';
+}
+#sidePanel .chat_msg_item .overlay .left .size{
+    font-size: 12px;
+    font-family: 'SF-Pro-Text-Regular';
+    color: rgba(0,0,0,0.6);
+}
+
+
+#sidePanel .chat_msg_item .overlay .right{
+	display: block;
+    padding-left: 38px;
+}
+#sidePanel .chat_msg_item .overlay .right .ico{
+    width: 28px;
+    height: 28px;
+    cursor: pointer;
+    margin: 12px 3px;
+}
 
 /* -------- chat msg end ------ */
 

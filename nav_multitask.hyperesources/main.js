@@ -7362,7 +7362,6 @@ window.mainFunc = function(hypeDocument){
 
 		$('#intersPanel .people_call .call_menu .ck').hide();
 		$('#intersPanel .people_call .call_menu .itm-'+selectedCallIdx+' .ck').show();
-		console.log('selectedCallIdx', selectedCallIdx)
 
 
 		switchToCall()
@@ -7423,16 +7422,19 @@ window.mainFunc = function(hypeDocument){
 			selectedAudioVideoLabel1 = 'Use computer for audio'
 			audio_type = 'pc'
 			$('#pop_audio_video .btn_pc .ck_a').show()
+			$('#intersPanel .audio_option_btns .ico_audio').css('background', 'url('+hypeDocument.resourcesFolderURL()+'/ico_av_pc.svg) no-repeat center')
 		}else if(type == 'phone'){
 			selectedAudioVideoLabel1 = 'Use phone for audio'
 			audio_type = 'callme'
+			$('#intersPanel .audio_option_btns .ico_audio').css('background', 'url('+hypeDocument.resourcesFolderURL()+'/ico_av_phone.svg) no-repeat center')
 			$('#pop_audio_video .btn_phone .ck_a').show()
 		}else if(type == 'no_audio'){
 			selectedAudioVideoLabel1 = 'No audio'
 			audio_type = 'no_audio'
 			$('#pop_audio_video .btn_no_audio .ck_a').show()
+			$('#intersPanel .audio_option_btns .ico_audio').css('background', 'url('+hypeDocument.resourcesFolderURL()+'/ico_av_no_audio.svg) no-repeat center')
 		}
-		
+		$('#intersPanel .audio_option_btns .ico_audio').css('background-size', '12px')
 		
 		$('#intersPanel .audio_option_btns .sub_lb').text(selectedAudioVideoLabel1+selectedAudioVideoLabel2)
 	}
@@ -7444,12 +7446,18 @@ window.mainFunc = function(hypeDocument){
 
 			$('#self-view').show();
 
+			$('#intersPanel .audio_option_btns .ico_video').css('background', 'url('+hypeDocument.resourcesFolderURL()+'/ico_av_video_on.svg) no-repeat center')
+
 		}else if(type == 'video_off'){
 			selectedAudioVideoLabel2 = ', no video'
 			video_type = 'video_off'
 
 			$('#self-view').hide();
+
+			$('#intersPanel .audio_option_btns .ico_video').css('background', 'url('+hypeDocument.resourcesFolderURL()+'/ico_av_video_off.svg) no-repeat center')
 		}
+		$('#intersPanel .audio_option_btns .ico_video').css('background-size', '12px')
+
 		$('#pop_audio_video .ck_v').hide()
 		$('#pop_audio_video .btn_'+video_type+' .ck_v').show()
 		$('#intersPanel .audio_option_btns .sub_lb').text(selectedAudioVideoLabel1+selectedAudioVideoLabel2)
@@ -7466,6 +7474,9 @@ window.mainFunc = function(hypeDocument){
 
 		$('#intersPanel .btn_call_drop').show();
 		$('#intersPanel .selected_number').show()
+		if($('#FTE_audio_video').length > 0){
+			$('#FTE_audio_video').hide()
+		}
 
 		if(window.meet_vs_call_option == 3 || window.meet_vs_call_option == 4){
 			$('#intersPanel .btn_call_drop').hide();
@@ -7504,6 +7515,10 @@ window.mainFunc = function(hypeDocument){
 		if( people_list[nm] == undefined ){
 			$('#intersPanel .btn_call_drop').hide();
 			$('#intersPanel .selected_number').hide()
+		}
+
+		if($('#FTE_audio_video').length > 0){
+			$('#FTE_audio_video').hide()
 		}
 
 		setSpaceAttr(selectedRoomListId, 'call-or-meet', 'meet');

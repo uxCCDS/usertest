@@ -242,7 +242,7 @@ window.mainFunc = function(hypeDocument){
                     $('#block3').animate(
                       {
                         left: '-='+offset,
-                        top: '-='+offset,
+                        top: 200+offset,
                         height: 200,
                       },
                       {
@@ -257,7 +257,7 @@ window.mainFunc = function(hypeDocument){
                     $('#block0').animate(
                         {
                           left: '+='+offset,
-                          top: 400,
+                          top: 300+offset,
                         },
                         {
                           queue:false,
@@ -269,7 +269,7 @@ window.mainFunc = function(hypeDocument){
                     $('#block1').animate(
                         {
                           left: '+='+offset,
-                          top: '+='+offset,
+                          top: 200+offset,
                         },
                         {
                           queue:false,
@@ -354,6 +354,47 @@ window.mainFunc = function(hypeDocument){
             }
           }
         );
+
+      // switch dark mode
+      $('body').off('click');
+
+
+      $('#block0').on('click', evt => {
+        evt.stopPropagation();
+        if($('#block0').attr('darkmode')==undefined || $('#block0').attr('darkmode') == 0){
+          $('#block0 .inside').css('background-color', '#222');
+          $('#block0').attr('darkmode', 1);
+        }else{
+          $('#block0 .inside').addClass('border');
+          $('#block0 .inside').css('background-color', '#f5f5f5');
+          $('#block0').attr('darkmode', 0);
+        }
+      });
+
+      $('#block1').on('click', evt => {
+        evt.stopPropagation();
+        if($('#block1').attr('darkmode')==undefined || $('#block1').attr('darkmode') == 0){
+          $('#block1 .inside').css('background-color', '#222');
+          $('#block1').attr('darkmode', 1);
+        }else{
+          $('#block1 .inside').addClass('border');
+          $('#block1 .inside').css('background-color', '#f5f5f5');
+          $('#block1').attr('darkmode', 0);
+        }
+      });
+
+      $('#block3').on('click', evt => {
+        evt.stopPropagation();
+        if($('#block3').attr('darkmode')==undefined || $('#block3').attr('darkmode') == 0){
+          $('#block3 .inside').css('background-color', '#222');
+          $('#block3').attr('darkmode', 1);
+        }else{
+          $('#block3 .inside').addClass('border');
+          $('#block3 .inside').css('background-color', '#f5f5f5');
+          $('#block3').attr('darkmode', 0);
+        }
+      });
+
     }
 
   });

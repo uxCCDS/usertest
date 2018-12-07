@@ -365,8 +365,7 @@ window.mainFunc = function(hypeDocument){
           $('#block0 .inside').css('background-color', '#222');
           $('#block0').attr('darkmode', 1);
         }else{
-          $('#block0 .inside').addClass('border');
-          $('#block0 .inside').css('background-color', '#f5f5f5');
+          $('#block0 .inside').css('background-color', '#D8D8D8');
           $('#block0').attr('darkmode', 0);
         }
       });
@@ -377,8 +376,7 @@ window.mainFunc = function(hypeDocument){
           $('#block1 .inside').css('background-color', '#222');
           $('#block1').attr('darkmode', 1);
         }else{
-          $('#block1 .inside').addClass('border');
-          $('#block1 .inside').css('background-color', '#f5f5f5');
+          $('#block1 .inside').css('background-color', '#D8D8D8');
           $('#block1').attr('darkmode', 0);
         }
       });
@@ -389,8 +387,7 @@ window.mainFunc = function(hypeDocument){
           $('#block3 .inside').css('background-color', '#222');
           $('#block3').attr('darkmode', 1);
         }else{
-          $('#block3 .inside').addClass('border');
-          $('#block3 .inside').css('background-color', '#f5f5f5');
+          $('#block3 .inside').css('background-color', '#D8D8D8');
           $('#block3').attr('darkmode', 0);
         }
       });

@@ -1,0 +1,21 @@
+
+<svg width="8px" height="16px" viewBox="0 0 8 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Video-Centric-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Video-Centric-4.0" transform="translate(-16.000000, -385.000000)" fill="#FFFFFF">
+            <g id="App">
+                <g id="grid-video" transform="translate(0.000000, 61.000000)">
+                    <g id="pagination_left" transform="translate(0.000000, 302.000000)">
+                        <g id="arrow-left-optical_20_w" transform="translate(16.000000, 22.000000)">
+                            <g id="icon">
+                                <path d="M7.5,15.9997048 C7.366,15.9997048 7.233,15.9467048 7.135,15.8407048 L0.135,8.34070478 C-0.045,8.14870478 -0.045,7.85070478 0.135,7.65870478 L7.135,0.158704785 C7.324,-0.0422952152 7.642,-0.0542952152 7.841,0.133704785 C8.043,0.322704785 8.054,0.638704785 7.865,0.840704785 L1.184,7.99970478 L7.865,15.1587048 C8.054,15.3607048 8.043,15.6767048 7.841,15.8657048 C7.745,15.9557048 7.622,15.9997048 7.5,15.9997048" id="fill"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

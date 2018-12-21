@@ -1047,62 +1047,58 @@ video.grid[data-v-6b3f2b5c] {
 
 
 .fixedPosition {
-    pointer-events: none;
-    border-radius: 3px !important;
-    box-shadow: 0px 0px 1px rgba(0,0,0,0.3) !important;
+  pointer-events: none;
+  border-radius: 3px !important;
+  box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.3) !important;
 }
-
 
 #self_video[data-v-474eeb1e] {
-    position: absolute;
-    width: 120px;
-    height: 68px;
-    border-radius: 6px;
-    overflow: hidden;
-    transform: rotate(0deg);
-    background-color: #FFF;
-    box-shadow: 0px 0px 1px rgba(0,0,0,0.3), 0px 0px 8px rgba(0,0,0,0.1);
+  position: absolute;
+  width: 120px;
+  height: 68px;
+  border-radius: 6px;
+  overflow: hidden;
+  transform: rotate(0deg);
+  background-color: #fff;
+  box-shadow: 0px 0px 1px rgba(0, 0, 0, 0.3), 0px 0px 8px rgba(0, 0, 0, 0.1);
 }
 #self_video.min[data-v-474eeb1e] {
-    width: 20px;
-    height: 20px;
-    border-radius: 4px;
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
 }
-#self_video.min video[data-v-474eeb1e]{
-    display: none;
+#self_video.min video[data-v-474eeb1e] {
+  display: none;
 }
 #camera[data-v-474eeb1e] {
-    position: absolute; 
-    left:0; 
-    top:0; 
-    width:100%;
-    height:auto;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
 }
 .btn_minimize[data-v-474eeb1e] {
-    position: absolute;
-    top: 5px;
-    left: 5px;
-    width: 20px;
-    height: 20px;
-    box-shadow: 0 0 1px rgba(0,0,0,0.3);
-    border-radius: 10px;
-    pointer-events: auto;
-    cursor: pointer;
-    background: url(ico_min_self.svg?32a6c53e7b3afaf06b494f04035c1b04) no-repeat center;
-    display: none;
-    background-color: #FFF;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  width: 20px;
+  height: 20px;
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  pointer-events: auto;
+  cursor: pointer;
+  background: url(ico_min_self.svg?32a6c53e7b3afaf06b494f04035c1b04) no-repeat center;
+  display: none;
+  background-color: #fff;
 }
 .btn_minimize.min[data-v-474eeb1e] {
-    top: 0;
-    left: 0;
-    box-shadow: 0 0 0 rgba(0,0,0,0);
-    border-radius: 0px;
-    background: url(ico_restore_self.svg?fffbd558b59fd7dcdbabb1801368a308) no-repeat center;
-    display: block !important;
+  top: 0;
+  left: 0;
+  box-shadow: 0 0 0 rgba(0, 0, 0, 0);
+  border-radius: 0px;
+  background: url(ico_restore_self.svg?fffbd558b59fd7dcdbabb1801368a308) no-repeat center;
+  display: block !important;
 }
-
-
-
 
 #controls[data-v-0087bfa6] {
   position: absolute;

@@ -13,6 +13,7 @@
   line-height: 28px;
   font-size: 14px;
   font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+  transform: rotate(0deg);
 }
 .loading-button .progress {
   position: absolute;

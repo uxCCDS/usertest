@@ -1,57 +1,28 @@
 $(function() {
-  playMotion_loadingButton = () => {
-    $('.loading-button .progress').velocity(
-      {
-        width: '100%',
-      },
-      {
-        duration: 2000,
-        queue: false,
-        easing: "linear",
-        progress: (elements, complete, remaining, start, tweenValue) => {
-          if (complete == 1) {
-            $('.loading-button .progress').fadeOut();
-            slideUp();
-          }
-        },
-      }
-    );
-  }
 
-  slideUp = () => {
-    $('.loading-button .loading-wrap').velocity(
+  loaded = () => {
+    $('.spinner-w').addClass('loaded');
+    $('.spinner-c').hide();
+    $('.label1').fadeOut(100);
+    $('.label2').delay(100).fadeIn(300);
+
+    $('.loading-button').velocity(
       {
-        top: '-100%',
+        width: '122px',
       },
       {
-        duration: 250,
+        duration: 300,
         queue: false,
         easing: "easeOutQuad",
       }
     );
-
-    $('.loading-button .loaded-wrap').velocity(
-      {
-        top: 0,
-      },
-      {
-        duration: 250,
-        queue: false,
-        easing: "easeOutQuad",
-        progress: (elements, complete, remaining, start, tweenValue) => {
-          if (complete == 1) {
-            setTimeout(() => {
-              $('.loading-button .progress').css('width', 0);
-              $('.loading-button .progress').show();
-              $('.loading-button .loading-wrap').css('top', 0);
-              $('.loading-button .loaded-wrap').css('top', '100%');
-              playMotion_loadingButton();
-            }, 2000);
-          }
-        },
-      }
-    );
+  }
+  setClipPath = () => {
+    $('#icon-spinner').attr('clip-path', 'url(#arrow-clip-path)');
+    $('#arrow-clip-path').addClass('arrowup');
   }
 
-  playMotion_loadingButton();
+  setTimeout(loaded, 2000);
+  setTimeout(setClipPath, 2650);
+
 });

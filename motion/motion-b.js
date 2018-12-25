@@ -14,6 +14,11 @@ $(function() {
         duration: 300,
         queue: false,
         easing: "easeOutQuad",
+        progress: (elements, complete, remaining, start, tweenValue) => {
+          if (complete == 1) {
+            
+          }
+        },
       }
     );
   }

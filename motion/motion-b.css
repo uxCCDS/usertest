@@ -22,13 +22,50 @@
   font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
   transform: rotate(0deg);
 }
-.label1 {
+.label {
+  position: absolute;
   text-align: left;
+  top: 0;
+  left: 38px;
+}
+.label1 {
+  position: absolute;
+  top: 0;
+}
+.hidelabel1 {
+  animation: hidelabel1 .2s ease-in-out 0s 1 alternate forwards;
+}
+@keyframes hidelabel1 {
+  0% {
+    opacity: 1;
+    left: 0;
+  }
+  100% {
+    opacity: 0;
+    left: -20px;
+  }
 }
 .label2 {
-  text-align: left;
-  display: none;
+  position: absolute;
+  width: 100px;
+  opacity: 0;
+  top: 0;
+  left: 50px;
 }
+.showlabel2 {
+  animation: showlabel2 .3s ease-in-out 0s 1 alternate forwards;
+}
+@keyframes showlabel2 {
+  0% {
+    opacity: 0;
+    left: 30px;
+  }
+  100% {
+    opacity: 1;
+    left: 0;
+  }
+}
+
 .icon-button {
   width: 18px;
   height: 18px;
@@ -37,10 +74,10 @@
 }
 .spinner-w {
   stroke-dasharray: 100;
-  stroke-dashoffset: 95;
+  stroke-dashoffset: 97;
 }
 .spinner-w.loaded {
-  animation: closecircle .6s ease-in-out 0s 1 alternate forwards;
+  animation: closecircle .3s ease-in-out 0s 1 alternate forwards;
 }
 @keyframes closecircle {
   0% {
@@ -49,23 +86,23 @@
   60% {
     stroke-dashoffset: 80;
   }
-  99% {
+  80% {
     stroke-dashoffset: 80;
-    stroke-width: 4;
+    stroke-width: 3.5;
   }
   100% {
     stroke-dashoffset: 80;
-    fill: #FFF;
     stroke-width: 0;
+    fill: #FFF;
   }
 }
 
 .arrowup {
-  animation: arrowup .4s ease-in-out 0s 1 alternate forwards;
+  animation: arrowup .2s ease-in-out 0s 1 alternate forwards;
 }
 @keyframes arrowup {
   0% {
-    transform: translateY(-4px);
+    transform: translateY(-5px);
   }
   60% {
     transform: translateY(-6.3px);

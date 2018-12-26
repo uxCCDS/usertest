@@ -1,0 +1,73 @@
+#motion-c {
+  margin: 100px;
+}
+.checkbox {
+  position: relative;
+  cursor: pointer;
+}
+.layer {
+  position: absolute;
+}
+.checkbox .check-svg.checked {
+  transform-origin: 50% 50%;
+  animation: zoominout .3s ease-in-out;
+}
+@keyframes zoominout {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.22);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.checkbox .check-circle.checked {
+  transition: all 0.3s ease-in-out;
+  fill: #07C1E4;
+}
+.checkbox .check-mark.checked {
+  fill: #FFF;
+}
+.checkbox .check-svg2.checked {
+  animation: zoominout2 .5s ease-in-out;
+}
+@keyframes zoominout2 {
+  0% {
+    top: 0;
+  }
+  50% {
+    top: -2px;
+  }
+  90% {
+    top: 1px;
+  }
+  100% {
+    top: 0;
+  }
+}
+.checkbox .checked-animation {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: -13px;
+  left: -13px;
+}
+.checkbox .checked-animation {
+  display: none;
+}
+.stroke-animate {
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+  animation: drawline .38s ease-in-out;
+}
+@keyframes drawline {
+  from {
+    stroke-dashoffset: 92;
+  }
+  to {
+    stroke-dashoffset: 100;
+  }
+}
+

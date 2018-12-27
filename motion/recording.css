@@ -1,0 +1,31 @@
+#recording {
+  position: relative;
+  width: 200px;
+  margin: 100px;
+}
+.icon {
+  position: absolute;
+}
+#ico-group1 {
+  position: absolute;
+  transform: translateX(100px);
+}
+#ico-group2 {
+  opacity: 0;
+  position: absolute;
+  transform: translateX(100px);
+}
+#ico-pause {
+  opacity: 0;
+}
+#ico-resume {
+  opacity: 0;
+}
+
+
+#cursor {
+  position: absolute;
+  top: 10px;
+  left: 50px;
+  display: none;
+}

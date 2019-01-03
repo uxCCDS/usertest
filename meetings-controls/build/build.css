@@ -1711,6 +1711,18 @@ video.grid[data-v-6b3f2b5c] {
   text-align: center;
   background-color: rgba(255, 255, 255, 0.8);
 }
+.video .lb_selected[data-v-b7fb01d0] {
+  position: absolute;
+  width: 60%;
+  left: 20%;
+  top: 10px;
+  height: 24px;
+  font-size: 12px;
+  line-height: 24px;
+  text-align: center;
+  color: #FFF;
+  background-color: rgba(0, 0, 0, 0.5);
+}
 .btn_start[data-v-b7fb01d0],
 .btn_stop[data-v-b7fb01d0] {
   margin-top: 15px;

@@ -1070,6 +1070,9 @@ video.grid[data-v-6b3f2b5c] {
 #self_video.min video[data-v-474eeb1e] {
   display: none;
 }
+#self_video.min .lb_selected[data-v-474eeb1e] {
+  display: none;
+}
 #camera[data-v-474eeb1e] {
   position: absolute;
   left: 0;
@@ -1098,6 +1101,18 @@ video.grid[data-v-6b3f2b5c] {
   border-radius: 0px;
   background: url(ico_restore_self.svg?fffbd558b59fd7dcdbabb1801368a308) no-repeat center;
   display: block !important;
+}
+.lb_selected[data-v-474eeb1e] {
+  position: absolute;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+  height: 16px;
+  font-size: 10px;
+  line-height: 14px;
+  text-align: center;
+  color: #FFF;
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 #controls[data-v-0087bfa6] {
@@ -1718,7 +1733,7 @@ video.grid[data-v-6b3f2b5c] {
   top: 10px;
   height: 24px;
   font-size: 12px;
-  line-height: 24px;
+  line-height: 22px;
   text-align: center;
   color: #FFF;
   background-color: rgba(0, 0, 0, 0.5);

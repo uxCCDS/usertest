@@ -25,10 +25,12 @@
 }
 #ptcover .instruction[data-v-2e352af5] {
   position: absolute;
-  width: 100%;
-  height: 80px;
+  width: 600px;
+  height: 100px;
   font-size: 14px;
+  left: 480px;
   bottom: 0px;
+  text-align: left
 }
 #ptcover .ver[data-v-2e352af5] {
   position: absolute;
@@ -555,11 +557,21 @@
   transform: rotate(0deg);
   pointer-events: none;
 }
-#active_speaker_layer[data-v-21418cca],
+#active_speaker_layer[data-v-21418cca]{
+  pointer-events: none;
+}
 #fl_active_speaker_layer[data-v-21418cca] {
   pointer-events: none;
 }
-#active_speaker_video[data-v-21418cca],
+#active_speaker_video1[data-v-21418cca],
+#active_speaker_video2[data-v-21418cca] {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
 #fl_active_speaker_video[data-v-21418cca] {
   width: 100%;
   height: 100%;
@@ -940,27 +952,30 @@ video.big[data-v-6b3f2b5c] {
     position: absolute;
     top: 50%;
     left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
+    width: 100%;
     height: auto;
     transform: translate(-50%, -50%);
 }
 video.big_fl[data-v-6b3f2b5c] {
-    
     width: 100%;
     height: auto;
     margin: 0 auto;
 }
 video.small[data-v-6b3f2b5c] {
+    position: absolute;
+    top: 50%;
+    left: 50%;
     width: 100%;
     height: auto;
-    margin: 0 auto;
+    transform: translate(-50%, -50%);
 }
 video.grid[data-v-6b3f2b5c] {
+    position: absolute;
+    top: 50%;
+    left: 50%;
     width: auto;
     height: 100%;
-    margin: 0 auto;
+    transform: translate(-50%, -50%);
 }
 .avatar[data-v-6b3f2b5c] {
     position: absolute;

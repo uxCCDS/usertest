@@ -45,8 +45,10 @@
   display: block;
   width: 1366px;
   height: 768px;
-  background: url(wallpaper.jpg?8941062110f4d10db7a16ca7289b8655) no-repeat center top;
+  background: rgb(13,40,69);
   background-size: contain;
+  border: 1px solid rgba(200,200,200,1);
+  border-top: none;
 }
 #taskbar[data-v-2e352af5] {
   position: absolute;
@@ -55,7 +57,7 @@
   display: block;
   width: 100%;
   height: 40px;
-  background: url(desktop_taskbar.svg?a24b2d0dcfc54076570bb264de1a9714) no-repeat center top;
+  background: url(desktop_taskbar.svg?23009577d22ae172b89515ddeef6bb81) no-repeat center top;
 }
 .alert[data-v-2e352af5] {
   display: none;
@@ -178,11 +180,11 @@
     -webkit-filter: blur(8px);
 }
 .normal[data-v-6884317b] {
-	width: 1280px;
-	height: 680px;
-	top: calc((100% - 720px)/2);
-	left: calc((100% - 1280px)/2);
-	border: 1px solid rgba(41,41,41,0.32);
+	width: 1366px;
+	height: 728px;
+	top: 0;
+	left: 0;
+	border: 0px solid rgba(41,41,41,0.32);
 }
 .fullscreen[data-v-6884317b]{
 	width: 100%;
@@ -1185,7 +1187,7 @@ video.grid[data-v-6b3f2b5c] {
   background-image: url(ico_ctrl_video.svg?a88826b4edd6f755f9e8525090c7579f);
 }
 #controls .btn_share[data-v-0087bfa6] {
-  background-image: url(ico_ctrl_share.svg?8578c6d060852aa7f612dc64c93a6f70);
+  background-image: url(ico_ctrl_share.svg?82990b8f40d19c100978cff979f94879);
 }
 #controls .btn_record[data-v-0087bfa6] {
   background-image: url(ico_ctrl_recorder.svg?90e79abaebd27b869cc08b9ff990ffc7);
@@ -1194,10 +1196,10 @@ video.grid[data-v-6b3f2b5c] {
   background-image: url(ico_ctrl_recorder_on.svg?d7802901d5a77fea2bdfaab6a765bff7);
 }
 #controls .btn_plist[data-v-0087bfa6] {
-  background-image: url(ico_ctrl_plist.svg?791b619690bc31f9eb5359b5bec541a5);
+  background-image: url(ico_ctrl_plist.svg?40ac409c8016ca93f5b5a2109430ddb0);
 }
 #controls .btn_chat[data-v-0087bfa6] {
-  background-image: url(ico_ctrl_chat.svg?d6d00e7f2946bd88a22c8d4479d4e84d);
+  background-image: url(ico_ctrl_chat.svg?eddb0185c12aac98175b0b9f40982fba);
 }
 #controls .btn_lock[data-v-0087bfa6] {
   background-image: url(ico_ctrl_lock.svg?0e64d56865eb2183aab0a60bfd6beef0);
@@ -1215,8 +1217,15 @@ video.grid[data-v-6b3f2b5c] {
 #controls .selected[data-v-0087bfa6] {
   background-color: #049FD9;
 }
-#controls .alert[data-v-0087bfa6] {
-  background-color: #e9691e;
+#controls .dotnew[data-v-0087bfa6] {
+  position: absolute;
+  top: 2px;
+  right: 2px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #F96452;
+  pointer-events: none;
 }
 
 #poptip[data-v-b01d683e] {

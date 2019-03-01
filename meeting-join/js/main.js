@@ -4,7 +4,7 @@ import Vuex from 'vuex';
 import Store from '../data/data.js';
 
 import Desktop from '../vue/desktop.vue';
-import Signin from '../vue/signin.vue';
+//import Signin from '../vue/signin.vue';
 import MainClient from '../vue/mainclient.vue';
 import Interstitial from '../vue/interstitial.vue';
 import ConTop from '../vue/con-top.vue';
@@ -22,11 +22,12 @@ import PopInfo from '../vue/pop-info.vue';
 import PopAudio from '../vue/pop-audio.vue';
 import PopAudioOption from '../vue/pop-audio-option.vue';
 import PopVideo from '../vue/pop-video.vue';
-import PopAVConnection from '../vue/pop-avconnection.vue';
+//import PopAVConnection from '../vue/pop-avconnection.vue';
 import PopShare from '../vue/pop-share.vue';
 import PopRecord from '../vue/pop-record.vue';
 import PopLockPeople from '../vue/pop-lockpeople.vue';
 import PopAVSetting from '../vue/pop-av-setting.vue';
+import PopCallin from '../vue/pop-callin.vue';
 import PanelHeader from '../vue/panel-header.vue';
 import PanelPlist from '../vue/panel-plist.vue';
 import PanelChat from '../vue/panel-chat.vue';
@@ -35,6 +36,7 @@ import ChatItem from '../vue/chat-item.vue';
 import LockPeopleItem from '../vue/lockpeople-item.vue';
 import TipSpinner from '../vue/tip-spinner.vue';
 import PreFlow from '../vue/pre-flow.vue';
+import MeetingApp from '../vue/meeting-app.vue';
 
 
 
@@ -62,7 +64,7 @@ import SvgIcoCam from '../vue/svg-ico-cam.vue';
 import SvgIcoSetting from '../vue/svg-ico-setting.vue';
 
 Vue.component('desktop',Desktop);
-Vue.component('Signin',Signin);
+//Vue.component('Signin',Signin);
 Vue.component('mainclient',MainClient);
 Vue.component('interstitial',Interstitial);
 Vue.component('con-top',ConTop);
@@ -80,11 +82,12 @@ Vue.component('pop-info',PopInfo);
 Vue.component('pop-audio',PopAudio);
 Vue.component('pop-audio-option',PopAudioOption);
 Vue.component('pop-video',PopVideo);
-Vue.component('pop-avconnection',PopAVConnection);
+//Vue.component('pop-avconnection',PopAVConnection);
 Vue.component('pop-share',PopShare);
 Vue.component('pop-record',PopRecord);
 Vue.component('pop-lockpeople',PopLockPeople);
 Vue.component('pop-av-setting',PopAVSetting);
+Vue.component('pop-callin',PopCallin);
 Vue.component('panel-header',PanelHeader);
 Vue.component('panel-plist',PanelPlist);
 Vue.component('panel-chat',PanelChat);
@@ -93,6 +96,7 @@ Vue.component('chat-item',ChatItem);
 Vue.component('lockpeople-item',LockPeopleItem);
 Vue.component('tip-spinner',TipSpinner);
 Vue.component('pre-flow',PreFlow);
+Vue.component('meeting-app',MeetingApp);
 
 Vue.component('svg-ico-activespeaker',SvgIcoActivespeaker);
 Vue.component('svg-ico-fullscreen',SvgIcoFullscreen);

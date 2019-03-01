@@ -94,13 +94,26 @@ h1,h2,h3,h4,h5,h6{
 	line-height: 32px;
 	border-radius: 16px;
 }
+.uibutton.s24 {
+	height: 24px;
+	font-size: 12px;
+	line-height: 24px;
+	border-radius: 12px;
+}
 .uibutton.green {
 	color: #FFF;
 	background-color: #2BC852;
 }
+.uibutton.green:hover {
+	background-color: #27B84B;
+}
 .uibutton.red {
 	color: #FFF;
 	background-color: #F5483F;
+}
+.uibutton.red:hover {
+	color: #FFF;
+	background-color: #EB4937;
 }
 .uibutton.disabled {
 	color: #FFF;
@@ -120,6 +133,18 @@ h1,h2,h3,h4,h5,h6{
 }
 .uicheckbox.on{
 	background: url(../img/checkbox_on.svg) no-repeat 0 2px;
+}
+
+.uiinput {
+	height: 32px;
+	font-size: 14px;
+	line-height: 32px;
+}
+
+.uiinput.pill {
+	text-align: center;
+	border-radius: 16px;
+	background-color: rgba(0,0,0,0.12);
 }
 
 /* ----- jquery UI ------ */

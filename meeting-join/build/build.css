@@ -164,7 +164,6 @@
 .selected_devices .itm[data-v-ecb1e3ba] {
   position: absolute;
   height: 36px;
-  display: none;
 }
 .selected_devices .itm .lb[data-v-ecb1e3ba]{
   font-size: 12px;
@@ -192,9 +191,15 @@
   justify-content: right;
 }
 .settings .btn-setting[data-v-ecb1e3ba]{
-    cursor: pointer;
-    position: absolute;
-    display: none;
+  cursor: pointer;
+  position: absolute;
+  height: 36px;
+  align-self: center;
+}
+.settings .btn-setting .lb[data-v-ecb1e3ba]{
+  font-size: 12px;
+  pointer-events: none;
+  margin-left: -6px;
 }
 .icobtn[data-v-ecb1e3ba]{
     display: inline-block;
@@ -258,8 +263,9 @@
   font-size: 12px;
   font-weight: bold;
   line-height: 64px;
-  padding: 0 14px;
-  background: url(ico_arrow_s_down.svg?898ae2e3271b96d5e854378e9ba0ef39) no-repeat right center;
+  padding: 0 16px 0 21px;
+  cursor: pointer;
+  background: url(ico_arrow_s_down.svg?898ae2e3271b96d5e854378e9ba0ef39) no-repeat right center, url(ico_device_blue.svg?a84466d5f243f508efa1ebecb58a23fd) no-repeat left center;
 }
 .btn_join_meeting[data-v-ecb1e3ba]{
   margin: 3px 4px;
@@ -326,7 +332,7 @@
   width:318px;
   height: 355px;
   bottom: -5px;
-  left:0;
+  left:calc((100% - 318px)/2);
   background: #FFF;
   box-shadow: 0px 0px 1px rgba(0,0,0,0.5), 0px 4px 12px rgba(0,0,0,0.15);
 }
@@ -457,7 +463,7 @@
 .controls .btn_video[data-v-ecb1e3ba] {
   background-image: url(ico_ctrl_video.svg?a88826b4edd6f755f9e8525090c7579f);
 }
-.controls .btn_video.off[data-v-ecb1e3ba] {
+.controls .off[data-v-ecb1e3ba] {
   background-color: #FF503C;
 }
 
@@ -1107,7 +1113,7 @@
 #warmup .controls .btn_video[data-v-21418cca] {
   background-image: url(ico_ctrl_video.svg?a88826b4edd6f755f9e8525090c7579f);
 }
-#warmup .controls .btn_video.off[data-v-21418cca] {
+#warmup .controls .off[data-v-21418cca] {
   background-color: #FF503C;
 }
 #warmup .controls .btn_x[data-v-21418cca] {
@@ -2636,7 +2642,7 @@ video.grid[data-v-6b3f2b5c] {
   position: absolute;
   width: 364px;
   bottom: -1px;
-	right: 0;
+	left:calc((100% - 364px)/2);
   background-color: #fff;
   transform: rotate(0deg);
   pointer-events: auto;

@@ -1570,7 +1570,8 @@ video.grid[data-v-6b3f2b5c] {
   background-image: url(ico_ctrl_mute.svg?f283eeb1e78b0466b48cd0ba2babcbc3);
 }
 #controls .btn_cam[data-v-0087bfa6] {
-  background-image: url(ico_ctrl_cam_disconnected.svg?2572a65ada4a494182d5b681cda8f003);
+  background-image: url(ico_ctrl_video.svg?a88826b4edd6f755f9e8525090c7579f);
+  /*background-image: url(../img/icon/ico_ctrl_cam_disconnected.svg);*/
 }
 #controls .btn_video[data-v-0087bfa6] {
   background-image: url(ico_ctrl_video.svg?a88826b4edd6f755f9e8525090c7579f);

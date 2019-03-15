@@ -439,7 +439,6 @@
   bottom: 82px;
   text-align: center;
   pointer-events: none;
-  overflow: hidden;
   justify-content: center;
 }
 .controls .btn[data-v-ecb1e3ba] {
@@ -466,7 +465,43 @@
 .controls .off[data-v-ecb1e3ba] {
   background-color: #FF503C;
 }
-
+.join_form[data-v-ecb1e3ba] {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #FFF url(temp_join_form.png?06b37dc7b67271b6acd9e8479b2cd2cf) no-repeat center;
+}
+.join_form .btn_next[data-v-ecb1e3ba] {
+  position: absolute;
+  pointer-events: auto;
+  cursor: pointer;
+  background-color: rgba(255, 0, 0, 0);
+  width: 166px;
+  height: 32px;
+  top: 319px;
+  left: 269px;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), 
+only screen and (min-device-pixel-ratio: 2) {
+.join_form[data-v-ecb1e3ba] {
+    background: #FFF url(temp_join_form@x2.png?21232e63c34a469e2015d980238e9089) no-repeat center;
+    background-size: 714px 587px;
+}
+}
+.fte_btn_bg[data-v-ecb1e3ba] {
+  position: absolute;
+  background: #F5A623;
+  width: 127px;
+  height: 66px;
+  border-radius: 33px;
+  top: -6px;
+  left: 201px;
+}
+.fte_disabled_mask[data-v-ecb1e3ba] {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
 
 #con_top[data-v-164fda63]{
 	position:relative;
@@ -3049,6 +3084,85 @@ textarea[data-v-2b85cdb8] {
   margin-right: 12px;
 }
 
+.tip-message[data-v-d34b32a4] {
+  position: absolute;
+  width: 100%;
+  bottom: 200px;
+  justify-content: center;
+  text-align: center;
+}
+.wrap[data-v-d34b32a4]{
+  height: 32px;
+  background: rgba(0,0,0,0.4);
+  border-radius: 16px;
+}
+.label[data-v-d34b32a4] {
+  height: 32px;
+  line-height: 32px;
+  font-size: 14px;
+  color: #FFF;
+  padding: 0 12px;
+}
+
+#coachmarkTip[data-v-75448564] {
+    position: absolute;
+    background-color: #F5A623;
+    border-radius: 5px;
+    transform:rotate(0deg);
+    transform:translate(-50%,-100%);
+    padding: 12px 15px;
+}
+.triangle[data-v-75448564] {
+    transform: translate(-50%,0);
+    position: absolute;
+    margin: 0 auto;
+    left: 50%;
+    width: 29px;
+    height: 12px;
+    background: url(tip_triangle_down_orange.svg?2238adafc30c3aa2706270bcb21bda7d) no-repeat 0 0;
+}
+.down[data-v-75448564] {
+    bottom: -12px;
+}
+.up[data-v-75448564] {
+    top: -12px;
+    transform: translate(-50%,0) rotate(180deg);
+}
+.content[data-v-75448564] {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  
+  color: #fff;
+}
+.txt[data-v-75448564]{
+  display: block;
+  line-height: 20px;
+  text-align: center;
+  font-size: 16px;
+}
+.button[data-v-75448564] {
+  line-height: 14px;
+  height: 28px;
+  line-height: 28px;
+  border-radius: 14px;
+  min-width: 72px;
+  background: #D69700;
+  pointer-events: auto;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+/* ----- animation ----- */
+.fade-enter-active[data-v-75448564], .fade-leave-active[data-v-75448564] {
+    transition: all .5s
+}
+.fade-enter[data-v-75448564], .fade-leave-to[data-v-75448564] /* .fade-leave-active in below version 2.1.8 */ {
+    opacity: 0
+}
+
+
 #pre-flow[data-v-161412e2] {
   position: absolute;
   width: 100%;
@@ -3063,17 +3177,12 @@ textarea[data-v-2b85cdb8] {
 .page1[data-v-161412e2] {
   background: url(temp_outlook.png?100b89f8a9bbb44932b2d065b8408829) no-repeat center top;
 }
-/*
-.page2 {
-  background: url(../img/temp_webpage1.png) no-repeat center top;
+.page2[data-v-161412e2] {
+  background: url(temp_webpage1.png?04811f05150cb8654af6bf0d14aa461e) no-repeat center top;
 }
-.page3 {
-  background: url(../img/temp_webpage2.png) no-repeat center top;
+.page3[data-v-161412e2] {
+  background: url(temp_webpage2.png?5dcefc05c4ba1fa4d20f6744e397b5b2) no-repeat center top;
 }
-.page4 {
-  background: url(../img/temp_webpage3.png) no-repeat center top;
-}
-*/
 .taskbaricon[data-v-161412e2] {
   position: absolute;
   width: 48px;
@@ -3095,16 +3204,36 @@ textarea[data-v-2b85cdb8] {
   left: 881px;
 }
 .page2 .btn_next[data-v-161412e2] {
-  width: 64px;
+  width: 56px;
   height: 24px;
   top: 688px;
-  left: 1038px;
+  left: 894px;
 }
 .btn_launch[data-v-161412e2] {
   width: 200px;
   height: 41px;
   top: 522px;
   left: 147px;
+}
+.loading[data-v-161412e2] {
+  position: absolute;
+  height: 4px;
+  width: 538px;
+  background-color: #d6d6d6;
+  top: 580px;
+  left: 414px;
+}
+.loading .bar[data-v-161412e2] {
+  position: absolute;
+  height: 100%;
+  width: 0;
+  background-color: #00b8e6;
+}
+.percent[data-v-161412e2] {
+  position: absolute;
+  top: 588px;
+  right: 414px;
+  text-align: right;
 }
 
 

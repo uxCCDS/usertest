@@ -1,0 +1,16 @@
+
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Video-Centric-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Video-Centric-5.0" transform="translate(-629.000000, -195.000000)">
+            <g id="Dialog" transform="translate(613.000000, 108.000000)">
+                <g id="control" transform="translate(16.000000, 87.000000)">
+                    <path d="M8,16 C12.418278,16 16,12.418278 16,8 C16,3.581722 12.418278,0 8,0 C3.581722,0 0,3.581722 0,8 C0,12.418278 3.581722,16 8,16 Z" id="bg" fill="#049FD9"></path>
+                    <circle id="icon" fill="#FFFFFF" cx="8" cy="8" r="3"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

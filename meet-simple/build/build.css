@@ -274,6 +274,17 @@
     top: 116px;
     left: 260px;
 }
+.meetingalert .timer[data-v-2e352af5] {
+  position: absolute;
+    background: #2bc852;
+    color: #FFF;
+    text-align: center;
+    font-size: 11px;
+    width: 73px;
+    height: 18px;
+    left: 12px;
+    top: 8px;
+}
 
 
 #mainclient[data-v-6884317b]{

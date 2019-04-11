@@ -719,6 +719,11 @@
   position: absolute;
   width: 100%;
   height: 100%;
+}
+.join_form .img[data-v-ecb1e3ba] {
+  position: absolute;
+  width: 100%;
+  height: 100%;
   background: #FFF url(temp_join_form.png?29beda1fa0c52998afb3c7c56bfa518a) no-repeat center;
 }
 .join_form .btn_next[data-v-ecb1e3ba] {

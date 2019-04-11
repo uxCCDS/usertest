@@ -146,7 +146,7 @@
 }
 .page_1_2 .jumpy_tip[data-v-2e352af5] {
   position: absolute;
-  top: 576px;
+  top: 571px;
   left: 80px;
   width: 352px;
   height: 131px;
@@ -160,7 +160,7 @@
 }
 50%   {transform: translate3d(0,6%,0);
 }
-100%  {transform: translate3d(0,12%,0);
+100%  {transform: translate3d(0,9%,0);
 }
 }
 .page_1_2 .btn_web[data-v-2e352af5] {
@@ -271,7 +271,7 @@
 .download_2_8[data-v-2e352af5] {
   width: 100%;
     top: 702px;
-    left: 48px;
+    left: 29px;
   background: url(0328_2__8.png?159f4a203f7bdfa9cb88c55a0a90cb0d) no-repeat center top;
 }
 .download_2_8 .btn_next[data-v-2e352af5] {

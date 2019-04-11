@@ -725,7 +725,7 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  background: rgba(255, 255, 255, .75) url(temp_join_form.png?29beda1fa0c52998afb3c7c56bfa518a) no-repeat center;
+  background: rgba(255, 255, 255, .9) url(temp_join_form.png?29beda1fa0c52998afb3c7c56bfa518a) no-repeat center;
 }
 .join_form .btn_next[data-v-ecb1e3ba] {
     position: absolute;
@@ -3510,7 +3510,7 @@ textarea[data-v-2b85cdb8] {
   display: none;
 }
 .page1[data-v-74b84468] {
-  background: url(temp_app1.png?822936d8a9789419afecaae381b6db3a) no-repeat center top;
+  background: url(temp_app1.png?38927b2c4807114be5e82c3a75afc796) no-repeat center top;
   background-size: 360px 670px;
 }
 .page2[data-v-74b84468] {
@@ -3557,7 +3557,7 @@ textarea[data-v-2b85cdb8] {
 @media only screen and (-webkit-min-device-pixel-ratio: 2), 
 only screen and (min-device-pixel-ratio: 2) {
 .page1[data-v-74b84468] {
-    background: url(temp_app1@x2.png?2b81902f6044d77ddac7374618e81709) no-repeat center top;
+    background: url(temp_app1@x2.png?97a6c18adfc73e8bebdb0bf5097b0246) no-repeat center top;
     background-size: 360px 670px;
 }
 .page2[data-v-74b84468] {

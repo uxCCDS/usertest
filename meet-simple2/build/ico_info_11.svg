@@ -1,0 +1,19 @@
+
+<svg width="11px" height="11px" viewBox="0 0 11 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="In-Meeting-Layout" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AV-dialog-2.0" transform="translate(-938.000000, -359.000000)">
+            <g id="One-Click-Dialog" transform="translate(377.000000, 69.000000)">
+                <g id="video-section" transform="translate(322.000000, 56.000000)">
+                    <g id="info" transform="translate(0.000000, 231.000000)">
+                        <g id="info_12" transform="translate(238.000000, 2.000000)">
+                            <rect id="bound" x="0" y="0" width="12" height="12"></rect>
+                            <g id="icon" transform="translate(1.000000, 1.000000)" fill="#292929" fill-rule="nonzero">
+                                <path d="M5.5,10 C7.98528137,10 10,7.98528137 10,5.5 C10,3.01471863 7.98528137,1 5.5,1 C3.01471863,1 1,3.01471863 1,5.5 C1,7.98528137 3.01471863,10 5.5,10 Z M5.5,11 C2.46243388,11 0,8.53756612 0,5.5 C0,2.46243388 2.46243388,0 5.5,0 C8.53756612,0 11,2.46243388 11,5.5 C11,8.53756612 8.53756612,11 5.5,11 Z M5.5,4 C5.77614237,4 6,3.77614237 6,3.5 C6,3.22385763 5.77614237,3 5.5,3 C5.22385763,3 5,3.22385763 5,3.5 C5,3.77614237 5.22385763,4 5.5,4 Z M5.5,5 C5.22385763,5 5,5.22385763 5,5.5 L5,7.5 C5,7.77614237 5.22385763,8 5.5,8 C5.77614237,8 6,7.77614237 6,7.5 L6,5.5 C6,5.22385763 5.77614237,5 5.5,5 Z" id="fill"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

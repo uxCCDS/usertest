@@ -733,7 +733,7 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  background: rgba(255, 255, 255, .7) url(temp_join_form.png?775b336eec70914b29e9ad61d33750f6) no-repeat center;
+  background: rgba(255, 255, 255, .5) url(temp_join_form.png?775b336eec70914b29e9ad61d33750f6) no-repeat center;
 }
 .join_form .btn_next[data-v-ecb1e3ba] {
     position: absolute;

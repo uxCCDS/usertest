@@ -1,0 +1,19 @@
+
+<svg width="6px" height="10px" viewBox="0 0 6 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Video-Centric" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.0" transform="translate(-931.000000, -228.000000)">
+            <g id="item" transform="translate(874.000000, 213.000000)">
+                <g id="call-muted" transform="translate(54.000000, 14.000000)">
+                    <rect id="bound" x="0" y="0" width="12" height="12"></rect>
+                    <g id="wave" transform="translate(4.000000, 1.000000)" stroke="#049FD9" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M1.49333333,10 C3.02474667,8.63266667 3.73370667,6.817 3.73333333,5 C3.73296,3.184 3.024,1.36666667 1.49333333,0" id="Stroke-1"></path>
+                        <path d="M0,8.33333333 C0.961706667,7.375 1.48773333,6.19033333 1.49333333,5 C1.49893333,3.80966667 0.984106667,2.61333333 0,1.66666667" id="Stroke-3"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

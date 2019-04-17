@@ -100,7 +100,15 @@
   background: url(0328_1__1.png?f2eae1bd3b806c144326382ed6cdef07) no-repeat center top;
 }
 .page_1_2[data-v-2e352af5] {
-  background: url(0328_1__2.png?0bfd76cffc83cc3dd0220f5e3210adcd) no-repeat center top;
+  background: url(0328_1__2.png?8e800cef45268efe48d23601f35b4f1f) no-repeat center top;
+}
+.page_1_2 .title[data-v-2e352af5] {
+    position: absolute;
+    top: 78px;
+    left: 623px;
+    width: 200px;
+    font-size: 16px;
+    font-weight: bold;
 }
 .page_1b_1[data-v-2e352af5] {
   background: url(0328_1b__1.png?94e574344299fc12b4d9e584f5827c07) no-repeat center top;
@@ -771,7 +779,7 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  background: rgba(255, 255, 255, .5) url(temp_join_form.png?f637103919a01b4f5aa58133327c7036) no-repeat center;
+  background: rgba(255, 255, 255, .5) url(temp_join_form.png?b41c8009782a4ced851093d3b5d15d21) no-repeat center;
 }
 .join_form .btn_next[data-v-ecb1e3ba] {
     position: absolute;
@@ -782,6 +790,14 @@
     height: 32px;
     top: 337px;
     left: 213px;
+}
+.join_form .title[data-v-ecb1e3ba] {
+  position: absolute;
+    top: 32px;
+    left: 102px;
+    width: 500px;
+    text-align: center;
+    font-size: 28px;
 }
 .fte_btn_bg[data-v-ecb1e3ba] {
   position: absolute;

@@ -65,6 +65,15 @@
   height: 40px;
   background: url(desktop_taskbar.svg?23009577d22ae172b89515ddeef6bb81) no-repeat center top;
 }
+#taskbar .ie[data-v-2e352af5]{
+  position: absolute;
+  top: -1px;
+  left: 440px;
+  display: block;
+  width: 48px;
+  height: 40px;
+  background: url(desktop_taskbar_ie.png?2ab3244becf380e0da87b36f3bd87541) no-repeat center top;
+}
 .alert[data-v-2e352af5] {
   display: none;
   width: 100%;
@@ -94,7 +103,7 @@
   background: url(0328_1__2.png?0bfd76cffc83cc3dd0220f5e3210adcd) no-repeat center top;
 }
 .page_1b_1[data-v-2e352af5] {
-  background: url(0328_1b__1.png?b3a79a69f519a9e4eb96896dfe9569f0) no-repeat center top;
+  background: url(0328_1b__1.png?94e574344299fc12b4d9e584f5827c07) no-repeat center top;
 }
 .page_1b_1 .title[data-v-2e352af5] {
   position: absolute;
@@ -105,7 +114,7 @@
   font-size: 32px;
 }
 .page_1b_2[data-v-2e352af5] {
-  background: url(0328_1b__2.png?72c97c1c16d85c5b91b29e20cf079a28) no-repeat center top;
+  background: url(0328_1b__2.png?98442e6e5e8551111e26d059c0b52c5e) no-repeat center top;
 }
 .page_1b_2 .title[data-v-2e352af5],
 .page_1b_3 .title[data-v-2e352af5] {
@@ -175,7 +184,7 @@
   left: 87px;
   width: 397px;
   height: 131px;
-  background: url(0328_1__2_2.png?b0e7e234d903100d818fd609dfaa51ef) no-repeat center top;
+  background: url(0328_1__2_2.png?9fd9707202352b4081588d33cd82504f) no-repeat center top;
 
   transform-origin: 50% 50%;
   animation: jump-data-v-2e352af5 .5s linear alternate infinite;
@@ -195,16 +204,16 @@
     left: 744px;
 }
 .page_1b_1 .btn_next[data-v-2e352af5] {
+  width: 83px;
+    height: 43px;
+    top: 168px;
+    left: 386px;
+}
+.page_1b_2 .btn_next[data-v-2e352af5] {
   width: 283px;
     height: 43px;
     top: 452px;
     left: 572px;
-}
-.page_1b_2 .btn_next[data-v-2e352af5] {
-    width: 80px;
-    height: 43px;
-    top: 167px;
-    left: 387px;
 }
 .page_1b_3 .btn_next[data-v-2e352af5] {
   width: 156px;

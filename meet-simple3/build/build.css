@@ -116,7 +116,7 @@
 .page_1b_1 .title[data-v-2e352af5] {
   position: absolute;
   top: 100px;
-  left: 469px;
+  left: 440px;
   width: 500px;
   text-align: center;
   font-size: 32px;
@@ -413,7 +413,6 @@
   transform: translate(-50%, -50%) scale(1.1);
   width: auto;
   height: 100%;
-  filter: blur(15px);
 }
 
 

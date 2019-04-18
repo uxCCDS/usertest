@@ -252,6 +252,14 @@
     top: 620px;
     left: 666px;
 }
+.page_1b_2 .white_header[data-v-2e352af5] {
+  background-color: rgba(255,255,255,0.6);
+  position: absolute;
+    left: 81px;
+    top: 62px;
+    width: 1202px;
+    height: 160px;
+}
 .page_2_1 .btn_next[data-v-2e352af5] {
       width: 156px;
     height: 50px;
@@ -1541,7 +1549,7 @@
   transition: all 0.3s ease-out;
 }
 #callme_calling .tip[data-v-21418cca]{
-  width: 332px;
+  width: 405px;
   height: 64px;
   border-radius: 32px;
   margin-bottom: 60px;
@@ -1580,8 +1588,21 @@
   background: url(ico_calling.svg?eea642c2371f5f4f7829978981654f15) no-repeat;
 }
 #callme_calling .tip .lb[data-v-21418cca]{
-  line-height: 64px;
+  line-height: 43px;
   font-size: 16px;
+  margin-left: 18px;
+}
+#callme_calling .tip .line2[data-v-21418cca]{
+  color:#999;
+  line-height: 0;
+  font-size: 12px;
+}
+#callme_calling .tip .cancel[data-v-21418cca]{
+  position: absolute;
+  top: 22px;
+  right: 32px;
+  color:#F5483F;
+  font-size: 12px;
   margin-left: 10px;
 }
 

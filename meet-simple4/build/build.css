@@ -138,6 +138,9 @@
 .page_1b_4[data-v-2e352af5] {
   background: url(0328_1b__4.png?ec177d606ba4140c1b4b6dba83086bba) no-repeat center top;
 }
+.page_1b_5[data-v-2e352af5] {
+  background: url(0328_1b__5.png?87aa070784d9c10b4355e325e5d7d76a) no-repeat center top;
+}
 .page_2_1[data-v-2e352af5] {
   background: url(0328_2__1.png?6eaa29deaf0652c28d88aff78b4e44d4) no-repeat center top;
 }
@@ -259,6 +262,12 @@
     top: 62px;
     width: 1202px;
     height: 160px;
+}
+.page_1b_4 .btn_next[data-v-2e352af5] {
+  width: 52px;
+    height: 52px;
+    top: 581px;
+    left: 835px;
 }
 .page_2_1 .btn_next[data-v-2e352af5] {
       width: 156px;

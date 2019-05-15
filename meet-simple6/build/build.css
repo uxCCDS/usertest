@@ -1954,7 +1954,7 @@ video.grid[data-v-6b3f2b5c] {
   text-align: center;
   pointer-events: auto;
   overflow: hidden;
-  padding: 50px;
+  padding: 50px 100px;
 }
 #controls .btn[data-v-0087bfa6] {
   transition: all 0.3s ease-out;
@@ -2027,6 +2027,11 @@ video.grid[data-v-6b3f2b5c] {
 }
 #controls .off[data-v-0087bfa6] {
   background-color: #FF503C;
+}
+#controls .mute_outline[data-v-0087bfa6] {
+  background-image: url(ico_ctrl_mute_red.svg?99f786f002685a9f9fed72e14b6bf355);
+  box-shadow: 0 0 1px rgba(255, 80, 60, 1) inset, 0 0 1.5px rgba(255, 80, 60, 1) inset;
+  background-color: rgba(255, 80, 60, .1);
 }
 #controls .selected[data-v-0087bfa6] {
   background-color: #049FD9;

@@ -609,14 +609,18 @@
   border-left: 1px solid rgba(0,0,0,0.08);
 }
 .device_menu[data-v-ecb1e3ba]{
+  transition: all 0.3s ease-out;
   position: absolute;
   align-self: center;
   width:318px;
   height: 355px;
-  bottom: -5px;
+  bottom: -500px;
   left:calc((100% - 318px)/2);
   background: #FFF;
   box-shadow: 0px 0px 1px rgba(0,0,0,0.5), 0px 4px 12px rgba(0,0,0,0.15);
+}
+.device_menu.show[data-v-ecb1e3ba]{
+  bottom: -5px;
 }
 .device_menu .head[data-v-ecb1e3ba]{
   height: 40px;

@@ -1807,6 +1807,7 @@ video.grid[data-v-6b3f2b5c] {
   border-radius: 0;
 }
 #self_video.interstitial_paired[data-v-474eeb1e] {
+  transition-duration: 0.5s;
   position: absolute;
   top: 0 !important;
   left: 150% !important;

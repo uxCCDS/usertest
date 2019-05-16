@@ -1954,11 +1954,10 @@ video.grid[data-v-6b3f2b5c] {
   text-align: center;
   pointer-events: auto;
   overflow: hidden;
-  padding: 50px 100px;
 }
 #controls .btn[data-v-0087bfa6] {
+  position: absolute;
   transition: all 0.3s ease-out;
-  display: inline-block;
   width: 52px;
   height: 52px;
   background-color: rgba(41, 41, 41, 0.9);
@@ -1970,7 +1969,7 @@ video.grid[data-v-6b3f2b5c] {
   cursor: pointer;
   text-align: center;
   vertical-align: middle;
-  margin: 1px 4px;
+  margin: 1px 0;
 }
 #controls .active[data-v-0087bfa6] {
   background-color: #292929;
@@ -2029,9 +2028,13 @@ video.grid[data-v-6b3f2b5c] {
   background-color: #FF503C;
 }
 #controls .mute_outline[data-v-0087bfa6] {
-  background-image: url(ico_ctrl_mute_red.svg?99f786f002685a9f9fed72e14b6bf355);
-  box-shadow: 0 0 1px rgba(255, 80, 60, 1) inset, 0 0 1.5px rgba(255, 80, 60, 1) inset;
-  background-color: rgba(255, 80, 60, .1);
+  background-image: url(ico_ctrl_mute_red.svg?4a070aed58a510bb91391e279ecfe907);
+  box-shadow: 0 0 2px #F5483F inset, 0 0 2px #F5483F inset;
+  background-color: rgba(245, 72, 63, .25);
+}
+#controls .mute_outline[data-v-0087bfa6]:hover {
+  background-image: url(ico_ctrl_mute.svg?f283eeb1e78b0466b48cd0ba2babcbc3);
+  background-color: #FF503C;
 }
 #controls .selected[data-v-0087bfa6] {
   background-color: #049FD9;

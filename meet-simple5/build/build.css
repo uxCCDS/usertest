@@ -558,7 +558,6 @@
 }
 .section_pairing[data-v-ecb1e3ba] {
   transition: all 0.5s ease-out;
-  pointer-events: none;
   position: absolute;
   height: 100%;
   width:100%;
@@ -682,6 +681,22 @@
 .device_menu .itm .lb[data-v-ecb1e3ba]{
   text-align: left;
   pointer-events: none;
+}
+.device_menu .itm .lb_disconnect[data-v-ecb1e3ba]{
+  text-align: right;
+  color: #F5483F;
+  cursor: pointer;
+  position: absolute;
+  right: 12px;
+  top: 15px;
+}
+.device_menu .ico_help[data-v-ecb1e3ba]{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  right: 10px;
+  top: 8px;
+  background: url(ico_help.svg?da6a95426f4c5af61d785c753b6df0f8) no-repeat center;
 }
 .thumb1[data-v-ecb1e3ba]{
   background-image: url(temp_paired_device1.png?4939f37f7353a754d0a04c0468352a82);

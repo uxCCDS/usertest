@@ -2028,9 +2028,8 @@ video.grid[data-v-6b3f2b5c] {
   background-color: #FF503C;
 }
 #controls .mute_outline[data-v-0087bfa6] {
-  background-image: url(ico_ctrl_mute_red.svg?4a070aed58a510bb91391e279ecfe907);
-  box-shadow: 0 0 2px #F5483F inset, 0 0 2px #F5483F inset;
-  background-color: rgba(245, 72, 63, .25);
+  background-image: url(muted.svg?cba5047bf95a4d62663b62e3e24a885c);
+  background-color: transparent;
 }
 #controls .mute_outline[data-v-0087bfa6]:hover {
   background-image: url(ico_ctrl_mute.svg?f283eeb1e78b0466b48cd0ba2babcbc3);

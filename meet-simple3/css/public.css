@@ -94,6 +94,12 @@ h1,h2,h3,h4,h5,h6{
 	line-height: 32px;
 	border-radius: 16px;
 }
+.uibutton.s28 {
+	height: 28px;
+	font-size: 14px;
+	line-height: 28px;
+	border-radius: 14px;
+}
 .uibutton.s24 {
 	height: 24px;
 	font-size: 12px;
@@ -107,6 +113,13 @@ h1,h2,h3,h4,h5,h6{
 .uibutton.green:hover {
 	background-color: #27B84B;
 }
+.uibutton.blue {
+	color: #FFF;
+	background-color: #049FD9;
+}
+.uibutton.blue:hover {
+	background-color: #0095CC;
+}
 .uibutton.red {
 	color: #FFF;
 	background-color: #F5483F;
@@ -116,8 +129,8 @@ h1,h2,h3,h4,h5,h6{
 	background-color: #EB4937;
 }
 .uibutton.disabled {
-	color: #FFF;
-	background-color: #ccc;
+	color: rgba(0,0,0,0.2);
+	background-color: rgba(0,0,0,0.04);
 	pointer-events: none;
 	cursor: default;
 }

@@ -100,15 +100,15 @@
   background: url(0328_1__1.png?f2eae1bd3b806c144326382ed6cdef07) no-repeat center top;
 }
 .page_1_2[data-v-2e352af5] {
-  background: url(0328_1__2.png?8361ed402c39be6bf3107264f5880aaa) no-repeat center top;
+  background: url(0328_1__2.png?736d903d9280956134966160d4099804) no-repeat center top;
 }
 .page_1_2 .title[data-v-2e352af5] {
     position: absolute;
-    top: 112px;
-    left: 623px;
-    width: 200px;
-    font-size: 16px;
-    font-weight: bold;
+    top: 93px;
+    left: 564px;
+    color: #000;
+    width: 300px;
+    font-size: 21px;
 }
 .page_1b_1[data-v-2e352af5] {
   background: url(0328_1b__1.png?c693d4fb53e1ceabd5f09dfd52042a3b) no-repeat center top;
@@ -179,7 +179,7 @@
 }
 .page_1_2 .txt_white_msk[data-v-2e352af5] {
   position: absolute;
-  top: 397px;
+  top: 414px;
     left: 287px;
     width: 800px;
     height: 81px;
@@ -207,7 +207,7 @@
 .page_1_2 .btn_web[data-v-2e352af5] {
     width: 256px;
     height: 43px;
-    top: 401px;
+    top: 421px;
     left: 744px;
 }
 .page_1b_1 .btn_next[data-v-2e352af5] {
@@ -285,7 +285,7 @@
 .fte_2_5 .btn_nx[data-v-2e352af5] {
     width: 107px;
     height: 35px;
-    top: 143px;
+    top: 106px;
     left: 163px;
 }
 .fte_2_6[data-v-2e352af5] {
@@ -295,8 +295,8 @@
 .fte_2_6 .btn_nx[data-v-2e352af5] {
     width: 112px;
     height: 35px;
-    top: 142px;
-    left: 122px;
+    top: 117px;
+    left: 115px;
 }
 .fte_2_7[data-v-2e352af5] {
   top: 529px;
@@ -339,10 +339,10 @@
   display: none;
 }
 .fte_2_5[data-v-2e352af5] {
-  background: url(0328_2__5.png?a3656bf69d69376a9303d84a8f99a992) no-repeat center top;
+  background: url(0328_2__5.png?868861f05091397c7c2a88eec7528a52) no-repeat center top;
 }
 .fte_2_6[data-v-2e352af5] {
-  background: url(0328_2__6.png?a3ca233ef79c84e5b2be58c4eebb4017) no-repeat center top;
+  background: url(0328_2__6.png?1678ce46f8410e02200609de28ee4a43) no-repeat center top;
 }
 .fte_2_7[data-v-2e352af5] {
   background: url(0328_2__7.png?72cd85294c6655e34f30f2df1c3abd2c) no-repeat center top;
@@ -399,7 +399,7 @@
     width: 54px;
     height: 24px;
     left: 917px;
-    top: 401px;
+    top: 406px;
     line-height: 24px;
     border-radius: 12px;
     z-index: 100;
@@ -3674,12 +3674,12 @@ textarea[data-v-2b85cdb8] {
   background-size: 360px 670px;
 }
 .page2.nologin[data-v-74b84468] {
-  background: url(temp_app2-no-login.png?096d17125a1bc442d1d406f7cdc89416) no-repeat center top;
+  background: url(temp_app2-no-login.png?56ed7c1c076d084f219f86704cda26d2) no-repeat center top;
   background-size: 360px 670px;
 }
 .btngroup[data-v-74b84468]  {
   position: absolute;
-  top: 361px;
+  top: 366px;
   right: 14px;
   width:55px;
   height:24px;
@@ -3725,7 +3725,7 @@ only screen and (min-device-pixel-ratio: 2) {
     background-size: 360px 670px;
 }
 .page2.nologin[data-v-74b84468] {
-    background: url(temp_app2-no-login@x2.png?eff95ab42c7c46a281b64759b3bf02f7) no-repeat center top;
+    background: url(temp_app2-no-login@x2.png?7581301bc187d34541bebc1d6fce1975) no-repeat center top;
     background-size: 360px 670px;
 }
 }

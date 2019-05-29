@@ -105,10 +105,11 @@
 .page_1_2 .title[data-v-2e352af5] {
     position: absolute;
     top: 93px;
-    left: 564px;
+    left: 526px;
     color: #000;
     width: 300px;
     font-size: 21px;
+    text-align: center;
 }
 .page_1b_1[data-v-2e352af5] {
   background: url(0328_1b__1.png?c693d4fb53e1ceabd5f09dfd52042a3b) no-repeat center top;
@@ -125,7 +126,7 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  background: url(0328_1b__2.png?37ab4af1fc1c087bef5d8bcf2c48e90c) no-repeat center top;
+  background: url(0328_1b__2.png?36746df3a4f0cd84bca133018952c93e) no-repeat center top;
 }
 .page_1b_2 .title[data-v-2e352af5] {
   position: absolute;
@@ -405,12 +406,12 @@
     z-index: 100;
 }
 .videoholder[data-v-2e352af5] {
-  background: #F5F5F5; 
-  position: absolute;
-    width: 1202px;
-    height: 687px;
-    left: 81px;
-    top: 62px;
+  background: #F5F5F5;
+    position: absolute;
+    width: 700px;
+    height: 480px;
+    left: 346px;
+    top: 235px;
     overflow: hidden;
 }
 #camera_thin_client[data-v-2e352af5] {

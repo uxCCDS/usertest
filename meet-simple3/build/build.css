@@ -163,6 +163,17 @@
 .page_3b_2[data-v-2e352af5] {
   background: url(0328_1__2_0.png?2fdee04684e27379c0afc8c7a7596e5e) no-repeat center top;
 }
+.page_3b_2 .btn_check[data-v-2e352af5]{
+  position: absolute;
+  top: 123px;
+  left: 469px;
+  width: 400px;
+  height: 24px;
+  background: url(checkbox_on.svg?b6e9e19f849f1c9833068feb09647ceb) no-repeat left center;
+}
+.page_3b_2_2[data-v-2e352af5] {
+  background: url(0328_1__2_0_2.png?c7d0597359de43ac0fe641cfebf3ed64) no-repeat center top;
+}
 .btn[data-v-2e352af5] {
   position: absolute;
   pointer-events: auto;
@@ -431,6 +442,16 @@
   transform: translate(-50%, -50%) scale(-1.1, 1.1);
   width: auto;
   height: 100%;
+}
+.lb_calendar2[data-v-2e352af5] {
+  position: absolute;
+  font-size: 12px;
+  width: 230px;
+  top: 92px;
+  left: 364px;
+}
+.lb_calendar2 span[data-v-2e352af5] {
+  color: #666;
 }
 
 

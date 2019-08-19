@@ -74,6 +74,9 @@
   height: 40px;
   background: url(desktop_taskbar_ie.png?2ab3244becf380e0da87b36f3bd87541) no-repeat center top;
 }
+.slideshow[data-v-2e352af5] {
+  display: none;
+}
 .alert[data-v-2e352af5] {
   display: none;
   width: 100%;
@@ -100,7 +103,7 @@
   background: url(0328_1__1.png?f2eae1bd3b806c144326382ed6cdef07) no-repeat center top;
 }
 .page_1_2[data-v-2e352af5] {
-  background: url(0328_1__2.png?84d185990c1ef3ebff12a6dc6c22f63f) no-repeat center top;
+  background: url(0328_1__2.png?97f306c6968f1d85d3117d1f982006f1) no-repeat center top;
 }
 .page_1_2 .title[data-v-2e352af5] {
     position: absolute;
@@ -149,7 +152,7 @@
   background: url(0328_2__3.png?69c658363dcc130750113f3e9ff3c011) no-repeat center top;
 }
 .page_2_4[data-v-2e352af5] {
-  background: url(0328_2__4.png?7df23dfa1d9d48a6bdbf12ddef20821a) no-repeat center top;
+  background: url(0328_2__4.png?e9a389e5911d53a3afb95a7a475d0ed4) no-repeat center top;
 }
 .page_2_9[data-v-2e352af5] {
   background: url(0328_2__9.png?c7c29528c323895a70ba32951a90c623) no-repeat center top;
@@ -161,7 +164,7 @@
   background: url(0328_2__11.png?516dddfcde0b32b6414477d0c8b05bc4) no-repeat center top;
 }
 .page_3b_2[data-v-2e352af5] {
-  background: url(0328_1__2_0.png?2fdee04684e27379c0afc8c7a7596e5e) no-repeat center top;
+  background: url(0328_1__2_0.png?6fcb881997abd721bf45605ca23944e7) no-repeat center top;
 }
 .page_3b_2 .btn_check[data-v-2e352af5]{
   position: absolute;
@@ -172,7 +175,10 @@
   background: url(checkbox_on.svg?b6e9e19f849f1c9833068feb09647ceb) no-repeat left center;
 }
 .page_3b_2_2[data-v-2e352af5] {
-  background: url(0328_1__2_0_2.png?c7d0597359de43ac0fe641cfebf3ed64) no-repeat center top;
+  background: url(0328_1__2_0_2.png?1de159b8e4a6e15ba3150cea66b2bacc) no-repeat center top;
+}
+.page_mdp[data-v-2e352af5] {
+  background: url(page_mdp.png?7e2fa36c6a3b171b3b346dffde07a223) no-repeat center top;
 }
 .btn[data-v-2e352af5] {
   position: absolute;
@@ -204,9 +210,9 @@
   position: absolute;
   top: 571px;
   left: 87px;
-  width: 397px;
+  width: 454px;
   height: 131px;
-  background: url(0328_1__2_2.png?9fd9707202352b4081588d33cd82504f) no-repeat center top;
+  background: url(0328_1__2_2.png?79dfbf25d61e18bc74dd5b07fd36224a) no-repeat center top;
 
   transform-origin: 50% 50%;
   animation: jump-data-v-2e352af5 .5s linear alternate infinite;
@@ -228,7 +234,7 @@
 .page_1b_1 .btn_next[data-v-2e352af5] {
       width: 283px;
     height: 43px;
-    top: 428px;
+    top: 364px;
     left: 544px;
 }
 .page_1b_2 .access_cam[data-v-2e352af5] {
@@ -294,8 +300,8 @@
     left: 605px;
 }
 .fte_2_5[data-v-2e352af5] {
-      top: 370px;
-    left: 261px;
+      top: 275px;
+    left: 295px;
 }
 .fte_2_5 .btn_nx[data-v-2e352af5] {
     width: 107px;
@@ -304,8 +310,8 @@
     left: 163px;
 }
 .fte_2_6[data-v-2e352af5] {
-  left: 748px;
-    top: 230px;
+      left: 348px;
+    top: 338px;
 }
 .fte_2_6 .btn_nx[data-v-2e352af5] {
     width: 112px;
@@ -314,26 +320,26 @@
     left: 115px;
 }
 .fte_2_7[data-v-2e352af5] {
-  top: 529px;
-  left: 535px
+  top: 554px;
+    left: 483px;
 }
 .fte_2_7 .btn_nx[data-v-2e352af5] {
     width: 144px;
     height: 35px;
-    top: 96px;
+    top: 87px;
     left: 166px;
 }
 .fte_2_7 .btn_nx2[data-v-2e352af5] {
     width: 64px;
     height: 35px;
-    top: -31px;
-    left: 346px;
+    top: -36px;
+    left: 382px;
 }
 .page_2_4 .btn_next[data-v-2e352af5] {
-      width: 189px;
-    height: 50px;
-    top: 154px;
-    left: 925px;
+        width: 119px;
+    height: 39px;
+    top: 329px;
+    left: 1060px;
 }
 .page_2_10 .btn_next[data-v-2e352af5] {
   width: 266px;
@@ -360,13 +366,13 @@
   display: none;
 }
 .fte_2_5[data-v-2e352af5] {
-  background: url(0328_2__5.png?868861f05091397c7c2a88eec7528a52) no-repeat center top;
+  background: url(0328_2__5.png?7c48ceec913070719ed89aa03e662b68) no-repeat center top;
 }
 .fte_2_6[data-v-2e352af5] {
-  background: url(0328_2__6.png?1678ce46f8410e02200609de28ee4a43) no-repeat center top;
+  background: url(0328_2__6.png?af18adc736f7379480c9950d28ebf7be) no-repeat center top;
 }
 .fte_2_7[data-v-2e352af5] {
-  background: url(0328_2__7.png?72cd85294c6655e34f30f2df1c3abd2c) no-repeat center top;
+  background: url(0328_2__7.png?d8350cfeea9198430d0b4c4cc873f563) no-repeat center top;
 }
 .download[data-v-2e352af5] {
   position: absolute;
@@ -409,21 +415,6 @@
     height: 18px;
     left: 12px;
     top: 8px;
-}
-.scenario3a .timer2[data-v-2e352af5] {
-  pointer-events: none;
-    position: absolute;
-    background: #2bc852;
-    color: #FFF;
-    text-align: center;
-    font-size: 11px;
-    width: 54px;
-    height: 24px;
-    left: 917px;
-    top: 406px;
-    line-height: 24px;
-    border-radius: 12px;
-    z-index: 100;
 }
 .videoholder[data-v-2e352af5] {
   background: #F5F5F5;

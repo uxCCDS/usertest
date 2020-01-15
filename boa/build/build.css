@@ -3861,18 +3861,40 @@ video.grid[data-v-5bc593d4] {
 }
 
 
-#plist_panel[data-v-86a062e4] {
+#plist_panel[data-v-8582fce8] {
     width: 100%;
     background-color: #FFF;
     pointer-events: auto;
 }
-.scrollpane[data-v-86a062e4] {
+.scrollpane[data-v-8582fce8] {
     width: 100%;
     overflow-y: scroll;
     overflow-x: hidden;
 }
-.list[data-v-86a062e4] {
+.list[data-v-8582fce8] {
     width: 100%;
+}
+.search[data-v-8582fce8] {
+  margin: 12px 16px 12px 16px;
+  background-color: #F2F4F5;
+  height: 28px;
+  border-radius: 14px;
+  display: flex;
+  align-items: center;
+  padding-left: 8px;
+}
+.search span[data-v-8582fce8] {
+  height: 12px;
+  line-height: 11px;
+  font-size: 12px;
+  font-family: 'Segoe UI';
+  color: #777;
+  margin-left: 8px;
+}
+.search_12[data-v-8582fce8] {
+    width: 12px;
+    height: 12px;
+    background: url(ico_search.svg?c28fc01539ef120dcbff831b639ce4ac) no-repeat center;
 }
 
 #chat_panel[data-v-4907b06c] {

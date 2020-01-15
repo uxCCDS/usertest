@@ -3924,27 +3924,27 @@ textarea[data-v-4907b06c] {
 }
 
 
-.itm[data-v-564ddc84] {
+.itm[data-v-1b3fdbf6] {
     width: 100%;
     height: 40px;
     line-height: 40px;
 }
-.itm[data-v-564ddc84]:hover {
+.itm[data-v-1b3fdbf6]:hover {
     background-color: #F9F9F9;
 }
-.col1[data-v-564ddc84] {
+.col1[data-v-1b3fdbf6] {
     width: 44px;
 }
-.col2[data-v-564ddc84] {
+.col2[data-v-1b3fdbf6] {
     width: 28px;
 }
-.col4[data-v-564ddc84] {
+.col4[data-v-1b3fdbf6] {
     width: 32px;
 }
-.col5[data-v-564ddc84] {
+.col5[data-v-1b3fdbf6] {
     width: 40px;
 }
-.avatar[data-v-564ddc84] {
+.avatar[data-v-1b3fdbf6] {
     position: absolute;
     width: 28px;
     height: 28px;
@@ -3958,12 +3958,12 @@ textarea[data-v-4907b06c] {
     background-color: #F5F5F6;
     text-align: center;
 }
-.avatar span[data-v-564ddc84]{
+.avatar span[data-v-1b3fdbf6]{
     line-height: 28px;
     font-size: 10px;
     color: #33AC96;
 }
-.ico_host[data-v-564ddc84] {
+.ico_host[data-v-1b3fdbf6] {
     position: absolute;
     width: 12px;
     height: 12px;
@@ -3971,83 +3971,83 @@ textarea[data-v-4907b06c] {
     left: 34px;
     background: url(ico_plist_wbx_ball.svg?9c3654f4cec44e0c9c90dfda74168f79) no-repeat center;
 }
-.ico_audio[data-v-564ddc84] {
+.ico_audio[data-v-1b3fdbf6] {
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
     background-position: center;
 }
-.lb_name[data-v-564ddc84] {
+.lb_name[data-v-1b3fdbf6] {
     overflow:hidden;
     white-space:nowrap;
     text-overflow:ellipsis;
     font-size: 12px;
     line-height: 40px;
 }
-.lb_name.me[data-v-564ddc84]{
+.lb_name.me[data-v-1b3fdbf6]{
     font-family: 'Segoe UI Semibold';
 }
-.lb_name span[data-v-564ddc84] {
+.lb_name span[data-v-1b3fdbf6] {
     color: #6A6B6C;
 }
-.ico_video[data-v-564ddc84] {
+.ico_video[data-v-1b3fdbf6] {
     position: absolute;
     width: 12px;
     height: 100%;
     background: url(ico_plist_cam.svg?7cd279b31a987a50c5bc91ee783483b8) no-repeat center;
 }
-.ico_muted[data-v-564ddc84] {
+.ico_muted[data-v-1b3fdbf6] {
     position: absolute;
     width: 16px;
     height: 100%;
     background: url(ico_plist_muted.svg?f51cd04b3df1fc53ae12b32b33d483c9) no-repeat center;
 }
-.export2build_0[data-v-564ddc84] {
+.export2build_0[data-v-1b3fdbf6] {
     background: url(ico_plist_active_speaker.svg?e12cbe221ef0cddf639dfb329b176ec5);
 }
-.export2build_1[data-v-564ddc84] {
+.export2build_1[data-v-1b3fdbf6] {
     background: url(ico_plist_mobile.svg?4ae721f9cb1da88619398f0833ea149b);
 }
-.export2build_2[data-v-564ddc84] {
+.export2build_2[data-v-1b3fdbf6] {
     background: url(ico_plist_pc.svg?b59d82a288d4fda387cc4fff4d1c9146);
 }
-.export2build_3[data-v-564ddc84] {
+.export2build_3[data-v-1b3fdbf6] {
     background: url(ico_plist_pc_muted.svg?46eda736f1a53053bcc759496c4c96e4);
 }
-.export2build_4[data-v-564ddc84] {
+.export2build_4[data-v-1b3fdbf6] {
     background: url(ico_plist_phone.svg?66b5f7e04a20f8412620d0d86c881404);
 }
-.export2build_5[data-v-564ddc84] {
+.export2build_5[data-v-1b3fdbf6] {
     background: url(ico_plist_phone_muted.svg?f889218e59be14e59f1edbd11e751b28);
 }
-.speaking[data-v-564ddc84] {
+.speaking[data-v-1b3fdbf6] {
     transform-origin:50% 50%;
     position: absolute;
     top: 3px;
     left: 12px;
-    border-radius: 17px;
-    width: 34px;
-    height: 34px;
-    background: rgba(29, 196, 242, 0);
+    border-radius: 14px;
+    width: 28px;
+    height: 28px;
+    background: rgba(29, 196, 242, 1);
     z-index: 0;
     display: flex;
     justify-content: center;
     align-items: center;
 
-    animation: active-speaker-indicator-data-v-564ddc84 1.8s linear infinite;
-    -webkit-animation: active-speaker-indicator-data-v-564ddc84 1.8s linear infinite;
+    animation: active-speaker-indicator-data-v-1b3fdbf6 1.8s linear infinite;
+    -webkit-animation: active-speaker-indicator-data-v-1b3fdbf6 1.8s linear infinite;
 }
-.speaking1[data-v-564ddc84] {
+.speaking1[data-v-1b3fdbf6] {
 }
-.speaking2[data-v-564ddc84] {
+.speaking2[data-v-1b3fdbf6] {
     animation-delay: .9s;
     -webkit-animation-delay: .9s;
 }
-@keyframes active-speaker-indicator-data-v-564ddc84
+@keyframes active-speaker-indicator-data-v-1b3fdbf6
 {
-0% { transform: scale(.8); opacity: 1;
+0% { transform: scale(1); opacity: 1;
 }
-100% { transform: scale(1.25); opacity: 0;
+100% { transform: scale(1.5); opacity: 0;
 }
 }
 

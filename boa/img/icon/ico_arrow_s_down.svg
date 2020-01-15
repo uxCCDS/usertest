@@ -1,0 +1,16 @@
+
+<svg width="8px" height="4px" viewBox="0 0 8 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="V2-flow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AV-main-flows" transform="translate(-543.000000, -697.000000)">
+            <g id="Group-2" transform="translate(329.000000, 681.000000)" fill="#000000">
+                <g id="audio">
+                    <g id="navigation/arrow-down_8" transform="translate(214.000000, 14.000000)">
+                        <g id="arrow-down_8" transform="translate(0.000000, 2.000000)">
+                            <path d="M4.0001,4.00003 C3.8841,4.00003 3.7681,3.96003 3.6751,3.87903 L0.1751,0.87903 C-0.0349,0.70003 -0.0599,0.38403 0.1211,0.17503 C0.3011,-0.03597 0.6161,-0.05897 0.8251,0.12103 L4.0001,2.84103 L7.1751,0.12103 C7.3841,-0.05897 7.7011,-0.03597 7.8791,0.17503 C8.0601,0.38403 8.0351,0.70003 7.8251,0.87903 L4.3251,3.87903 C4.2321,3.96003 4.1161,4.00003 4.0001,4.00003" id="fill" transform="translate(4.000100, 2.000008) scale(1, -1) rotate(180.000000) translate(-4.000100, -2.000008) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -3924,27 +3924,27 @@ textarea[data-v-4907b06c] {
 }
 
 
-.itm[data-v-0fbc6f33] {
+.itm[data-v-d313c3e8] {
     width: 100%;
     height: 40px;
     line-height: 40px;
 }
-.itm[data-v-0fbc6f33]:hover {
+.itm[data-v-d313c3e8]:hover {
     background-color: #F9F9F9;
 }
-.col1[data-v-0fbc6f33] {
+.col1[data-v-d313c3e8] {
     width: 44px;
 }
-.col2[data-v-0fbc6f33] {
+.col2[data-v-d313c3e8] {
     width: 28px;
 }
-.col4[data-v-0fbc6f33] {
+.col4[data-v-d313c3e8] {
     width: 32px;
 }
-.col5[data-v-0fbc6f33] {
+.col5[data-v-d313c3e8] {
     width: 40px;
 }
-.avatar[data-v-0fbc6f33] {
+.avatar[data-v-d313c3e8] {
     position: absolute;
     width: 28px;
     height: 28px;
@@ -3958,12 +3958,12 @@ textarea[data-v-4907b06c] {
     background-color: #F5F5F6;
     text-align: center;
 }
-.avatar span[data-v-0fbc6f33]{
+.avatar span[data-v-d313c3e8]{
     line-height: 28px;
     font-size: 10px;
     color: #33AC96;
 }
-.ico_host[data-v-0fbc6f33] {
+.ico_host[data-v-d313c3e8] {
     position: absolute;
     width: 12px;
     height: 12px;
@@ -3971,56 +3971,56 @@ textarea[data-v-4907b06c] {
     left: 34px;
     background: url(ico_plist_wbx_ball.svg?9c3654f4cec44e0c9c90dfda74168f79) no-repeat center;
 }
-.ico_audio[data-v-0fbc6f33] {
+.ico_audio[data-v-d313c3e8] {
     width: 100%;
     height: 100%;
     background-repeat: no-repeat;
     background-position: center;
 }
-.lb_name[data-v-0fbc6f33] {
+.lb_name[data-v-d313c3e8] {
     overflow:hidden;
     white-space:nowrap;
     text-overflow:ellipsis;
     font-size: 12px;
     line-height: 40px;
 }
-.lb_name.me[data-v-0fbc6f33]{
+.lb_name.me[data-v-d313c3e8]{
     font-family: 'Segoe UI Semibold';
 }
-.lb_name span[data-v-0fbc6f33] {
+.lb_name span[data-v-d313c3e8] {
     color: #6A6B6C;
 }
-.ico_video[data-v-0fbc6f33] {
+.ico_video[data-v-d313c3e8] {
     position: absolute;
     width: 12px;
     height: 100%;
     background: url(ico_plist_cam.svg?7cd279b31a987a50c5bc91ee783483b8) no-repeat center;
 }
-.ico_muted[data-v-0fbc6f33] {
+.ico_muted[data-v-d313c3e8] {
     position: absolute;
     width: 16px;
     height: 100%;
     background: url(ico_plist_muted.svg?f51cd04b3df1fc53ae12b32b33d483c9) no-repeat center;
 }
-.export2build_0[data-v-0fbc6f33] {
+.export2build_0[data-v-d313c3e8] {
     background: url(ico_plist_active_speaker.svg?e12cbe221ef0cddf639dfb329b176ec5);
 }
-.export2build_1[data-v-0fbc6f33] {
+.export2build_1[data-v-d313c3e8] {
     background: url(ico_plist_mobile.svg?4ae721f9cb1da88619398f0833ea149b);
 }
-.export2build_2[data-v-0fbc6f33] {
+.export2build_2[data-v-d313c3e8] {
     background: url(ico_plist_pc.svg?b59d82a288d4fda387cc4fff4d1c9146);
 }
-.export2build_3[data-v-0fbc6f33] {
+.export2build_3[data-v-d313c3e8] {
     background: url(ico_plist_pc_muted.svg?46eda736f1a53053bcc759496c4c96e4);
 }
-.export2build_4[data-v-0fbc6f33] {
+.export2build_4[data-v-d313c3e8] {
     background: url(ico_plist_phone.svg?66b5f7e04a20f8412620d0d86c881404);
 }
-.export2build_5[data-v-0fbc6f33] {
+.export2build_5[data-v-d313c3e8] {
     background: url(ico_plist_phone_muted.svg?f889218e59be14e59f1edbd11e751b28);
 }
-.speaking[data-v-0fbc6f33] {
+.speaking[data-v-d313c3e8] {
     transform-origin:50% 50%;
     position: absolute;
     top: 3px;
@@ -4033,37 +4033,24 @@ textarea[data-v-4907b06c] {
     display: flex;
     justify-content: center;
     align-items: center;
+
+    animation: active-speaker-indicator-data-v-d313c3e8 2s linear infinite;
+    -webkit-animation: active-speaker-indicator-data-v-d313c3e8 2s linear infinite;
 }
-.speaking1[data-v-0fbc6f33] {
-    animation: active-speaker-indicator1-data-v-0fbc6f33 2s linear infinite;
-    -webkit-animation: active-speaker-indicator1-data-v-0fbc6f33 2s linear infinite;
+.speaking1[data-v-d313c3e8] {
 }
-.speaking2[data-v-0fbc6f33] {
-    animation: active-speaker-indicator2-data-v-0fbc6f33 2s linear infinite;
-    -webkit-animation: active-speaker-indicator2-data-v-0fbc6f33 2s linear infinite;
+.speaking2[data-v-d313c3e8] {
+    animation-delay:1s;
+    -webkit-animation-delay:1s;
 }
-@keyframes active-speaker-indicator1-data-v-0fbc6f33
+@keyframes active-speaker-indicator-data-v-d313c3e8
 {
 0% { transform: scale(.8); opacity: 1;
-}
-33.333% { transform: scale(1.1); opacity: .5;
-}
-66.666% { transform: scale(1.2); opacity: 0;
 }
 100% { transform: scale(1.2); opacity: 0;
 }
 }
-@keyframes active-speaker-indicator2-data-v-0fbc6f33
-{
-0% { transform: scale(.8); opacity: 1;
-}
-33.333% { transform: scale(.8); opacity: 1;
-}
-66.666% { transform: scale(1.1); opacity: .5;
-}
-100% { transform: scale(1.2); opacity: 0;
-}
-}
+
 
 
 

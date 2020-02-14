@@ -1,0 +1,28 @@
+
+<svg width="10px" height="10px" viewBox="0 0 10 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Video-Centric" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="2.1" transform="translate(-579.000000, -635.000000)">
+            <g id="App" transform="translate(171.000000, 44.000000)">
+                <g id="video-area" transform="translate(1.000000, 61.000000)">
+                    <g id="video-strip" transform="translate(73.000000, 500.000000)">
+                        <g id="attendee" transform="translate(279.000000, 1.000000)">
+                            <g id="hover-control">
+                                <g id="button" transform="translate(50.000000, 24.000000)">
+                                    <g id="chat_10" transform="translate(5.000000, 5.000000)">
+                                        <rect id="Rectangle-11" x="0" y="0" width="10" height="10"></rect>
+                                        <g id="icon" transform="translate(1.000000, 0.000000)" stroke="#565656" stroke-linejoin="round">
+                                            <path d="M4.23529412,0.529411765 C1.89608824,0.529411765 0,2.42576471 0,4.76470588 C0,5.53526471 0.209117647,6.25552941 0.568588235,6.87785294 L0,9 L2.12188235,8.43141176 C2.74447059,8.79088235 3.46473529,9 4.23529412,9 C6.5745,9 8.47058824,7.10364706 8.47058824,4.76470588 C8.47058824,2.42576471 6.5745,0.529411765 4.23529412,0.529411765 Z" id="Page-1"></path>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,96 @@
+
+<svg width="1440px" height="40px" viewBox="0 0 1440 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="1434" y="0" width="6" height="40"></rect>
+        <filter x="-8.3%" y="-1.2%" width="116.7%" height="102.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.32 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <circle id="path-3" cx="19" cy="20" r="11"></circle>
+        <polyline id="path-4" points="0.0833333333 8.36668041 0.0833333333 13.6720825 6.56166667 14.5703918 6.56166667 8.39323711 0.0833333333 8.36668041"></polyline>
+        <filter x="-23.2%" y="-24.2%" width="146.3%" height="150.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polyline id="path-6" points="6.56166667 1.50086598 0.0833333333 2.44849485 0.0833333333 7.69369072 6.56166667 7.66696907 6.56166667 1.50086598"></polyline>
+        <filter x="-23.2%" y="-26.8%" width="146.3%" height="151.0%" filterUnits="objectBoundingBox" id="filter-7">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polyline id="path-8" points="15.9236667 7.62837113 15.9236667 0.131463918 7.31933333 1.39002062 7.31933333 7.66383505 15.9236667 7.62837113"></polyline>
+        <filter x="-17.4%" y="-22.0%" width="134.9%" height="142.0%" filterUnits="objectBoundingBox" id="filter-9">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <polyline id="path-10" points="7.31933333 14.6754639 15.9236667 15.8685361 15.9236667 8.43183505 7.31933333 8.39637113 7.31933333 14.6754639"></polyline>
+        <filter x="-17.4%" y="-20.1%" width="134.9%" height="142.2%" filterUnits="objectBoundingBox" id="filter-11">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="0" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-Windows" transform="translate(0.000000, -860.000000)">
+            <g id="task-bar" transform="translate(0.000000, 860.000000)">
+                <g id="Group">
+                    <g id="bg-2">
+                        <g id="bg">
+                            <rect fill-opacity="0.64" fill="#222222" x="0" y="0" width="1440" height="40"></rect>
+                            <g id="end" fill="black" fill-opacity="1">
+                                <use filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="search" transform="translate(48.000000, 0.000000)">
+                        <rect id="bg" fill-opacity="0.08" fill="#FFFFFF" x="0" y="0" width="344" height="40"></rect>
+                        <g id="circle" stroke-linejoin="square">
+                            <circle stroke="#FFFFFF" stroke-width="3" cx="19" cy="20" r="9.5"></circle>
+                            <circle stroke="#AFAFAF" stroke-width="1.5" cx="19" cy="20" r="10.25"></circle>
+                        </g>
+                        <text id="Type-here-to-search" opacity="0.64" font-family="CiscoSansTT Regular, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" line-spacing="22" fill="#FFFFFF">
+                            <tspan x="38" y="23">Type here to search</tspan>
+                        </text>
+                        <path d="M322,14 C322,13.449 322.449,13 323,13 L326,13 C326.551,13 327,13.449 327,14 L327,22 C327,22.552 326.551,23 326,23 L323,23 C322.449,23 322,22.552 322,22 L322,14 Z M320,20 L320,23 C320,24.103 320.897,25 322,25 L322,25 L327,25 C328.103,25 329,24.103 329,23 L329,23 L329,20 L330,20 L330,23 C330,24.657 328.657,26 327,26 L327,26 L325,26 L325,27 L327,27 L327,28 L322,28 L322,27 L324,27 L324,26 L322,26 C320.343,26 319,24.657 319,23 L319,23 L319,20 L320,20 Z M326,12 C327.104,12 328,12.896 328,14 L328,14 L328,22 C328,23.104 327.104,24 326,24 L326,24 L323,24 C321.896,24 321,23.104 321,22 L321,22 L321,14 C321,12.896 321.896,12 323,12 L323,12 Z" id="icon" fill-opacity="0.64" fill="#FFFFFF"></path>
+                    </g>
+                    <g id="icon" transform="translate(406.000000, 13.000000)" fill="#FFFFFF">
+                        <path d="M16,0 L16,14 L4,14 L4,0 L16,0 Z M15,1 L5,1 L5,13 L15,13 L15,1 Z M20,2 L20,12 L17,12 L17,11 L19,11 L19,3 L17,3 L17,2 L20,2 Z M3,2 L3,3 L1,3 L1,11 L3,11 L3,12 L0,12 L0,2 L3,2 Z"></path>
+                    </g>
+                    <g id="windows" opacity="0.88" transform="translate(16.000000, 12.000000)">
+                        <g id="Fill-1">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-4"></use>
+                        </g>
+                        <g id="Fill-2">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                        </g>
+                        <g id="Fill-3">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-8"></use>
+                        </g>
+                        <g id="Fill-4">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-10"></use>
+                        </g>
+                    </g>
+                    <g id="time" transform="translate(1316.000000, 3.000000)" fill="#FFFFFF" font-family="CiscoSansTT Regular, SegoeUI, Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" font-size="12" font-weight="normal" line-spacing="16">
+                        <text>
+                            <tspan x="7.37011719" y="13">06:00 PM</tspan>
+                            <tspan x="1.44921875" y="29">28/02/2018</tspan>
+                        </text>
+                    </g>
+                    <g id="icon" transform="translate(1291.000000, 16.000000)" fill="#FFFFFF">
+                        <polygon points="6.5 3e-05 0 6.50003 0.708 7.20703 6.5 1.41403 12.293 7.20703 13 6.50003"></polygon>
+                    </g>
+                    <g id="icon" transform="translate(1398.000000, 12.000000)" fill="#FFFFFF">
+                        <path d="M0,0 L0,13.001 L5,13.001 L8,16 L11,13.001 L16,13.001 L16,0 L0,0 Z M1,1 L15,1 L15,12.001 L11,12.001 L10.586,12.001 L10.293,12.293 L8,14.586 L5.707,12.293 L5.414,12.001 L5,12.001 L1,12.001 L1,1 Z"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

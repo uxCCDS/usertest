@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" id="Comp-1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 160 160" style="white-space: pre;">
+    <defs>
+        <radialGradient id="Gradient-0" cx="-43" cy="-37" r="107.54" fx="-43" fy="-37" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ea7e9c"/>
+            <stop offset="0.185" stop-color="#f55f70"/>
+            <stop offset="0.508" stop-color="#ff3f45"/>
+            <stop offset="0.808" stop-color="#df3943"/>
+            <stop offset="1" stop-color="#bf3240"/>
+        </radialGradient>
+    </defs>
+    <style>
+@keyframes a0_t { 0% { transform: translate(80px,80px) rotate(0deg); animation-timing-function: cubic-bezier(0.565,0,0.667,1); } 22.2% { transform: translate(80px,80px) rotate(-13.214deg); animation-timing-function: cubic-bezier(0.333,0,0.624,0.292); } 33.3333% { transform: translate(80px,80px) rotate(0deg); animation-timing-function: cubic-bezier(0.301,0.708,0.667,1); } 42.1999% { transform: translate(80px,80px) rotate(8.463deg); animation-timing-function: cubic-bezier(0.383,0,0.653,0.691); } 61.1333% { transform: translate(80px,80px) rotate(0deg); animation-timing-function: cubic-bezier(0.384,0.767,0.667,1); } 73.3333% { transform: translate(80px,80px) rotate(-2.441deg); animation-timing-function: cubic-bezier(0.333,0,0.531,1); } 100% { transform: translate(80px,80px) rotate(0deg); } }
+@keyframes a1_t { 0% { transform: scaleX(1); animation-timing-function: cubic-bezier(0.548,0,0.517,1); } 33.3333% { transform: scaleX(0.6); animation-timing-function: cubic-bezier(0.28,0,0.44,1); } 66.6666% { transform: scaleX(1.00806); animation-timing-function: cubic-bezier(0.333,0,0.578,1); } 100% { transform: scaleX(1); } }
+@keyframes Layer-1_t { 0% { transform: scaleY(1); animation-timing-function: cubic-bezier(0.548,0,0.517,1); } 33.3333% { transform: scaleY(0.6); animation-timing-function: cubic-bezier(0.287,0,0.44,1); } 66.6666% { transform: scaleY(1.03715); animation-timing-function: cubic-bezier(0.333,0,0.549,1); } 100% { transform: scaleY(1); } }
+    </style>
+    <g id="Layer-1" style="animation: 1.5s linear infinite both a0_t;">
+        <g style="animation: 1.5s linear infinite both a1_t;">
+            <g transform="translate(80,80)" style="animation: 1.5s linear infinite both Layer-1_t;">
+                <g id="Group-1" opacity="1" transform="translate(0,0) scale(0.95,0.95)">
+                    <path id="Path-1" fill="url(#Gradient-0)" d="M40,-75.524C17.909,-75.524,8.44,-65.892,0,-52.057C-6.037,-63.727,-18.16,-75.524,-40,-75.524C-62.091,-75.524,-80,-57.616,-80,-35.524C-80,-27.494,-76.314,-7.328,-60.459,15.728C-51.643,28.548,-35.804,48.671,0,75.524C31.329,50.909,51.643,28.548,60.459,15.728C76.314,-7.328,80,-27.494,80,-35.524C80,-57.616,62.091,-75.524,40,-75.524Z" fill-opacity="1" fill-rule="nonzero"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

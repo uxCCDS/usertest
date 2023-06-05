@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" id="Comp-1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 160 160" style="white-space: pre;">
+    <defs>
+        <radialGradient id="Gradient-0" cx="-19" cy="-12" r="116.816" fx="-19" fy="-12" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ffef70"/>
+            <stop offset="0.558" stop-color="#f8c340"/>
+            <stop offset="0.854" stop-color="#f19710"/>
+            <stop offset="0.92" stop-color="#ec9411"/>
+            <stop offset="0.985" stop-color="#e69212"/>
+        </radialGradient>
+        <linearGradient id="Gradient-1" x1="0" y1="0" x2="100" y2="0" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#c26a10"/>
+            <stop offset="0.487" stop-color="#ad6510"/>
+            <stop offset="0.975" stop-color="#986010"/>
+        </linearGradient>
+        <linearGradient id="Gradient-2" x1="0" y1="0" x2="100" y2="0" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fbd85a"/>
+            <stop offset="0.487" stop-color="#f9ca49"/>
+            <stop offset="0.975" stop-color="#f7bc38"/>
+        </linearGradient>
+        <linearGradient id="Gradient-3" x1="-0.359" y1="12.48" x2="-0.359" y2="-12.833" gradientUnits="userSpaceOnUse">
+            <stop offset="0.025" stop-color="#986010"/>
+            <stop offset="0.513" stop-color="#ad6510"/>
+            <stop offset="1" stop-color="#c26a10"/>
+        </linearGradient>
+        <linearGradient id="Gradient-4" x1="-8.205" y1="-10.219" x2="7.685" y2="8.364" gradientUnits="userSpaceOnUse">
+            <stop offset="0.047" stop-color="#b78c2e"/>
+            <stop offset="0.335" stop-color="#a9771f"/>
+            <stop offset="0.437" stop-color="#9b6210"/>
+            <stop offset="0.719" stop-color="#865610"/>
+            <stop offset="1" stop-color="#704b10"/>
+        </linearGradient>
+        <linearGradient id="Gradient-5" x1="-8.362" y1="-10.219" x2="7.528" y2="8.364" gradientUnits="userSpaceOnUse">
+            <stop offset="0.047" stop-color="#b78c2e"/>
+            <stop offset="0.335" stop-color="#a9771f"/>
+            <stop offset="0.437" stop-color="#9b6210"/>
+            <stop offset="0.719" stop-color="#865610"/>
+            <stop offset="1" stop-color="#704b10"/>
+        </linearGradient>
+        <linearGradient id="Gradient-6" x1="-9.434" y1="14.168" x2="10.496" y2="-10.34" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#b3efff"/>
+            <stop offset="0.142" stop-color="#91e1ff"/>
+            <stop offset="0.284" stop-color="#6fd4ff"/>
+            <stop offset="0.907" stop-color="#47c3ff"/>
+            <stop offset="1" stop-color="#1fb2ff"/>
+        </linearGradient>
+    </defs>
+    <style>
+@keyframes a0_t { 0% { transform: translateX(78.593px); } 21.1333% { transform: translateX(73.593px); } 42.1999% { transform: translateX(78.593px); } 58.8666% { transform: translateX(81.783px); } 73.3333% { transform: translateX(85.389px); } 91.1333% { transform: translateX(80.968px); } 100% { transform: translateX(78.593px); } }
+@keyframes control_t { 0% { transform: translate(-50.593px,29px); animation-timing-function: cubic-bezier(0.503,0,0.743,0.508); } 21.1333% { transform: translate(-50.593px,40.246px); animation-timing-function: cubic-bezier(0.241,0.508,0.497,1); } 42.1999% { transform: translate(-50.593px,50.5px); animation-timing-function: cubic-bezier(0.333,0,0.481,1); } 58.8666% { transform: translate(-50.593px,50.5px); animation-timing-function: cubic-bezier(0.44,0,0.32,1); } 91.1333% { transform: translate(-50.593px,29.125px); animation-timing-function: cubic-bezier(0.51,6.882,0.667,1); } 100% { transform: translate(-50.593px,29px); } }
+@keyframes Layer-8_t { 0% { transform: translate(51.359px,81.565px); animation-timing-function: cubic-bezier(0.5,0,0.77,1); } 30% { transform: translate(51.359px,76.565px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 58.8666% { transform: translate(51.359px,76.565px); animation-timing-function: cubic-bezier(0.44,0,0.32,1); } 91.1333% { transform: translate(51.359px,81.565px); } 100% { transform: translate(51.359px,81.565px); } }
+@keyframes Shape-1_o { 0% { opacity: 1; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 30% { opacity: 0.5; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 58.8667% { opacity: 0.5; animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 91.1333% { opacity: 1; } 100% { opacity: 1; } }
+@keyframes Path-1_d { 0% { d: path('M-33.424,12.655C-34.393,12.655,-35.37,12.344,-36.192,11.701C-38.15,10.171,-38.497,7.343,-36.967,5.385C-28.008,-6.081,-14.534,-12.656,0,-12.656C14.535,-12.656,28.009,-6.081,36.967,5.385C38.497,7.343,38.15,10.171,36.192,11.701C34.235,13.232,31.406,12.885,29.876,10.926C22.635,1.659,11.746,-3.656,0,-3.656C-11.745,-3.656,-22.634,1.659,-29.875,10.926C-30.762,12.062,-32.087,12.655,-33.424,12.655Z'); } 30% { d: path('M-28.97,7.583C-29.917,7.377,-30.805,6.865,-31.472,6.062C-33.06,4.15,-32.796,1.312,-30.884,-0.275C-19.689,-9.571,-9.651,-12.159,-0.642,-12.159C5,-12.159,18.674,-9.947,29.925,0.04C31.783,1.69,31.108,4.826,29.15,6.356C27.193,7.887,24.776,7.131,22.833,5.581C14.779,-0.845,5.422,-3.159,-0.642,-3.159C-10.21,-3.159,-16.087,-0.864,-25.135,6.649C-26.244,7.57,-27.663,7.868,-28.97,7.583Z'); } 58.8667% { d: path('M-28.97,7.583C-29.917,7.377,-30.805,6.865,-31.472,6.062C-33.06,4.15,-32.796,1.312,-30.884,-0.275C-19.689,-9.571,-9.651,-12.159,-0.642,-12.159C5,-12.159,18.674,-9.947,29.925,0.04C31.783,1.69,31.108,4.826,29.15,6.356C27.193,7.887,24.776,7.131,22.833,5.581C14.779,-0.845,5.422,-3.159,-0.642,-3.159C-10.21,-3.159,-16.087,-0.864,-25.135,6.649C-26.244,7.57,-27.663,7.868,-28.97,7.583Z'); } 91.1333% { d: path('M-33.424,12.655C-34.393,12.655,-35.37,12.344,-36.192,11.701C-38.15,10.171,-38.497,7.343,-36.967,5.385C-28.008,-6.081,-14.534,-12.656,0,-12.656C14.535,-12.656,28.009,-6.081,36.967,5.385C38.497,7.343,38.15,10.171,36.192,11.701C34.235,13.232,31.406,12.885,29.876,10.926C22.635,1.659,11.746,-3.656,0,-3.656C-11.745,-3.656,-22.634,1.659,-29.875,10.926C-30.762,12.062,-32.087,12.655,-33.424,12.655Z'); } 100% { d: path('M-33.424,12.655C-34.393,12.655,-35.37,12.344,-36.192,11.701C-38.15,10.171,-38.497,7.343,-36.967,5.385C-28.008,-6.081,-14.534,-12.656,0,-12.656C14.535,-12.656,28.009,-6.081,36.967,5.385C38.497,7.343,38.15,10.171,36.192,11.701C34.235,13.232,31.406,12.885,29.876,10.926C22.635,1.659,11.746,-3.656,0,-3.656C-11.745,-3.656,-22.634,1.659,-29.875,10.926C-30.762,12.062,-32.087,12.655,-33.424,12.655Z'); } }
+@keyframes a1_t { 0% { transform: translateX(78.593px); } 21.1333% { transform: translateX(73.593px); } 42.1999% { transform: translateX(78.593px); } 58.8666% { transform: translateX(81.783px); } 73.3333% { transform: translateX(85.389px); } 91.1333% { transform: translateX(80.968px); } 100% { transform: translateX(78.593px); } }
+@keyframes control-2_t { 0% { transform: translate(-50.593px,29px); animation-timing-function: cubic-bezier(0.503,0,0.743,0.508); } 21.1333% { transform: translate(-50.593px,40.246px); animation-timing-function: cubic-bezier(0.241,0.508,0.497,1); } 42.1999% { transform: translate(-50.593px,50.5px); animation-timing-function: cubic-bezier(0.333,0,0.481,1); } 58.8666% { transform: translate(-50.593px,50.5px); animation-timing-function: cubic-bezier(0.44,0,0.32,1); } 91.1333% { transform: translate(-50.593px,29.125px); animation-timing-function: cubic-bezier(0.51,6.882,0.667,1); } 100% { transform: translate(-50.593px,29px); } }
+@keyframes Layer-8-2_t { 0% { transform: translate(51.359px,81.565px); animation-timing-function: cubic-bezier(0.5,0,0.77,1); } 30% { transform: translate(51.359px,76.565px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 58.8666% { transform: translate(51.359px,76.565px); animation-timing-function: cubic-bezier(0.44,0,0.32,1); } 91.1333% { transform: translate(51.359px,81.565px); } 100% { transform: translate(51.359px,81.565px); } }
+@keyframes Path-1-2_d { 0% { d: path('M-33.424,12.655C-34.393,12.655,-35.37,12.344,-36.192,11.701C-38.15,10.171,-38.497,7.343,-36.967,5.385C-28.008,-6.081,-14.534,-12.656,0,-12.656C14.535,-12.656,28.009,-6.081,36.967,5.385C38.497,7.343,38.15,10.171,36.192,11.701C34.235,13.232,31.406,12.885,29.876,10.926C22.635,1.659,11.746,-3.656,0,-3.656C-11.745,-3.656,-22.634,1.659,-29.875,10.926C-30.762,12.062,-32.087,12.655,-33.424,12.655Z'); } 30% { d: path('M-28.97,7.583C-29.917,7.377,-30.805,6.865,-31.472,6.062C-33.06,4.15,-32.796,1.312,-30.884,-0.275C-19.689,-9.571,-9.651,-12.159,-0.642,-12.159C5,-12.159,18.674,-9.947,29.925,0.04C31.783,1.69,31.108,4.826,29.15,6.356C27.193,7.887,24.776,7.131,22.833,5.581C14.779,-0.845,5.422,-3.159,-0.642,-3.159C-10.21,-3.159,-16.087,-0.864,-25.135,6.649C-26.244,7.57,-27.663,7.868,-28.97,7.583Z'); } 58.8667% { d: path('M-28.97,7.583C-29.917,7.377,-30.805,6.865,-31.472,6.062C-33.06,4.15,-32.796,1.312,-30.884,-0.275C-19.689,-9.571,-9.651,-12.159,-0.642,-12.159C5,-12.159,18.674,-9.947,29.925,0.04C31.783,1.69,31.108,4.826,29.15,6.356C27.193,7.887,24.776,7.131,22.833,5.581C14.779,-0.845,5.422,-3.159,-0.642,-3.159C-10.21,-3.159,-16.087,-0.864,-25.135,6.649C-26.244,7.57,-27.663,7.868,-28.97,7.583Z'); } 91.1333% { d: path('M-33.424,12.655C-34.393,12.655,-35.37,12.344,-36.192,11.701C-38.15,10.171,-38.497,7.343,-36.967,5.385C-28.008,-6.081,-14.534,-12.656,0,-12.656C14.535,-12.656,28.009,-6.081,36.967,5.385C38.497,7.343,38.15,10.171,36.192,11.701C34.235,13.232,31.406,12.885,29.876,10.926C22.635,1.659,11.746,-3.656,0,-3.656C-11.745,-3.656,-22.634,1.659,-29.875,10.926C-30.762,12.062,-32.087,12.655,-33.424,12.655Z'); } 100% { d: path('M-33.424,12.655C-34.393,12.655,-35.37,12.344,-36.192,11.701C-38.15,10.171,-38.497,7.343,-36.967,5.385C-28.008,-6.081,-14.534,-12.656,0,-12.656C14.535,-12.656,28.009,-6.081,36.967,5.385C38.497,7.343,38.15,10.171,36.192,11.701C34.235,13.232,31.406,12.885,29.876,10.926C22.635,1.659,11.746,-3.656,0,-3.656C-11.745,-3.656,-22.634,1.659,-29.875,10.926C-30.762,12.062,-32.087,12.655,-33.424,12.655Z'); } }
+@keyframes a2_t { 0% { transform: translateX(78.593px); } 21.1333% { transform: translateX(73.593px); } 42.1999% { transform: translateX(78.593px); } 58.8666% { transform: translateX(81.783px); } 73.3333% { transform: translateX(85.389px); } 91.1333% { transform: translateX(80.968px); } 100% { transform: translateX(78.593px); } }
+@keyframes control-3_t { 0% { transform: translate(-50.593px,29px); animation-timing-function: cubic-bezier(0.503,0,0.743,0.508); } 21.1333% { transform: translate(-50.593px,40.246px); animation-timing-function: cubic-bezier(0.241,0.508,0.497,1); } 42.1999% { transform: translate(-50.593px,50.5px); animation-timing-function: cubic-bezier(0.333,0,0.481,1); } 58.8666% { transform: translate(-50.593px,50.5px); animation-timing-function: cubic-bezier(0.44,0,0.32,1); } 91.1333% { transform: translate(-50.593px,29.125px); animation-timing-function: cubic-bezier(0.51,6.882,0.667,1); } 100% { transform: translate(-50.593px,29px); } }
+@keyframes Group-Layer-4_t { 0% { transform: scale(1,1); } 18.8666% { transform: scale(1,1); animation-timing-function: cubic-bezier(0.001,0,0.999,1); } 24.4666% { transform: scale(1,0.15); animation-timing-function: cubic-bezier(0.001,0,0.999,1); } 30% { transform: scale(1,1); } 62.2% { transform: scale(1,1); animation-timing-function: cubic-bezier(0.001,0,0.999,1); } 67.8% { transform: scale(1,0.15); animation-timing-function: cubic-bezier(0.001,0,0.999,1); } 73.3333% { transform: scale(1,1); } 100% { transform: scale(1,1); } }
+@keyframes Path-Layer-4_d { 0% { d: path('M11.886,0C11.886,-6.565,6.565,-11.886,0,-11.886C-6.565,-11.886,-11.886,-6.565,-11.886,0C-11.886,6.565,-6.565,11.886,0,11.886C6.565,11.886,11.886,6.565,11.886,0Z'); animation-timing-function: cubic-bezier(0.167,0.167,0,1); } 18.8667% { d: path('M11.886,0C11.886,-6.171,7.861,-7.245,5.067,-7.245C0.595,-7.245,-11.886,-3.985,-11.886,2.58C-11.886,6.461,-6.565,11.886,0,11.886C6.565,11.886,11.886,6.565,11.886,0Z'); animation-timing-function: cubic-bezier(0.333,0,0,1); } 54.4667% { d: path('M11.886,0C11.886,-6.171,7.861,-7.245,5.067,-7.245C0.595,-7.245,-11.886,-3.985,-11.886,2.58C-11.886,6.461,-6.565,11.886,0,11.886C6.565,11.886,11.886,6.565,11.886,0Z'); animation-timing-function: cubic-bezier(1,0,0.833,0.833); } 73.3333% { d: path('M11.886,0C11.886,-6.565,6.565,-11.886,0,-11.886C-6.565,-11.886,-11.886,-6.565,-11.886,0C-11.886,6.565,-6.565,11.886,0,11.886C6.565,11.886,11.886,6.565,11.886,0Z'); } 100% { d: path('M11.886,0C11.886,-6.565,6.565,-11.886,0,-11.886C-6.565,-11.886,-11.886,-6.565,-11.886,0C-11.886,6.565,-6.565,11.886,0,11.886C6.565,11.886,11.886,6.565,11.886,0Z'); } }
+@keyframes a3_t { 0% { transform: translateX(78.593px); } 21.1333% { transform: translateX(73.593px); } 42.1999% { transform: translateX(78.593px); } 58.8666% { transform: translateX(81.783px); } 73.3333% { transform: translateX(85.389px); } 91.1333% { transform: translateX(80.968px); } 100% { transform: translateX(78.593px); } }
+@keyframes control-4_t { 0% { transform: translate(-50.593px,29px); animation-timing-function: cubic-bezier(0.503,0,0.743,0.508); } 21.1333% { transform: translate(-50.593px,40.246px); animation-timing-function: cubic-bezier(0.241,0.508,0.497,1); } 42.1999% { transform: translate(-50.593px,50.5px); animation-timing-function: cubic-bezier(0.333,0,0.481,1); } 58.8666% { transform: translate(-50.593px,50.5px); animation-timing-function: cubic-bezier(0.44,0,0.32,1); } 91.1333% { transform: translate(-50.593px,29.125px); animation-timing-function: cubic-bezier(0.51,6.882,0.667,1); } 100% { transform: translate(-50.593px,29px); } }
+@keyframes Group-Layer-5_t { 0% { transform: scale(1,1); } 18.8666% { transform: scale(1,1); animation-timing-function: cubic-bezier(0.001,0,0.999,1); } 24.4666% { transform: scale(1,0.15); animation-timing-function: cubic-bezier(0.001,0,0.999,1); } 30% { transform: scale(1,1); } 62.2% { transform: scale(1,1); animation-timing-function: cubic-bezier(0.001,0,0.999,1); } 67.8% { transform: scale(1,0.15); animation-timing-function: cubic-bezier(0.001,0,0.999,1); } 73.3333% { transform: scale(1,1); } 100% { transform: scale(1,1); } }
+@keyframes Path-Layer-5_d { 0% { d: path('M11.886,0C11.886,-6.565,6.565,-11.886,0,-11.886C-6.565,-11.886,-11.886,-6.565,-11.886,0C-11.886,6.565,-6.565,11.886,0,11.886C6.565,11.886,11.886,6.565,11.886,0Z'); animation-timing-function: cubic-bezier(0.167,0.167,0,1); } 18.8667% { d: path('M11.886,2.58C11.886,-3.172,1.498,-7.245,-5.067,-7.245C-7.277,-7.245,-11.886,-6.565,-11.886,0C-11.886,6.565,-6.565,11.886,0,11.886C6.565,11.886,11.886,6.351,11.886,2.58Z'); animation-timing-function: cubic-bezier(0.333,0,0,1); } 54.4667% { d: path('M11.886,2.58C11.886,-3.172,1.498,-7.245,-5.067,-7.245C-7.277,-7.245,-11.886,-6.565,-11.886,0C-11.886,6.565,-6.565,11.886,0,11.886C6.565,11.886,11.886,6.351,11.886,2.58Z'); animation-timing-function: cubic-bezier(1,0,0.833,0.833); } 73.3333% { d: path('M11.886,0C11.886,-6.565,6.565,-11.886,0,-11.886C-6.565,-11.886,-11.886,-6.565,-11.886,0C-11.886,6.565,-6.565,11.886,0,11.886C6.565,11.886,11.886,6.565,11.886,0Z'); } 100% { d: path('M11.886,0C11.886,-6.565,6.565,-11.886,0,-11.886C-6.565,-11.886,-11.886,-6.565,-11.886,0C-11.886,6.565,-6.565,11.886,0,11.886C6.565,11.886,11.886,6.565,11.886,0Z'); } }
+@keyframes a4_t { 0% { transform: translateX(78.593px); } 21.1333% { transform: translateX(73.593px); } 42.1999% { transform: translateX(78.593px); } 58.8666% { transform: translateX(81.783px); } 73.3333% { transform: translateX(85.389px); } 91.1333% { transform: translateX(80.968px); } 100% { transform: translateX(78.593px); } }
+@keyframes control-5_t { 0% { transform: translate(-50.593px,29px); animation-timing-function: cubic-bezier(0.503,0,0.743,0.508); } 21.1333% { transform: translate(-50.593px,40.246px); animation-timing-function: cubic-bezier(0.241,0.508,0.497,1); } 42.1999% { transform: translate(-50.593px,50.5px); animation-timing-function: cubic-bezier(0.333,0,0.481,1); } 58.8666% { transform: translate(-50.593px,50.5px); animation-timing-function: cubic-bezier(0.44,0,0.32,1); } 91.1333% { transform: translate(-50.593px,29.125px); animation-timing-function: cubic-bezier(0.51,6.882,0.667,1); } 100% { transform: translate(-50.593px,29px); } }
+@keyframes a5_t { 0% { transform: translate(9.934px,68.451px); animation-timing-function: cubic-bezier(0.167,0.167,0.833,1); } 21.1333% { transform: translate(9.934px,70.151px); animation-timing-function: cubic-bezier(0.7,0,0.86,0.46); } 58.8666% { transform: translate(9.934px,104.951px); } 100% { transform: translate(9.934px,104.951px); } }
+@keyframes Layer-7_t { 0% { transform: scale(0,0); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 13.3333% { transform: scale(1,1); animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 30% { transform: scale(1,1); animation-timing-function: cubic-bezier(0.34,0,0.87,0); } 58.8666% { transform: scale(0.6,0.6); } 100% { transform: scale(0.6,0.6); } }
+@keyframes Group-Layer-6_o { 0% { opacity: 0; animation-timing-function: cubic-bezier(0.77,0,0.18,1); } 7.8% { opacity: 0.5; animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 16.6667% { opacity: 0.5; animation-timing-function: cubic-bezier(0.361,0,0.833,1); } 31.1333% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes a6_t { 0% { transform: translateX(78.593px); } 21.1333% { transform: translateX(73.593px); } 42.1999% { transform: translateX(78.593px); } 58.8666% { transform: translateX(81.783px); } 73.3333% { transform: translateX(85.389px); } 91.1333% { transform: translateX(80.968px); } 100% { transform: translateX(78.593px); } }
+@keyframes control-6_t { 0% { transform: translate(-50.593px,29px); animation-timing-function: cubic-bezier(0.503,0,0.743,0.508); } 21.1333% { transform: translate(-50.593px,40.246px); animation-timing-function: cubic-bezier(0.241,0.508,0.497,1); } 42.1999% { transform: translate(-50.593px,50.5px); animation-timing-function: cubic-bezier(0.333,0,0.481,1); } 58.8666% { transform: translate(-50.593px,50.5px); animation-timing-function: cubic-bezier(0.44,0,0.32,1); } 91.1333% { transform: translate(-50.593px,29.125px); animation-timing-function: cubic-bezier(0.51,6.882,0.667,1); } 100% { transform: translate(-50.593px,29px); } }
+@keyframes a7_t { 0% { transform: translate(9.934px,68.451px); animation-timing-function: cubic-bezier(0.167,0.167,0.833,1); } 21.1333% { transform: translate(9.934px,70.151px); animation-timing-function: cubic-bezier(0.7,0,0.86,0.46); } 58.8666% { transform: translate(9.934px,104.951px); } 100% { transform: translate(9.934px,104.951px); } }
+@keyframes Layer-7-2_t { 0% { transform: scale(0,0); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 13.3333% { transform: scale(1,1); animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 30% { transform: scale(1,1); animation-timing-function: cubic-bezier(0.34,0,0.87,0); } 58.8666% { transform: scale(0.6,0.6); } 100% { transform: scale(0.6,0.6); } }
+@keyframes Group-Layer-7_o { 0% { opacity: 0; animation-timing-function: cubic-bezier(0.77,0,0.18,1); } 7.8% { opacity: 1; animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 38.8667% { opacity: 1; animation-timing-function: cubic-bezier(0.9,0.03,0.69,0.22); } 58.8667% { opacity: 0; } 100% { opacity: 0; } }
+@keyframes a8_t { 0% { transform: translateX(78.593px); } 21.1333% { transform: translateX(73.593px); } 42.1999% { transform: translateX(78.593px); } 58.8666% { transform: translateX(81.783px); } 73.3333% { transform: translateX(85.389px); } 91.1333% { transform: translateX(80.968px); } 100% { transform: translateX(78.593px); } }
+@keyframes control-7_t { 0% { transform: translate(-50.593px,29px); animation-timing-function: cubic-bezier(0.503,0,0.743,0.508); } 21.1333% { transform: translate(-50.593px,40.246px); animation-timing-function: cubic-bezier(0.241,0.508,0.497,1); } 42.1999% { transform: translate(-50.593px,50.5px); animation-timing-function: cubic-bezier(0.333,0,0.481,1); } 58.8666% { transform: translate(-50.593px,50.5px); animation-timing-function: cubic-bezier(0.44,0,0.32,1); } 91.1333% { transform: translate(-50.593px,29.125px); animation-timing-function: cubic-bezier(0.51,6.882,0.667,1); } 100% { transform: translate(-50.593px,29px); } }
+    </style>
+    <g id="Layer-1" transform="translate(80,80)">
+        <g id="Group-Layer-Layer-1-" opacity="1">
+            <path id="Path-Layer-Layer-1-" fill="url(#Gradient-0)" d="M56.569,56.569C25.327,87.811,-25.327,87.811,-56.569,56.569C-87.811,25.327,-87.811,-25.327,-56.569,-56.569C-25.327,-87.811,25.327,-87.811,56.569,-56.569C87.811,-25.327,87.811,25.327,56.569,56.569Z" fill-opacity="1" fill-rule="nonzero"/>
+        </g>
+    </g>
+    <g id="control" style="animation: 1.5s linear infinite both a0_t;">
+        <g transform="translate(78.593,79.818) translate(-50.593,-50.818)" style="animation: 1.5s linear infinite both control_t;">
+            <g id="Layer-8" transform="translate(51.359,81.565)" style="animation: 1.5s linear infinite both Layer-8_t;">
+                <g id="Shape-Layer-1" transform="translate(0.641,4.935)">
+                    <g id="Shape-1" opacity="1" style="animation: 1.5s linear infinite both Shape-1_o;">
+                        <path id="Path-1" fill="url(#Gradient-2)" d="M-33.424,12.655C-34.393,12.655,-35.37,12.344,-36.192,11.701C-38.15,10.171,-38.497,7.343,-36.967,5.385C-28.008,-6.081,-14.534,-12.656,0,-12.656C14.535,-12.656,28.009,-6.081,36.967,5.385C38.497,7.343,38.15,10.171,36.192,11.701C34.235,13.232,31.406,12.885,29.876,10.926C22.635,1.659,11.746,-3.656,0,-3.656C-11.745,-3.656,-22.634,1.659,-29.875,10.926C-30.762,12.062,-32.087,12.655,-33.424,12.655Z" fill-opacity="1" fill-rule="nonzero" stroke="url(#Gradient-1)" stroke-opacity="1" stroke-width="0" stroke-miterlimit="4" stroke-linecap="butt" stroke-linejoin="miter" style="animation: 1.5s linear infinite both Path-1_d;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="control-2" style="animation: 1.5s linear infinite both a1_t;">
+        <g transform="translate(78.593,79.818) translate(-50.593,-50.818)" style="animation: 1.5s linear infinite both control-2_t;">
+            <g id="Layer-8-2" transform="translate(51.359,81.565)" style="animation: 1.5s linear infinite both Layer-8-2_t;">
+                <g id="Group-1" opacity="1">
+                    <path id="Path-1-2" fill="url(#Gradient-3)" d="M-33.424,12.655C-34.393,12.655,-35.37,12.344,-36.192,11.701C-38.15,10.171,-38.497,7.343,-36.967,5.385C-28.008,-6.081,-14.534,-12.656,0,-12.656C14.535,-12.656,28.009,-6.081,36.967,5.385C38.497,7.343,38.15,10.171,36.192,11.701C34.235,13.232,31.406,12.885,29.876,10.926C22.635,1.659,11.746,-3.656,0,-3.656C-11.745,-3.656,-22.634,1.659,-29.875,10.926C-30.762,12.062,-32.087,12.655,-33.424,12.655Z" fill-opacity="1" fill-rule="nonzero" style="animation: 1.5s linear infinite both Path-1-2_d;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="control-3" style="animation: 1.5s linear infinite both a2_t;">
+        <g transform="translate(78.593,79.818) translate(-50.593,-50.818)" style="animation: 1.5s linear infinite both control-3_t;">
+            <g id="Layer-4" transform="translate(23.705,40.219)">
+                <g id="Group-Layer-4" opacity="1" style="animation: 1.5s linear infinite both Group-Layer-4_t;">
+                    <path id="Path-Layer-4" fill="url(#Gradient-4)" d="M11.886,0C11.886,-6.565,6.565,-11.886,0,-11.886C-6.565,-11.886,-11.886,-6.565,-11.886,0C-11.886,6.565,-6.565,11.886,0,11.886C6.565,11.886,11.886,6.565,11.886,0Z" fill-opacity="1" fill-rule="nonzero" style="animation: 1.5s linear infinite both Path-Layer-4_d;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="control-4" style="animation: 1.5s linear infinite both a3_t;">
+        <g transform="translate(78.593,79.818) translate(-50.593,-50.818)" style="animation: 1.5s linear infinite both control-4_t;">
+            <g id="Layer-5" transform="translate(75.862,40.219)">
+                <g id="Group-Layer-5" opacity="1" style="animation: 1.5s linear infinite both Group-Layer-5_t;">
+                    <path id="Path-Layer-5" fill="url(#Gradient-5)" d="M11.886,0C11.886,-6.565,6.565,-11.886,0,-11.886C-6.565,-11.886,-11.886,-6.565,-11.886,0C-11.886,6.565,-6.565,11.886,0,11.886C6.565,11.886,11.886,6.565,11.886,0Z" fill-opacity="1" fill-rule="nonzero" style="animation: 1.5s linear infinite both Path-Layer-5_d;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="control-5" style="animation: 1.5s linear infinite both a4_t;">
+        <g transform="translate(78.593,79.818) translate(-50.593,-50.818)" style="animation: 1.5s linear infinite both control-5_t;">
+            <g id="Layer-7" style="animation: 1.5s linear infinite both a5_t;">
+                <g transform="translate(9.934,68.451) scale(0,0)" style="animation: 1.5s linear infinite both Layer-7_t;">
+                    <g id="Layer-6" transform="translate(0,6.746)">
+                        <g id="Group-Layer-6" opacity="0" style="animation: 1.5s linear infinite both Group-Layer-6_o;">
+                            <path id="Path-Layer-6" fill="#e79212" d="M0,19.479C7.606,19.479,13.772,13.314,13.772,5.708C13.772,-1.898,0,-19.479,0,-19.479C0,-19.479,-13.772,-1.898,-13.772,5.708C-13.772,13.314,-7.606,19.479,0,19.479Z" fill-opacity="1" fill-rule="nonzero"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="control-6" style="animation: 1.5s linear infinite both a6_t;">
+        <g transform="translate(78.593,79.818) translate(-50.593,-50.818)" style="animation: 1.5s linear infinite both control-6_t;">
+            <g id="Layer-7-2" style="animation: 1.5s linear infinite both a7_t;">
+                <g transform="translate(9.934,68.451) scale(0,0)" style="animation: 1.5s linear infinite both Layer-7-2_t;">
+                    <g id="Group-Layer-7" opacity="0" style="animation: 1.5s linear infinite both Group-Layer-7_o;">
+                        <path id="Path-Layer-7" fill="url(#Gradient-6)" d="M0,19.479C7.606,19.479,13.772,13.314,13.772,5.708C13.772,-1.898,0,-19.479,0,-19.479C0,-19.479,-13.772,-1.898,-13.772,5.708C-13.772,13.314,-7.606,19.479,0,19.479Z" fill-opacity="1" fill-rule="nonzero"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="control-7" style="animation: 1.5s linear infinite both a8_t;">
+        <g transform="translate(78.593,79.818) translate(-50.593,-50.818)" style="animation: 1.5s linear infinite both control-7_t;"/>
+    </g>
+</svg>

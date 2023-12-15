@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" id="Comp-1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 160 160" style="white-space: pre;">
+    <defs>
+        <radialGradient id="Gradient-0" cx="-19" cy="-12" r="116.816" fx="-19" fy="-12" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#ffef70"/>
+            <stop offset="0.558" stop-color="#f8c340"/>
+            <stop offset="0.854" stop-color="#f19710"/>
+            <stop offset="0.92" stop-color="#ec9411"/>
+            <stop offset="0.985" stop-color="#e69212"/>
+        </radialGradient>
+        <linearGradient id="Gradient-1" x1="-0.358" y1="-8.002" x2="-0.358" y2="69.605" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#f7c234"/>
+            <stop offset="0.5" stop-color="#f5bd36"/>
+            <stop offset="1" stop-color="#f3b938"/>
+        </linearGradient>
+        <linearGradient id="Gradient-2" x1="-0.358" y1="31.891" x2="-0.358" y2="-7.93" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e08713"/>
+            <stop offset="0.5" stop-color="#ac6b13"/>
+            <stop offset="1" stop-color="#784f12"/>
+        </linearGradient>
+        <linearGradient id="Gradient-3" x1="-0.094" y1="-9.816" x2="-0.094" y2="10.685" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#7a5011"/>
+            <stop offset="0.162" stop-color="#bca888"/>
+            <stop offset="1" stop-color="#ffffff"/>
+        </linearGradient>
+        <linearGradient id="Gradient-4" x1="-0.281" y1="-13.374" x2="-0.281" y2="6.226" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#fbcf37"/>
+            <stop offset="0.5" stop-color="#fcdd52"/>
+            <stop offset="1" stop-color="#feeb6c"/>
+        </linearGradient>
+        <linearGradient id="Gradient-5" x1="-1.281" y1="1.888" x2="1.29" y2="11.58" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#784f12"/>
+            <stop offset="0.5" stop-color="#ab6a11"/>
+            <stop offset="1" stop-color="#de8510"/>
+        </linearGradient>
+        <linearGradient id="Gradient-6" x1="-0.436" y1="-10.374" x2="-1.096" y2="11.204" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#f7be2b"/>
+            <stop offset="0.5" stop-color="#fad44b"/>
+            <stop offset="1" stop-color="#feeb6c"/>
+        </linearGradient>
+        <linearGradient id="Gradient-7" x1="0.564" y1="0.888" x2="-2.518" y2="11.457" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#784f12"/>
+            <stop offset="0.5" stop-color="#ab6a11"/>
+            <stop offset="1" stop-color="#de8510"/>
+        </linearGradient>
+    </defs>
+    <style>
+@keyframes Null-18_t { 0% { transform: translate(80px,80px) rotate(0deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.167,0.167,0.667,1); } 27.8% { transform: translate(80px,80px) rotate(5deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 72.2% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } 100% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } }
+@keyframes a0_t { 0% { transform: translate(48.782px,53.933px); animation-timing-function: cubic-bezier(0.033,0.168,0.163,1); } 16.6666% { transform: translate(48.782px,73.933px); animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 41.1333% { transform: translate(48.782px,73.933px); animation-timing-function: cubic-bezier(0.553,0,0.426,1); } 61.1333% { transform: translate(48.782px,35.933px); animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 86.6666% { transform: translate(48.782px,35.933px); animation-timing-function: cubic-bezier(0.692,0,0.96,0.839); } 100% { transform: translate(48.782px,53.933px); } }
+@keyframes Null-11_t { 0% { transform: scale(1,1) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.167,0.167,0.667,1); } 16.5333% { transform: scale(0.84,0.84) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 40.9333% { transform: scale(0.84,0.84) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 61.8666% { transform: scale(1,1) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 87.3333% { transform: scale(1,1) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.833,1); } 100% { transform: scale(1,1) translate(-51.282px,-54.433px); } }
+@keyframes Null-12_t { 0% { transform: translate(50px,55.333px) scale(1,1) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 10.1333% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 20.2% { transform: translate(50px,55.333px) scale(1,1) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 30.3333% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 40.4666% { transform: translate(50px,55.333px) scale(1,1) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 50.5333% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 60.6666% { transform: translate(50px,55.333px) scale(1,1.15) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 70.8% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 80.8666% { transform: translate(50px,55.333px) scale(1,1.13) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 91% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 100% { transform: translate(50px,55.333px) scale(1,1) translateX(-50px); } }
+@keyframes Null-18-2_t { 0% { transform: translate(80px,80px) rotate(0deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.167,0.167,0.667,1); } 27.8% { transform: translate(80px,80px) rotate(5deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 72.2% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } 100% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } }
+@keyframes a1_t { 0% { transform: translate(48.782px,53.933px); animation-timing-function: cubic-bezier(0.033,0.168,0.163,1); } 16.6666% { transform: translate(48.782px,73.933px); animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 41.1333% { transform: translate(48.782px,73.933px); animation-timing-function: cubic-bezier(0.553,0,0.426,1); } 61.1333% { transform: translate(48.782px,35.933px); animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 86.6666% { transform: translate(48.782px,35.933px); animation-timing-function: cubic-bezier(0.692,0,0.96,0.839); } 100% { transform: translate(48.782px,53.933px); } }
+@keyframes Null-11-2_t { 0% { transform: scale(1,1) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.167,0.167,0.667,1); } 16.5333% { transform: scale(0.84,0.84) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 40.9333% { transform: scale(0.84,0.84) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 61.8666% { transform: scale(1,1) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 87.3333% { transform: scale(1,1) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.833,1); } 100% { transform: scale(1,1) translate(-51.282px,-54.433px); } }
+@keyframes Null-12-2_t { 0% { transform: translate(50px,55.333px) scale(1,1) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 10.1333% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 20.2% { transform: translate(50px,55.333px) scale(1,1) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 30.3333% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 40.4666% { transform: translate(50px,55.333px) scale(1,1) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 50.5333% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 60.6666% { transform: translate(50px,55.333px) scale(1,1.15) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 70.8% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 80.8666% { transform: translate(50px,55.333px) scale(1,1.13) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 91% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 100% { transform: translate(50px,55.333px) scale(1,1) translateX(-50px); } }
+@keyframes Null-18-3_t { 0% { transform: translate(80px,80px) rotate(0deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.167,0.167,0.667,1); } 27.8% { transform: translate(80px,80px) rotate(5deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 72.2% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } 100% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } }
+@keyframes a2_t { 0% { transform: translate(48.782px,53.933px); animation-timing-function: cubic-bezier(0.033,0.168,0.163,1); } 16.6666% { transform: translate(48.782px,73.933px); animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 41.1333% { transform: translate(48.782px,73.933px); animation-timing-function: cubic-bezier(0.553,0,0.426,1); } 61.1333% { transform: translate(48.782px,35.933px); animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 86.6666% { transform: translate(48.782px,35.933px); animation-timing-function: cubic-bezier(0.692,0,0.96,0.839); } 100% { transform: translate(48.782px,53.933px); } }
+@keyframes Null-11-3_t { 0% { transform: scale(1,1) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.167,0.167,0.667,1); } 16.5333% { transform: scale(0.84,0.84) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 40.9333% { transform: scale(0.84,0.84) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 61.8666% { transform: scale(1,1) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 87.3333% { transform: scale(1,1) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.833,1); } 100% { transform: scale(1,1) translate(-51.282px,-54.433px); } }
+@keyframes Null-12-3_t { 0% { transform: translate(50px,55.333px) scale(1,1) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 10.1333% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 20.2% { transform: translate(50px,55.333px) scale(1,1) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 30.3333% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 40.4666% { transform: translate(50px,55.333px) scale(1,1) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 50.5333% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 60.6666% { transform: translate(50px,55.333px) scale(1,1.15) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 70.8% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 80.8666% { transform: translate(50px,55.333px) scale(1,1.13) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 91% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 100% { transform: translate(50px,55.333px) scale(1,1) translateX(-50px); } }
+@keyframes Null-18-4_t { 0% { transform: translate(80px,80px) rotate(0deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.167,0.167,0.667,1); } 27.8% { transform: translate(80px,80px) rotate(5deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 72.2% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } 100% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } }
+@keyframes a3_t { 0% { transform: translate(48.782px,53.933px); animation-timing-function: cubic-bezier(0.033,0.168,0.163,1); } 16.6666% { transform: translate(48.782px,73.933px); animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 41.1333% { transform: translate(48.782px,73.933px); animation-timing-function: cubic-bezier(0.553,0,0.426,1); } 61.1333% { transform: translate(48.782px,35.933px); animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 86.6666% { transform: translate(48.782px,35.933px); animation-timing-function: cubic-bezier(0.692,0,0.96,0.839); } 100% { transform: translate(48.782px,53.933px); } }
+@keyframes Null-11-4_t { 0% { transform: scale(1,1) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.167,0.167,0.667,1); } 16.5333% { transform: scale(0.84,0.84) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 40.9333% { transform: scale(0.84,0.84) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 61.8666% { transform: scale(1,1) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 87.3333% { transform: scale(1,1) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.833,1); } 100% { transform: scale(1,1) translate(-51.282px,-54.433px); } }
+@keyframes Null-12-4_t { 0% { transform: translate(50px,55.333px) scale(1,1) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 10.1333% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 20.2% { transform: translate(50px,55.333px) scale(1,1) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 30.3333% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 40.4666% { transform: translate(50px,55.333px) scale(1,1) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 50.5333% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 60.6666% { transform: translate(50px,55.333px) scale(1,1.15) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 70.8% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 80.8666% { transform: translate(50px,55.333px) scale(1,1.13) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 91% { transform: translate(50px,55.333px) scale(1,0.82) translateX(-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 100% { transform: translate(50px,55.333px) scale(1,1) translateX(-50px); } }
+@keyframes Null-18-5_t { 0% { transform: translate(80px,80px) rotate(0deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.167,0.167,0.667,1); } 27.8% { transform: translate(80px,80px) rotate(5deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 72.2% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } 100% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } }
+@keyframes a4_t { 0% { transform: translate(48.782px,53.933px); animation-timing-function: cubic-bezier(0.033,0.168,0.163,1); } 16.6666% { transform: translate(48.782px,73.933px); animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 41.1333% { transform: translate(48.782px,73.933px); animation-timing-function: cubic-bezier(0.553,0,0.426,1); } 61.1333% { transform: translate(48.782px,35.933px); animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 86.6666% { transform: translate(48.782px,35.933px); animation-timing-function: cubic-bezier(0.692,0,0.96,0.839); } 100% { transform: translate(48.782px,53.933px); } }
+@keyframes Null-11-5_t { 0% { transform: scale(1,1) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.167,0.167,0.667,1); } 16.5333% { transform: scale(0.84,0.84) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 40.9333% { transform: scale(0.84,0.84) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 61.8666% { transform: scale(1,1) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 87.3333% { transform: scale(1,1) translate(-51.282px,-54.433px); animation-timing-function: cubic-bezier(0.333,0,0.833,1); } 100% { transform: scale(1,1) translate(-51.282px,-54.433px); } }
+@keyframes Null-18-6_t { 0% { transform: translate(80px,80px) rotate(0deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.167,0.167,0.667,1); } 27.8% { transform: translate(80px,80px) rotate(5deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 72.2% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } 100% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } }
+@keyframes Null-13_t { 0% { transform: translate(-2.5px,-0.5px); animation-timing-function: cubic-bezier(0.033,0.181,0.109,1); } 16.5333% { transform: translate(-2.5px,22.5px); animation-timing-function: cubic-bezier(0.333,0,0.855,1.883); } 41.3333% { transform: translate(-2.5px,20.5px); animation-timing-function: cubic-bezier(0.542,-0.128,0.525,1.335); } 61.6% { transform: translate(-2.5px,-21.5px); animation-timing-function: cubic-bezier(0.242,4.557,0.73,2.614); } 87.3333% { transform: translate(-2.5px,-19.5px); animation-timing-function: cubic-bezier(0.671,-0.208,0.96,0.879); } 100% { transform: translate(-2.5px,-0.5px); } }
+@keyframes a5_t { 0% { transform: translate(20.781px,27.1px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 41.1333% { transform: translate(20.781px,26.2px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 61.1333% { transform: translate(20.781px,32.2px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 73.2666% { transform: translate(20.781px,29.2px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 87.0666% { transform: translate(20.781px,32.2px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 99.7333% { transform: translate(20.781px,27.1px); } 100% { transform: translate(20.781px,27.1px); } }
+@keyframes Layer-7_t { 0% { transform: scale(1,1); animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 41.1333% { transform: scale(1,1); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 58.8666% { transform: scale(0.88,0.88); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 86.6666% { transform: scale(0.88,0.88); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 100% { transform: scale(1,1); } }
+@keyframes Null-18-7_t { 0% { transform: translate(80px,80px) rotate(0deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.167,0.167,0.667,1); } 27.8% { transform: translate(80px,80px) rotate(5deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 72.2% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } 100% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } }
+@keyframes Null-13-2_t { 0% { transform: translate(-2.5px,-0.5px); animation-timing-function: cubic-bezier(0.033,0.181,0.109,1); } 16.5333% { transform: translate(-2.5px,22.5px); animation-timing-function: cubic-bezier(0.333,0,0.855,1.883); } 41.3333% { transform: translate(-2.5px,20.5px); animation-timing-function: cubic-bezier(0.542,-0.128,0.525,1.335); } 61.6% { transform: translate(-2.5px,-21.5px); animation-timing-function: cubic-bezier(0.242,4.557,0.73,2.614); } 87.3333% { transform: translate(-2.5px,-19.5px); animation-timing-function: cubic-bezier(0.671,-0.208,0.96,0.879); } 100% { transform: translate(-2.5px,-0.5px); } }
+@keyframes a6_t { 0% { transform: translate(20.781px,27.1px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 41.1333% { transform: translate(20.781px,26.2px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 61.1333% { transform: translate(20.781px,32.2px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 73.2666% { transform: translate(20.781px,29.2px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 87.0666% { transform: translate(20.781px,32.2px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 99.7333% { transform: translate(20.781px,27.1px); } 100% { transform: translate(20.781px,27.1px); } }
+@keyframes Layer-7-2_t { 0% { transform: scale(1,1); animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 41.1333% { transform: scale(1,1); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 58.8666% { transform: scale(0.88,0.88); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 86.6666% { transform: scale(0.88,0.88); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 100% { transform: scale(1,1); } }
+@keyframes Null-18-8_t { 0% { transform: translate(80px,80px) rotate(0deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.167,0.167,0.667,1); } 27.8% { transform: translate(80px,80px) rotate(5deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 72.2% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } 100% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } }
+@keyframes Null-13-3_t { 0% { transform: translate(-2.5px,-0.5px); animation-timing-function: cubic-bezier(0.033,0.181,0.109,1); } 16.5333% { transform: translate(-2.5px,22.5px); animation-timing-function: cubic-bezier(0.333,0,0.855,1.883); } 41.3333% { transform: translate(-2.5px,20.5px); animation-timing-function: cubic-bezier(0.542,-0.128,0.525,1.335); } 61.6% { transform: translate(-2.5px,-21.5px); animation-timing-function: cubic-bezier(0.242,4.557,0.73,2.614); } 87.3333% { transform: translate(-2.5px,-19.5px); animation-timing-function: cubic-bezier(0.671,-0.208,0.96,0.879); } 100% { transform: translate(-2.5px,-0.5px); } }
+@keyframes a7_t { 0% { transform: translate(82.936px,27.1px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 41.1333% { transform: translate(82.936px,26.2px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 61.1333% { transform: translate(82.936px,32.2px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 73.2666% { transform: translate(82.936px,29.2px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 87.0666% { transform: translate(82.936px,32.2px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 99.7333% { transform: translate(82.936px,27.1px); } 100% { transform: translate(82.936px,27.1px); } }
+@keyframes Layer-8_t { 0% { transform: scale(1,1); animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 41.1333% { transform: scale(1,1); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 58.8666% { transform: scale(0.88,0.88); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 86.6666% { transform: scale(0.88,0.88); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 100% { transform: scale(1,1); } }
+@keyframes Null-18-9_t { 0% { transform: translate(80px,80px) rotate(0deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.167,0.167,0.667,1); } 27.8% { transform: translate(80px,80px) rotate(5deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 72.2% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } 100% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } }
+@keyframes Null-13-4_t { 0% { transform: translate(-2.5px,-0.5px); animation-timing-function: cubic-bezier(0.033,0.181,0.109,1); } 16.5333% { transform: translate(-2.5px,22.5px); animation-timing-function: cubic-bezier(0.333,0,0.855,1.883); } 41.3333% { transform: translate(-2.5px,20.5px); animation-timing-function: cubic-bezier(0.542,-0.128,0.525,1.335); } 61.6% { transform: translate(-2.5px,-21.5px); animation-timing-function: cubic-bezier(0.242,4.557,0.73,2.614); } 87.3333% { transform: translate(-2.5px,-19.5px); animation-timing-function: cubic-bezier(0.671,-0.208,0.96,0.879); } 100% { transform: translate(-2.5px,-0.5px); } }
+@keyframes a8_t { 0% { transform: translate(82.936px,27.1px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 41.1333% { transform: translate(82.936px,26.2px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 61.1333% { transform: translate(82.936px,32.2px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 73.2666% { transform: translate(82.936px,29.2px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 87.0666% { transform: translate(82.936px,32.2px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 99.7333% { transform: translate(82.936px,27.1px); } 100% { transform: translate(82.936px,27.1px); } }
+@keyframes Layer-8-2_t { 0% { transform: scale(1,1); animation-timing-function: cubic-bezier(0.167,0,0.833,1); } 41.1333% { transform: scale(1,1); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 58.8666% { transform: scale(0.88,0.88); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 86.6666% { transform: scale(0.88,0.88); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 100% { transform: scale(1,1); } }
+@keyframes Null-18-10_t { 0% { transform: translate(80px,80px) rotate(0deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.167,0.167,0.667,1); } 27.8% { transform: translate(80px,80px) rotate(5deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 72.2% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } 100% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } }
+@keyframes Null-13-5_t { 0% { transform: translate(-2.5px,-0.5px); animation-timing-function: cubic-bezier(0.033,0.181,0.109,1); } 16.5333% { transform: translate(-2.5px,22.5px); animation-timing-function: cubic-bezier(0.333,0,0.855,1.883); } 41.3333% { transform: translate(-2.5px,20.5px); animation-timing-function: cubic-bezier(0.542,-0.128,0.525,1.335); } 61.6% { transform: translate(-2.5px,-21.5px); animation-timing-function: cubic-bezier(0.242,4.557,0.73,2.614); } 87.3333% { transform: translate(-2.5px,-19.5px); animation-timing-function: cubic-bezier(0.671,-0.208,0.96,0.879); } 100% { transform: translate(-2.5px,-0.5px); } }
+@keyframes Null-18-11_t { 0% { transform: translate(80px,80px) rotate(0deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.167,0.167,0.667,1); } 27.8% { transform: translate(80px,80px) rotate(5deg) translate(-50px,-50px); animation-timing-function: cubic-bezier(0.333,0,0.667,1); } 72.2% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } 100% { transform: translate(80px,80px) rotate(-5deg) translate(-50px,-50px); } }
+    </style>
+    <g id="Layer-1" transform="translate(80,80)">
+        <g id="Group-Layer-Layer-1--" opacity="1">
+            <path id="Path-Layer-Layer-1--" fill="url(#Gradient-0)" d="M56.569,56.569C25.327,87.811,-25.327,87.811,-56.569,56.569C-87.811,25.327,-87.811,-25.327,-56.569,-56.569C-25.327,-87.811,25.327,-87.811,56.569,-56.569C87.811,-25.327,87.811,25.327,56.569,56.569Z" fill-opacity="1" fill-rule="nonzero"/>
+        </g>
+    </g>
+    <g id="Null-18" transform="translate(80,80) translate(-50,-50)" style="animation: 1.5s linear infinite both Null-18_t;">
+        <g id="Null-11" style="animation: 1.5s linear infinite both a0_t;">
+            <g transform="translate(48.782,53.933) translate(-51.282,-54.433)" style="animation: 1.5s linear infinite both Null-11_t;">
+                <g id="Null-12" transform="translate(50,55.333) translate(-50,0)" style="animation: 1.5s linear infinite both Null-12_t;">
+                    <g id="Layer-2" transform="translate(51.858,35.169)">
+                        <g id="Group-Layer-2" opacity="1">
+                            <path id="Path-Layer-2" fill="url(#Gradient-1)" d="M50.586,-29.126C39.473,-29.578,-39.473,-29.578,-50.586,-29.126C-53.182,-29.02,-55.112,-27.045,-54.875,-24.797C-52.652,-3.782,-34.537,29.465,0,29.465C34.537,29.465,52.652,-3.782,54.875,-24.797C55.112,-27.045,53.182,-29.02,50.586,-29.126Z" fill-opacity="1" fill-rule="nonzero"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Null-18-2" transform="translate(80,80) translate(-50,-50)" style="animation: 1.5s linear infinite both Null-18-2_t;">
+        <g id="Null-11-2" style="animation: 1.5s linear infinite both a1_t;">
+            <g transform="translate(48.782,53.933) translate(-51.282,-54.433)" style="animation: 1.5s linear infinite both Null-11-2_t;">
+                <g id="Null-12-2" transform="translate(50,55.333) translate(-50,0)" style="animation: 1.5s linear infinite both Null-12-2_t;">
+                    <g id="Layer-3" transform="translate(51.858,30.276)">
+                        <g id="Group-Layer-3" opacity="1">
+                            <path id="Path-Layer-3" fill="url(#Gradient-2)" d="M50.586,-29.126C39.473,-29.578,-39.473,-29.578,-50.586,-29.126C-53.182,-29.02,-55.112,-27.045,-54.875,-24.797C-52.652,-3.782,-34.537,29.465,0,29.465C34.537,29.465,52.652,-3.782,54.875,-24.797C55.112,-27.045,53.182,-29.02,50.586,-29.126Z" fill-opacity="1" fill-rule="nonzero"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Null-18-3" transform="translate(80,80) translate(-50,-50)" style="animation: 1.5s linear infinite both Null-18-3_t;">
+        <g id="Null-11-3" style="animation: 1.5s linear infinite both a2_t;">
+            <g transform="translate(48.782,53.933) translate(-51.282,-54.433)" style="animation: 1.5s linear infinite both Null-11-3_t;">
+                <g id="Null-12-3" transform="translate(50,55.333) translate(-50,0)" style="animation: 1.5s linear infinite both Null-12-3_t;"/>
+            </g>
+        </g>
+    </g>
+    <g id="Null-18-4" transform="translate(80,80) translate(-50,-50)" style="animation: 1.5s linear infinite both Null-18-4_t;">
+        <g id="Null-11-4" style="animation: 1.5s linear infinite both a3_t;">
+            <g transform="translate(48.782,53.933) translate(-51.282,-54.433)" style="animation: 1.5s linear infinite both Null-11-4_t;">
+                <g id="Null-12-4" transform="translate(50,55.333) translate(-50,0)" style="animation: 1.5s linear infinite both Null-12-4_t;">
+                    <g id="Layer-3-2" transform="translate(51.858,30.276)">
+                        <g id="Layer-4" transform="translate(0.736,-22.293)">
+                            <g id="Group-Layer-4" opacity="1">
+                                <path id="Path-Layer-4" fill="url(#Gradient-3)" d="M0,-7.079C0,-7.079,-47.307,-7.079,-47.307,-7.079C-46.936,-5.838,-46.478,-4.89,-45.934,-4.459C-36.078,3.213,-18.059,7.05,0,7.079C18.059,7.05,36.078,3.213,45.934,-4.459C46.478,-4.89,46.936,-5.838,47.307,-7.079C47.307,-7.079,0,-7.079,0,-7.079Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Null-18-5" transform="translate(80,80) translate(-50,-50)" style="animation: 1.5s linear infinite both Null-18-5_t;">
+        <g id="Null-11-5" style="animation: 1.5s linear infinite both a4_t;">
+            <g transform="translate(48.782,53.933) translate(-51.282,-54.433)" style="animation: 1.5s linear infinite both Null-11-5_t;"/>
+        </g>
+    </g>
+    <g id="Null-18-6" transform="translate(80,80) translate(-50,-50)" style="animation: 1.5s linear infinite both Null-18-6_t;">
+        <g id="Null-13" transform="translate(47.5,49.083) translate(-50,-49.583)" style="animation: 1.5s linear infinite both Null-13_t;">
+            <g id="Layer-7" style="animation: 1.5s linear infinite both a5_t;">
+                <g transform="translate(20.781,27.1)" style="animation: 1.5s linear infinite both Layer-7_t;">
+                    <g id="Layer-5" transform="translate(0,2.774)">
+                        <g id="Group-Layer-5" opacity="1">
+                            <path id="Path-Layer-5" fill="url(#Gradient-4)" d="M-15.041,15.509C-15.974,15.509,-16.907,15.156,-17.622,14.448C-19.062,13.022,-19.075,10.699,-17.649,9.258C-10.546,2.081,-0.586,-0.749,6.487,-1.861C1.535,-5.333,-5.488,-8.542,-11.577,-8.135C-13.601,-7.996,-15.347,-9.533,-15.48,-11.555C-15.613,-13.577,-14.081,-15.325,-12.059,-15.458C0.535,-16.291,14.017,-6.659,18.028,-1.035C18.833,0.093,18.934,1.578,18.289,2.804C17.644,4.031,16.365,4.793,14.978,4.765C14.808,4.746,-2.738,4.624,-12.433,14.421C-13.151,15.146,-14.096,15.509,-15.041,15.509Z" fill-opacity="1" fill-rule="nonzero"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Null-18-7" transform="translate(80,80) translate(-50,-50)" style="animation: 1.5s linear infinite both Null-18-7_t;">
+        <g id="Null-13-2" transform="translate(47.5,49.083) translate(-50,-49.583)" style="animation: 1.5s linear infinite both Null-13-2_t;">
+            <g id="Layer-7-2" style="animation: 1.5s linear infinite both a6_t;">
+                <g transform="translate(20.781,27.1)" style="animation: 1.5s linear infinite both Layer-7-2_t;">
+                    <g id="Group-Layer-7" opacity="1">
+                        <path id="Path-Layer-7" fill="url(#Gradient-5)" d="M-15.041,15.509C-15.974,15.509,-16.907,15.156,-17.622,14.448C-19.062,13.022,-19.075,10.699,-17.649,9.258C-10.546,2.081,-0.586,-0.749,6.487,-1.861C1.535,-5.333,-5.488,-8.542,-11.577,-8.135C-13.601,-7.996,-15.347,-9.533,-15.48,-11.555C-15.613,-13.577,-14.081,-15.325,-12.059,-15.458C0.535,-16.291,14.017,-6.659,18.028,-1.035C18.833,0.093,18.934,1.578,18.289,2.804C17.644,4.031,16.365,4.793,14.978,4.765C14.808,4.746,-2.738,4.624,-12.433,14.421C-13.151,15.146,-14.096,15.509,-15.041,15.509Z" fill-opacity="1" fill-rule="nonzero"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Null-18-8" transform="translate(80,80) translate(-50,-50)" style="animation: 1.5s linear infinite both Null-18-8_t;">
+        <g id="Null-13-3" transform="translate(47.5,49.083) translate(-50,-49.583)" style="animation: 1.5s linear infinite both Null-13-3_t;">
+            <g id="Layer-8" style="animation: 1.5s linear infinite both a7_t;">
+                <g transform="translate(82.936,27.1)" style="animation: 1.5s linear infinite both Layer-8_t;">
+                    <g id="Layer-6" transform="translate(0,2.774)">
+                        <g id="Group-Layer-6" opacity="1">
+                            <path id="Path-Layer-6" fill="url(#Gradient-6)" d="M15.041,15.509C15.974,15.509,16.907,15.156,17.622,14.448C19.062,13.022,19.075,10.699,17.649,9.258C10.546,2.081,0.586,-0.749,-6.487,-1.861C-1.535,-5.333,5.488,-8.542,11.577,-8.135C13.601,-7.996,15.347,-9.533,15.48,-11.555C15.613,-13.577,14.081,-15.325,12.059,-15.458C-0.535,-16.291,-14.017,-6.659,-18.028,-1.035C-18.833,0.093,-18.934,1.578,-18.289,2.804C-17.644,4.031,-16.365,4.793,-14.978,4.765C-14.808,4.746,2.738,4.624,12.433,14.421C13.151,15.146,14.096,15.509,15.041,15.509Z" fill-opacity="1" fill-rule="nonzero"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Null-18-9" transform="translate(80,80) translate(-50,-50)" style="animation: 1.5s linear infinite both Null-18-9_t;">
+        <g id="Null-13-4" transform="translate(47.5,49.083) translate(-50,-49.583)" style="animation: 1.5s linear infinite both Null-13-4_t;">
+            <g id="Layer-8-2" style="animation: 1.5s linear infinite both a8_t;">
+                <g transform="translate(82.936,27.1)" style="animation: 1.5s linear infinite both Layer-8-2_t;">
+                    <g id="Group-Layer-8" opacity="1">
+                        <path id="Path-Layer-8" fill="url(#Gradient-7)" d="M15.041,15.509C15.974,15.509,16.907,15.156,17.622,14.448C19.062,13.022,19.075,10.699,17.649,9.258C10.546,2.081,0.586,-0.749,-6.487,-1.861C-1.535,-5.333,5.488,-8.542,11.577,-8.135C13.601,-7.996,15.347,-9.533,15.48,-11.555C15.613,-13.577,14.081,-15.325,12.059,-15.458C-0.535,-16.291,-14.017,-6.659,-18.028,-1.035C-18.833,0.093,-18.934,1.578,-18.289,2.804C-17.644,4.031,-16.365,4.793,-14.978,4.765C-14.808,4.746,2.738,4.624,12.433,14.421C13.151,15.146,14.096,15.509,15.041,15.509Z" fill-opacity="1" fill-rule="nonzero"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+    <g id="Null-18-10" transform="translate(80,80) translate(-50,-50)" style="animation: 1.5s linear infinite both Null-18-10_t;">
+        <g id="Null-13-5" transform="translate(47.5,49.083) translate(-50,-49.583)" style="animation: 1.5s linear infinite both Null-13-5_t;"/>
+    </g>
+    <g id="Null-18-11" transform="translate(80,80) translate(-50,-50)" style="animation: 1.5s linear infinite both Null-18-11_t;"/>
+</svg>

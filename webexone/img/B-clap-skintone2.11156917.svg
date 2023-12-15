@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Keyshape -->
+<svg xmlns="http://www.w3.org/2000/svg" id="Template-resizing-animation-with-loading" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" viewBox="0 0 280 280" style="white-space: pre;">
+    <defs>
+        <linearGradient id="Gradient-0" x1="5.072" y1="-2.457" x2="-18.047" y2="8.937" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#917263"/>
+            <stop offset="0.5" stop-color="#967563"/>
+            <stop offset="1" stop-color="#9c7764"/>
+        </linearGradient>
+        <linearGradient id="Gradient-1" x1="5.944" y1="-2.283" x2="-16.162" y2="12.124" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#917263"/>
+            <stop offset="0.5" stop-color="#967563"/>
+            <stop offset="1" stop-color="#9c7764"/>
+        </linearGradient>
+        <linearGradient id="Gradient-2" x1="-30.48" y1="-70" x2="54.07" y2="77.743" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#f9c888"/>
+            <stop offset="0.5" stop-color="#e9b683"/>
+            <stop offset="1" stop-color="#d8a47d"/>
+        </linearGradient>
+        <linearGradient id="Gradient-3" x1="0.37" y1="-4.275" x2="-18.039" y2="4.309" gradientUnits="userSpaceOnUse">
+            <stop offset="0.465" stop-color="#edb781"/>
+            <stop offset="0.615" stop-color="#e2ac7c"/>
+            <stop offset="0.765" stop-color="#d7a078"/>
+            <stop offset="0.829" stop-color="#cf9775"/>
+            <stop offset="0.893" stop-color="#c78f72"/>
+            <stop offset="0.947" stop-color="#c68f72"/>
+            <stop offset="1" stop-color="#c48e72"/>
+        </linearGradient>
+        <linearGradient id="Gradient-4" x1="9.877" y1="-5.558" x2="-12.636" y2="4.861" gradientUnits="userSpaceOnUse">
+            <stop offset="0.465" stop-color="#edb782"/>
+            <stop offset="0.53" stop-color="#eab481"/>
+            <stop offset="0.594" stop-color="#e7b180"/>
+            <stop offset="0.679" stop-color="#dfa97c"/>
+            <stop offset="0.765" stop-color="#d7a079"/>
+            <stop offset="0.829" stop-color="#cf9776"/>
+            <stop offset="0.893" stop-color="#c78f72"/>
+            <stop offset="0.947" stop-color="#c68f72"/>
+            <stop offset="1" stop-color="#c48e72"/>
+        </linearGradient>
+        <linearGradient id="Gradient-5" x1="14.546" y1="-10.858" x2="-18.697" y2="0.636" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#e5ae80"/>
+            <stop offset="0.234" stop-color="#e7af7f"/>
+            <stop offset="0.468" stop-color="#e8b17e"/>
+            <stop offset="0.734" stop-color="#dca379"/>
+            <stop offset="1" stop-color="#cf9575"/>
+        </linearGradient>
+        <linearGradient id="Gradient-6" x1="-22.797" y1="-5.43" x2="15.185" y2="-21.448" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#c48e72"/>
+            <stop offset="0.053" stop-color="#c68f72"/>
+            <stop offset="0.107" stop-color="#c78f72"/>
+            <stop offset="0.15" stop-color="#cf9776"/>
+            <stop offset="0.194" stop-color="#d7a079"/>
+            <stop offset="0.251" stop-color="#dfa97c"/>
+            <stop offset="0.309" stop-color="#e7b180"/>
+            <stop offset="0.352" stop-color="#eab481"/>
+            <stop offset="0.396" stop-color="#edb782"/>
+        </linearGradient>
+        <linearGradient id="Gradient-7" x1="7.97" y1="-4.72" x2="-11.339" y2="5.147" gradientUnits="userSpaceOnUse">
+            <stop offset="0.465" stop-color="#edb782"/>
+            <stop offset="0.53" stop-color="#eab481"/>
+            <stop offset="0.594" stop-color="#e7b180"/>
+            <stop offset="0.679" stop-color="#dfa97c"/>
+            <stop offset="0.765" stop-color="#d7a079"/>
+            <stop offset="0.829" stop-color="#cf9776"/>
+            <stop offset="0.893" stop-color="#c78f72"/>
+            <stop offset="0.947" stop-color="#c68f72"/>
+            <stop offset="1" stop-color="#c48e72"/>
+        </linearGradient>
+    </defs>
+    <g id="Loop-5s-with-loading" opacity="1" transform="translate(139.751,139.005) translate(0,0) scale(1.15,1.15) translate(-80,-80)">
+        <g id="Library" opacity="0" transform="translate(80,80) translate(-80,-80)">
+            <g id="clap-skintone2" opacity="0" transform="translate(80,80) translate(-80,-80)">
+                <g id="Null-16" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-18" transform="translate(84.28,119.844) translate(-50,-50)">
+                        <g id="Layer-8" opacity="0" transform="translate(11.419,-17.383)">
+                            <g id="Group-2Layer-8" opacity="1">
+                                <path id="Path-2Layer-8" fill="#917263" d="M63.623,2.447C63.623,2.447,63.624,2.445,63.624,2.445C63.624,2.445,63.625,2.445,63.625,2.445C56.38,-9.457,53.24,-25.592,53.967,-36.635C54.561,-45.652,52.906,-50.845,43.587,-50.275C39.237,-50.009,33.919,-47.459,30.74,-37.945C29.166,-33.234,28.867,-28.114,29.284,-23.112C29.284,-23.112,2.773,-52.427,2.773,-52.427C-10.958,-67.152,-22.892,-81.852,-33.464,-71.994C-38.053,-67.715,-36.648,-62.958,-32.577,-57.547C-42.183,-68.101,-50.531,-75.672,-58.6,-68.148C-63.461,-63.615,-60.901,-54.849,-53.667,-46.117C-58.053,-50.297,-62.061,-51.892,-66.386,-47.859C-75.098,-39.735,-63.276,-24.469,-49.545,-9.744C-49.545,-9.744,-22.671,16.978,-22.671,16.978C-22.683,17.031,-22.659,16.925,-22.671,16.978C-22.671,16.978,-38.213,0.966,-38.213,0.966C-51.69,-11.155,-60.413,-26.842,-68.893,-17.818C-74.989,-11.331,-63.1,7.583,-45.423,26.539C-13.168,61.128,9.304,74.573,26.701,75.18C55.888,76.199,83.845,34.605,63.623,2.447Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-2" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-18-2" transform="translate(84.28,119.844) translate(-50,-50)">
+                        <g id="Layer-5" opacity="0" transform="translate(-28.352,-31.386)">
+                            <g id="Group-Layer-58" opacity="1">
+                                <path id="Path-Layer-58" fill="url(#Gradient-0)" d="M22.205,36.19C22.205,36.19,-9.773,4.259,-9.773,4.259C-23.504,-10.466,-35.327,-25.732,-26.615,-33.856C-17.558,-42.302,-9.887,-26.074,2.761,-13.091C2.761,-13.091,29.597,13.871,29.597,13.871" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-3" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-18-3" transform="translate(84.28,119.844) translate(-50,-50)">
+                        <g id="Layer-3" opacity="0" transform="translate(-28.224,2.439)">
+                            <g id="Group-Layer-37" opacity="1">
+                                <path id="Path-Layer-37" fill="url(#Gradient-1)" d="M30.879,40.341C3.344,20.177,-41.416,-27.799,-28.634,-38.251C-19.886,-46.172,-10.99,-29.905,1.444,-17.305C1.444,-17.305,29.986,6.278,29.986,6.278" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-4" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-12" opacity="0" transform="translate(4.209,-19.844)">
+                            <g id="Group-Layer-124" opacity="1">
+                                <path id="Path-Layer-124" fill="url(#Gradient-2)" d="M63.112,12.202C63.112,12.202,63.112,12.201,63.112,12.201C63.112,12.201,63.113,12.201,63.113,12.201C57.833,-0.693,57.274,-17.121,59.731,-27.912C61.737,-36.723,60.921,-42.113,51.629,-43.017C47.291,-43.439,41.638,-41.759,37,-32.864C34.704,-28.459,33.601,-23.451,33.226,-18.446C33.226,-18.446,11.663,-51.57,11.663,-51.57C0.422,-68.274,-9.047,-84.67,-21.04,-76.6C-26.245,-73.097,-25.607,-68.178,-22.439,-62.194C-30.263,-74.129,-37.314,-82.921,-46.467,-76.761C-51.981,-73.05,-50.834,-63.99,-45.066,-54.228C-48.739,-59.046,-52.446,-61.254,-57.352,-57.952C-67.235,-51.301,-57.518,-34.665,-46.277,-17.961C-46.277,-17.961,-56.846,-36.394,-64.559,-28.681C-70.853,-22.387,-62.839,-2.684,-48.368,18.819C-21.963,58.056,-1.89,74.872,15.195,78.212C43.857,83.815,78.017,47.144,63.112,12.202Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-5" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-2" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-11" opacity="0" transform="translate(13.359,-59.569)">
+                            <g id="Group-Layer-113" opacity="1">
+                                <path id="Path-Layer-113" fill="url(#Gradient-3)" d="M24.412,21.705C24.412,21.705,2.513,-11.845,2.513,-11.845C-8.728,-28.549,-18.198,-44.945,-30.19,-36.875C-40.464,-29.961,-27.98,-17.534,-18.191,-2.279C-18.191,-2.279,4.565,31.746,4.565,31.746" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-6" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-3" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-10" opacity="0" transform="translate(-17.148,-57.285)">
+                            <g id="Group-Layer-102" opacity="1">
+                                <path id="Path-Layer-102" fill="url(#Gradient-4)" d="M16.716,41.341C16.716,41.341,-13.024,-0.509,-13.024,-0.509C-24.265,-17.213,-35.635,-32.238,-25.111,-39.32C-13.119,-47.39,-4.734,-29.796,6.507,-13.092C6.507,-13.092,34.285,29.259,34.285,29.259" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-7" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-4" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-13" opacity="0" transform="translate(54.183,-25.739)">
+                            <g id="Group-Layer-130" opacity="1">
+                                <path id="Path-Layer-130" fill="url(#Gradient-5)" d="M13.139,18.096C7.859,5.202,7.3,-11.226,9.757,-22.017C11.763,-30.828,10.946,-36.218,1.654,-37.122C-2.684,-37.544,-8.336,-35.864,-12.974,-26.969C-15.27,-22.564,-16.373,-17.556,-16.748,-12.551C-16.748,-12.551,16.719,37.181,16.719,37.181C16.943,30.941,15.864,24.49,13.137,18.097C13.137,18.097,13.138,18.096,13.138,18.096C13.138,18.096,13.139,18.096,13.139,18.096Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-8" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-5" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-14" opacity="0" transform="translate(-37.474,-6.414)">
+                            <g id="Group-8" opacity="1">
+                                <path id="Path-8" fill="url(#Gradient-6)" d="M1.77,17.27C-16.589,-7.394,-32.001,-35.904,-22.209,-42.592C-12.323,-49.036,-5.506,-30.123,5.893,-16.031C5.893,-16.031,21.251,5.239,21.251,5.239" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-9" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-6" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-18" opacity="0" transform="translate(-31.24,-40.123)">
+                            <g id="Group-4" opacity="1">
+                                <path id="Path-4" fill="url(#Gradient-7)" d="M15.275,39.188C15.275,39.188,-11.275,2.62,-11.275,2.62C-22.516,-14.084,-31.786,-31.021,-21.903,-37.672C-17.496,-40.637,-13.556,-39.045,-10.017,-34.688C-6.785,-29.344,-1.59,-21.479,4.375,-13.019C4.375,-13.019,30.465,23.563,30.465,23.563" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-10" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-7" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-1" opacity="0" transform="translate(-16.448,-43.878)">
+                            <g id="Group-1" opacity="1">
+                                <path id="Path-1" fill="#b77e58" d="M-3.973,-42.942C-2.11,-36.22,5.202,-27.667,11.424,-17.97C11.424,-17.97,34.125,16.566,34.125,16.566C34.125,16.566,34.998,15.405,34.998,15.405C34.998,15.405,-3.973,-42.942,-3.973,-42.942ZM16.733,27.077C16.733,27.077,-28.121,-36.93,-28.121,-36.93C-25.189,-30.201,-19.535,-22.268,-13.915,-13.916C-13.915,-13.916,15.825,27.934,15.825,27.934C15.825,27.934,16.733,27.077,16.733,27.077ZM1.365,41.872C1.365,41.872,0.291,42.942,0.291,42.942C0.291,42.942,-26.259,6.374,-26.259,6.374C-29.435,1.654,-32.455,-3.085,-34.929,-7.605C-36.835,-11.087,1.365,41.872,1.365,41.872Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-11" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-18-4" opacity="0" transform="translate(84.28,119.844) translate(-50,-50)"/>
+                </g>
+                <g id="Null-16-12" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-8" opacity="0" transform="translate(104.271,119.844) translate(-50,-50)"/>
+                </g>
+                <g id="Null-16-13" opacity="0" transform="translate(80,80) translate(-50,-50)"/>
+            </g>
+        </g>
+        <g id="Library-3" opacity="0" transform="translate(80,80) translate(-80,-80)">
+            <g id="clap-skintone2-3" opacity="0" transform="translate(80,80) translate(-80,-80)">
+                <g id="Null-16-14" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-18-5" transform="translate(84.28,119.844) translate(-50,-50)">
+                        <g id="Layer-8-2" opacity="0" transform="translate(11.419,-17.383)">
+                            <g id="Group-2Layer-8-2" opacity="1">
+                                <path id="Path-2Layer-8-2" fill="#917263" d="M63.623,2.447C63.623,2.447,63.624,2.445,63.624,2.445C63.624,2.445,63.625,2.445,63.625,2.445C56.38,-9.457,53.24,-25.592,53.967,-36.635C54.561,-45.652,52.906,-50.845,43.587,-50.275C39.237,-50.009,33.919,-47.459,30.74,-37.945C29.166,-33.234,28.867,-28.114,29.284,-23.112C29.284,-23.112,2.773,-52.427,2.773,-52.427C-10.958,-67.152,-22.892,-81.852,-33.464,-71.994C-38.053,-67.715,-36.648,-62.958,-32.577,-57.547C-42.183,-68.101,-50.531,-75.672,-58.6,-68.148C-63.461,-63.615,-60.901,-54.849,-53.667,-46.117C-58.053,-50.297,-62.061,-51.892,-66.386,-47.859C-75.098,-39.735,-63.276,-24.469,-49.545,-9.744C-49.545,-9.744,-22.671,16.978,-22.671,16.978C-22.683,17.031,-22.659,16.925,-22.671,16.978C-22.671,16.978,-38.213,0.966,-38.213,0.966C-51.69,-11.155,-60.413,-26.842,-68.893,-17.818C-74.989,-11.331,-63.1,7.583,-45.423,26.539C-13.168,61.128,9.304,74.573,26.701,75.18C55.888,76.199,83.845,34.605,63.623,2.447Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-15" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-18-6" transform="translate(84.28,119.844) translate(-50,-50)">
+                        <g id="Layer-5-2" opacity="0" transform="translate(-28.352,-31.386)">
+                            <g id="Group-Layer-58-2" opacity="1">
+                                <path id="Path-Layer-58-2" fill="url(#Gradient-0)" d="M22.205,36.19C22.205,36.19,-9.773,4.259,-9.773,4.259C-23.504,-10.466,-35.327,-25.732,-26.615,-33.856C-17.558,-42.302,-9.887,-26.074,2.761,-13.091C2.761,-13.091,29.597,13.871,29.597,13.871" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-16" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-18-7" transform="translate(84.28,119.844) translate(-50,-50)">
+                        <g id="Layer-3-2" opacity="0" transform="translate(-28.224,2.439)">
+                            <g id="Group-Layer-37-2" opacity="1">
+                                <path id="Path-Layer-37-2" fill="url(#Gradient-1)" d="M30.879,40.341C3.344,20.177,-41.416,-27.799,-28.634,-38.251C-19.886,-46.172,-10.99,-29.905,1.444,-17.305C1.444,-17.305,29.986,6.278,29.986,6.278" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-17" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-9" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-12-2" opacity="0" transform="translate(4.209,-19.844)">
+                            <g id="Group-Layer-124-2" opacity="1">
+                                <path id="Path-Layer-124-2" fill="url(#Gradient-2)" d="M63.112,12.202C63.112,12.202,63.112,12.201,63.112,12.201C63.112,12.201,63.113,12.201,63.113,12.201C57.833,-0.693,57.274,-17.121,59.731,-27.912C61.737,-36.723,60.921,-42.113,51.629,-43.017C47.291,-43.439,41.638,-41.759,37,-32.864C34.704,-28.459,33.601,-23.451,33.226,-18.446C33.226,-18.446,11.663,-51.57,11.663,-51.57C0.422,-68.274,-9.047,-84.67,-21.04,-76.6C-26.245,-73.097,-25.607,-68.178,-22.439,-62.194C-30.263,-74.129,-37.314,-82.921,-46.467,-76.761C-51.981,-73.05,-50.834,-63.99,-45.066,-54.228C-48.739,-59.046,-52.446,-61.254,-57.352,-57.952C-67.235,-51.301,-57.518,-34.665,-46.277,-17.961C-46.277,-17.961,-56.846,-36.394,-64.559,-28.681C-70.853,-22.387,-62.839,-2.684,-48.368,18.819C-21.963,58.056,-1.89,74.872,15.195,78.212C43.857,83.815,78.017,47.144,63.112,12.202Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-18" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-10" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-11-2" opacity="0" transform="translate(13.359,-59.569)">
+                            <g id="Group-Layer-113-2" opacity="1">
+                                <path id="Path-Layer-113-2" fill="url(#Gradient-3)" d="M24.412,21.705C24.412,21.705,2.513,-11.845,2.513,-11.845C-8.728,-28.549,-18.198,-44.945,-30.19,-36.875C-40.464,-29.961,-27.98,-17.534,-18.191,-2.279C-18.191,-2.279,4.565,31.746,4.565,31.746" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-19" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-11" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-10-2" opacity="0" transform="translate(-17.148,-57.285)">
+                            <g id="Group-Layer-102-2" opacity="1">
+                                <path id="Path-Layer-102-2" fill="url(#Gradient-4)" d="M16.716,41.341C16.716,41.341,-13.024,-0.509,-13.024,-0.509C-24.265,-17.213,-35.635,-32.238,-25.111,-39.32C-13.119,-47.39,-4.734,-29.796,6.507,-13.092C6.507,-13.092,34.285,29.259,34.285,29.259" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-20" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-12" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-13-2" opacity="0" transform="translate(54.183,-25.739)">
+                            <g id="Group-Layer-130-2" opacity="1">
+                                <path id="Path-Layer-130-2" fill="url(#Gradient-5)" d="M13.139,18.096C7.859,5.202,7.3,-11.226,9.757,-22.017C11.763,-30.828,10.946,-36.218,1.654,-37.122C-2.684,-37.544,-8.336,-35.864,-12.974,-26.969C-15.27,-22.564,-16.373,-17.556,-16.748,-12.551C-16.748,-12.551,16.719,37.181,16.719,37.181C16.943,30.941,15.864,24.49,13.137,18.097C13.137,18.097,13.138,18.096,13.138,18.096C13.138,18.096,13.139,18.096,13.139,18.096Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-21" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-13" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-14-2" opacity="0" transform="translate(-37.474,-6.414)">
+                            <g id="Group-8-2" opacity="1">
+                                <path id="Path-8-2" fill="url(#Gradient-6)" d="M1.77,17.27C-16.589,-7.394,-32.001,-35.904,-22.209,-42.592C-12.323,-49.036,-5.506,-30.123,5.893,-16.031C5.893,-16.031,21.251,5.239,21.251,5.239" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-22" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-14" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-18-2" opacity="0" transform="translate(-31.24,-40.123)">
+                            <g id="Group-4-2" opacity="1">
+                                <path id="Path-4-2" fill="url(#Gradient-7)" d="M15.275,39.188C15.275,39.188,-11.275,2.62,-11.275,2.62C-22.516,-14.084,-31.786,-31.021,-21.903,-37.672C-17.496,-40.637,-13.556,-39.045,-10.017,-34.688C-6.785,-29.344,-1.59,-21.479,4.375,-13.019C4.375,-13.019,30.465,23.563,30.465,23.563" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-23" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-15" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-1-2" opacity="0" transform="translate(-16.448,-43.878)">
+                            <g id="Group-1-2" opacity="1">
+                                <path id="Path-1-2" fill="#b77e58" d="M-3.973,-42.942C-2.11,-36.22,5.202,-27.667,11.424,-17.97C11.424,-17.97,34.125,16.566,34.125,16.566C34.125,16.566,34.998,15.405,34.998,15.405C34.998,15.405,-3.973,-42.942,-3.973,-42.942ZM16.733,27.077C16.733,27.077,-28.121,-36.93,-28.121,-36.93C-25.189,-30.201,-19.535,-22.268,-13.915,-13.916C-13.915,-13.916,15.825,27.934,15.825,27.934C15.825,27.934,16.733,27.077,16.733,27.077ZM1.365,41.872C1.365,41.872,0.291,42.942,0.291,42.942C0.291,42.942,-26.259,6.374,-26.259,6.374C-29.435,1.654,-32.455,-3.085,-34.929,-7.605C-36.835,-11.087,1.365,41.872,1.365,41.872Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-24" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-18-8" opacity="0" transform="translate(84.28,119.844) translate(-50,-50)"/>
+                </g>
+                <g id="Null-16-25" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-16" opacity="0" transform="translate(104.271,119.844) translate(-50,-50)"/>
+                </g>
+                <g id="Null-16-26" opacity="0" transform="translate(80,80) translate(-50,-50)"/>
+            </g>
+        </g>
+        <g id="Library-2" opacity="1" transform="translate(80,80) translate(-80,-80)">
+            <g id="clap-skintone2-2" opacity="1" transform="translate(80,80) translate(-80,-80)">
+                <g id="Null-16-27" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-18-9" transform="translate(84.28,119.844) translate(-50,-50)">
+                        <g id="Layer-8-3" opacity="1" transform="translate(11.419,-17.383)">
+                            <g id="Group-2Layer-8-3" opacity="1">
+                                <path id="Path-2Layer-8-3" fill="#917263" d="M63.623,2.447C63.623,2.447,63.624,2.445,63.624,2.445C63.624,2.445,63.625,2.445,63.625,2.445C56.38,-9.457,53.24,-25.592,53.967,-36.635C54.561,-45.652,52.906,-50.845,43.587,-50.275C39.237,-50.009,33.919,-47.459,30.74,-37.945C29.166,-33.234,28.867,-28.114,29.284,-23.112C29.284,-23.112,2.773,-52.427,2.773,-52.427C-10.958,-67.152,-22.892,-81.852,-33.464,-71.994C-38.053,-67.715,-36.648,-62.958,-32.577,-57.547C-42.183,-68.101,-50.531,-75.672,-58.6,-68.148C-63.461,-63.615,-60.901,-54.849,-53.667,-46.117C-58.053,-50.297,-62.061,-51.892,-66.386,-47.859C-75.098,-39.735,-63.276,-24.469,-49.545,-9.744C-49.545,-9.744,-22.671,16.978,-22.671,16.978C-22.683,17.031,-22.659,16.925,-22.671,16.978C-22.671,16.978,-38.213,0.966,-38.213,0.966C-51.69,-11.155,-60.413,-26.842,-68.893,-17.818C-74.989,-11.331,-63.1,7.583,-45.423,26.539C-13.168,61.128,9.304,74.573,26.701,75.18C55.888,76.199,83.845,34.605,63.623,2.447Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-28" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-18-10" transform="translate(84.28,119.844) translate(-50,-50)">
+                        <g id="Layer-5-3" opacity="1" transform="translate(-28.352,-31.386)">
+                            <g id="Group-Layer-58-3" opacity="1">
+                                <path id="Path-Layer-58-3" fill="url(#Gradient-0)" d="M22.205,36.19C22.205,36.19,-9.773,4.259,-9.773,4.259C-23.504,-10.466,-35.327,-25.732,-26.615,-33.856C-17.558,-42.302,-9.887,-26.074,2.761,-13.091C2.761,-13.091,29.597,13.871,29.597,13.871" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-29" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-18-11" transform="translate(84.28,119.844) translate(-50,-50)">
+                        <g id="Layer-3-3" opacity="1" transform="translate(-28.224,2.439)">
+                            <g id="Group-Layer-37-3" opacity="1">
+                                <path id="Path-Layer-37-3" fill="url(#Gradient-1)" d="M30.879,40.341C3.344,20.177,-41.416,-27.799,-28.634,-38.251C-19.886,-46.172,-10.99,-29.905,1.444,-17.305C1.444,-17.305,29.986,6.278,29.986,6.278" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-30" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-17" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-12-3" opacity="1" transform="translate(4.209,-19.844)">
+                            <g id="Group-Layer-124-3" opacity="1">
+                                <path id="Path-Layer-124-3" fill="url(#Gradient-2)" d="M63.112,12.202C63.112,12.202,63.112,12.201,63.112,12.201C63.112,12.201,63.113,12.201,63.113,12.201C57.833,-0.693,57.274,-17.121,59.731,-27.912C61.737,-36.723,60.921,-42.113,51.629,-43.017C47.291,-43.439,41.638,-41.759,37,-32.864C34.704,-28.459,33.601,-23.451,33.226,-18.446C33.226,-18.446,11.663,-51.57,11.663,-51.57C0.422,-68.274,-9.047,-84.67,-21.04,-76.6C-26.245,-73.097,-25.607,-68.178,-22.439,-62.194C-30.263,-74.129,-37.314,-82.921,-46.467,-76.761C-51.981,-73.05,-50.834,-63.99,-45.066,-54.228C-48.739,-59.046,-52.446,-61.254,-57.352,-57.952C-67.235,-51.301,-57.518,-34.665,-46.277,-17.961C-46.277,-17.961,-56.846,-36.394,-64.559,-28.681C-70.853,-22.387,-62.839,-2.684,-48.368,18.819C-21.963,58.056,-1.89,74.872,15.195,78.212C43.857,83.815,78.017,47.144,63.112,12.202Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-31" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-18" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-11-3" opacity="1" transform="translate(13.359,-59.569)">
+                            <g id="Group-Layer-113-3" opacity="1">
+                                <path id="Path-Layer-113-3" fill="url(#Gradient-3)" d="M24.412,21.705C24.412,21.705,2.513,-11.845,2.513,-11.845C-8.728,-28.549,-18.198,-44.945,-30.19,-36.875C-40.464,-29.961,-27.98,-17.534,-18.191,-2.279C-18.191,-2.279,4.565,31.746,4.565,31.746" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-32" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-19" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-10-3" opacity="1" transform="translate(-17.148,-57.285)">
+                            <g id="Group-Layer-102-3" opacity="1">
+                                <path id="Path-Layer-102-3" fill="url(#Gradient-4)" d="M16.716,41.341C16.716,41.341,-13.024,-0.509,-13.024,-0.509C-24.265,-17.213,-35.635,-32.238,-25.111,-39.32C-13.119,-47.39,-4.734,-29.796,6.507,-13.092C6.507,-13.092,34.285,29.259,34.285,29.259" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-33" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-20" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-13-3" opacity="1" transform="translate(54.183,-25.739)">
+                            <g id="Group-Layer-130-3" opacity="1">
+                                <path id="Path-Layer-130-3" fill="url(#Gradient-5)" d="M13.139,18.096C7.859,5.202,7.3,-11.226,9.757,-22.017C11.763,-30.828,10.946,-36.218,1.654,-37.122C-2.684,-37.544,-8.336,-35.864,-12.974,-26.969C-15.27,-22.564,-16.373,-17.556,-16.748,-12.551C-16.748,-12.551,16.719,37.181,16.719,37.181C16.943,30.941,15.864,24.49,13.137,18.097C13.137,18.097,13.138,18.096,13.138,18.096C13.138,18.096,13.139,18.096,13.139,18.096Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-34" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-21" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-14-3" opacity="1" transform="translate(-37.474,-6.414)">
+                            <g id="Group-8-3" opacity="1">
+                                <path id="Path-8-3" fill="url(#Gradient-6)" d="M1.77,17.27C-16.589,-7.394,-32.001,-35.904,-22.209,-42.592C-12.323,-49.036,-5.506,-30.123,5.893,-16.031C5.893,-16.031,21.251,5.239,21.251,5.239" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-35" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-22" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-18-3" opacity="1" transform="translate(-31.24,-40.123)">
+                            <g id="Group-4-3" opacity="1">
+                                <path id="Path-4-3" fill="url(#Gradient-7)" d="M15.275,39.188C15.275,39.188,-11.275,2.62,-11.275,2.62C-22.516,-14.084,-31.786,-31.021,-21.903,-37.672C-17.496,-40.637,-13.556,-39.045,-10.017,-34.688C-6.785,-29.344,-1.59,-21.479,4.375,-13.019C4.375,-13.019,30.465,23.563,30.465,23.563" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-36" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-23" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-1-3" opacity="1" transform="translate(-16.448,-43.878)">
+                            <g id="Group-1-3" opacity="1">
+                                <path id="Path-1-3" fill="#b77e58" d="M-3.973,-42.942C-2.11,-36.22,5.202,-27.667,11.424,-17.97C11.424,-17.97,34.125,16.566,34.125,16.566C34.125,16.566,34.998,15.405,34.998,15.405C34.998,15.405,-3.973,-42.942,-3.973,-42.942ZM16.733,27.077C16.733,27.077,-28.121,-36.93,-28.121,-36.93C-25.189,-30.201,-19.535,-22.268,-13.915,-13.916C-13.915,-13.916,15.825,27.934,15.825,27.934C15.825,27.934,16.733,27.077,16.733,27.077ZM1.365,41.872C1.365,41.872,0.291,42.942,0.291,42.942C0.291,42.942,-26.259,6.374,-26.259,6.374C-29.435,1.654,-32.455,-3.085,-34.929,-7.605C-36.835,-11.087,1.365,41.872,1.365,41.872Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-37" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-18-12" opacity="1" transform="translate(84.28,119.844) translate(-50,-50)"/>
+                </g>
+                <g id="Null-16-38" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-24" opacity="1" transform="translate(104.271,119.844) translate(-50,-50)"/>
+                </g>
+                <g id="Null-16-39" opacity="1" transform="translate(80,80) translate(-50,-50)"/>
+            </g>
+        </g>
+        <g id="Library-2-2" opacity="0" transform="translate(80,80) translate(-80,-80)">
+            <g id="clap-skintone2-2-2" opacity="0" transform="translate(80,80) translate(-80,-80)">
+                <g id="Null-16-40" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-18-13" transform="translate(84.28,119.844) translate(-50,-50)">
+                        <g id="Layer-8-4" opacity="0" transform="translate(11.419,-17.383)">
+                            <g id="Group-2Layer-8-4" opacity="1">
+                                <path id="Path-2Layer-8-4" fill="#917263" d="M63.623,2.447C63.623,2.447,63.624,2.445,63.624,2.445C63.624,2.445,63.625,2.445,63.625,2.445C56.38,-9.457,53.24,-25.592,53.967,-36.635C54.561,-45.652,52.906,-50.845,43.587,-50.275C39.237,-50.009,33.919,-47.459,30.74,-37.945C29.166,-33.234,28.867,-28.114,29.284,-23.112C29.284,-23.112,2.773,-52.427,2.773,-52.427C-10.958,-67.152,-22.892,-81.852,-33.464,-71.994C-38.053,-67.715,-36.648,-62.958,-32.577,-57.547C-42.183,-68.101,-50.531,-75.672,-58.6,-68.148C-63.461,-63.615,-60.901,-54.849,-53.667,-46.117C-58.053,-50.297,-62.061,-51.892,-66.386,-47.859C-75.098,-39.735,-63.276,-24.469,-49.545,-9.744C-49.545,-9.744,-22.671,16.978,-22.671,16.978C-22.683,17.031,-22.659,16.925,-22.671,16.978C-22.671,16.978,-38.213,0.966,-38.213,0.966C-51.69,-11.155,-60.413,-26.842,-68.893,-17.818C-74.989,-11.331,-63.1,7.583,-45.423,26.539C-13.168,61.128,9.304,74.573,26.701,75.18C55.888,76.199,83.845,34.605,63.623,2.447Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-41" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-18-14" transform="translate(84.28,119.844) translate(-50,-50)">
+                        <g id="Layer-5-4" opacity="0" transform="translate(-28.352,-31.386)">
+                            <g id="Group-Layer-58-4" opacity="1">
+                                <path id="Path-Layer-58-4" fill="url(#Gradient-0)" d="M22.205,36.19C22.205,36.19,-9.773,4.259,-9.773,4.259C-23.504,-10.466,-35.327,-25.732,-26.615,-33.856C-17.558,-42.302,-9.887,-26.074,2.761,-13.091C2.761,-13.091,29.597,13.871,29.597,13.871" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-42" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-18-15" transform="translate(84.28,119.844) translate(-50,-50)">
+                        <g id="Layer-3-4" opacity="0" transform="translate(-28.224,2.439)">
+                            <g id="Group-Layer-37-4" opacity="1">
+                                <path id="Path-Layer-37-4" fill="url(#Gradient-1)" d="M30.879,40.341C3.344,20.177,-41.416,-27.799,-28.634,-38.251C-19.886,-46.172,-10.99,-29.905,1.444,-17.305C1.444,-17.305,29.986,6.278,29.986,6.278" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-43" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-25" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-12-4" opacity="0" transform="translate(4.209,-19.844)">
+                            <g id="Group-Layer-124-4" opacity="1">
+                                <path id="Path-Layer-124-4" fill="url(#Gradient-2)" d="M63.112,12.202C63.112,12.202,63.112,12.201,63.112,12.201C63.112,12.201,63.113,12.201,63.113,12.201C57.833,-0.693,57.274,-17.121,59.731,-27.912C61.737,-36.723,60.921,-42.113,51.629,-43.017C47.291,-43.439,41.638,-41.759,37,-32.864C34.704,-28.459,33.601,-23.451,33.226,-18.446C33.226,-18.446,11.663,-51.57,11.663,-51.57C0.422,-68.274,-9.047,-84.67,-21.04,-76.6C-26.245,-73.097,-25.607,-68.178,-22.439,-62.194C-30.263,-74.129,-37.314,-82.921,-46.467,-76.761C-51.981,-73.05,-50.834,-63.99,-45.066,-54.228C-48.739,-59.046,-52.446,-61.254,-57.352,-57.952C-67.235,-51.301,-57.518,-34.665,-46.277,-17.961C-46.277,-17.961,-56.846,-36.394,-64.559,-28.681C-70.853,-22.387,-62.839,-2.684,-48.368,18.819C-21.963,58.056,-1.89,74.872,15.195,78.212C43.857,83.815,78.017,47.144,63.112,12.202Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-44" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-26" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-11-4" opacity="0" transform="translate(13.359,-59.569)">
+                            <g id="Group-Layer-113-4" opacity="1">
+                                <path id="Path-Layer-113-4" fill="url(#Gradient-3)" d="M24.412,21.705C24.412,21.705,2.513,-11.845,2.513,-11.845C-8.728,-28.549,-18.198,-44.945,-30.19,-36.875C-40.464,-29.961,-27.98,-17.534,-18.191,-2.279C-18.191,-2.279,4.565,31.746,4.565,31.746" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-45" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-27" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-10-4" opacity="0" transform="translate(-17.148,-57.285)">
+                            <g id="Group-Layer-102-4" opacity="1">
+                                <path id="Path-Layer-102-4" fill="url(#Gradient-4)" d="M16.716,41.341C16.716,41.341,-13.024,-0.509,-13.024,-0.509C-24.265,-17.213,-35.635,-32.238,-25.111,-39.32C-13.119,-47.39,-4.734,-29.796,6.507,-13.092C6.507,-13.092,34.285,29.259,34.285,29.259" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-46" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-28" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-13-4" opacity="0" transform="translate(54.183,-25.739)">
+                            <g id="Group-Layer-130-4" opacity="1">
+                                <path id="Path-Layer-130-4" fill="url(#Gradient-5)" d="M13.139,18.096C7.859,5.202,7.3,-11.226,9.757,-22.017C11.763,-30.828,10.946,-36.218,1.654,-37.122C-2.684,-37.544,-8.336,-35.864,-12.974,-26.969C-15.27,-22.564,-16.373,-17.556,-16.748,-12.551C-16.748,-12.551,16.719,37.181,16.719,37.181C16.943,30.941,15.864,24.49,13.137,18.097C13.137,18.097,13.138,18.096,13.138,18.096C13.138,18.096,13.139,18.096,13.139,18.096Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-47" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-29" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-14-4" opacity="0" transform="translate(-37.474,-6.414)">
+                            <g id="Group-8-4" opacity="1">
+                                <path id="Path-8-4" fill="url(#Gradient-6)" d="M1.77,17.27C-16.589,-7.394,-32.001,-35.904,-22.209,-42.592C-12.323,-49.036,-5.506,-30.123,5.893,-16.031C5.893,-16.031,21.251,5.239,21.251,5.239" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-48" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-30" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-18-4" opacity="0" transform="translate(-31.24,-40.123)">
+                            <g id="Group-4-4" opacity="1">
+                                <path id="Path-4-4" fill="url(#Gradient-7)" d="M15.275,39.188C15.275,39.188,-11.275,2.62,-11.275,2.62C-22.516,-14.084,-31.786,-31.021,-21.903,-37.672C-17.496,-40.637,-13.556,-39.045,-10.017,-34.688C-6.785,-29.344,-1.59,-21.479,4.375,-13.019C4.375,-13.019,30.465,23.563,30.465,23.563" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-49" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-31" transform="translate(104.271,119.844) translate(-50,-50)">
+                        <g id="Layer-1-4" opacity="0" transform="translate(-16.448,-43.878)">
+                            <g id="Group-1-4" opacity="1">
+                                <path id="Path-1-4" fill="#b77e58" d="M-3.973,-42.942C-2.11,-36.22,5.202,-27.667,11.424,-17.97C11.424,-17.97,34.125,16.566,34.125,16.566C34.125,16.566,34.998,15.405,34.998,15.405C34.998,15.405,-3.973,-42.942,-3.973,-42.942ZM16.733,27.077C16.733,27.077,-28.121,-36.93,-28.121,-36.93C-25.189,-30.201,-19.535,-22.268,-13.915,-13.916C-13.915,-13.916,15.825,27.934,15.825,27.934C15.825,27.934,16.733,27.077,16.733,27.077ZM1.365,41.872C1.365,41.872,0.291,42.942,0.291,42.942C0.291,42.942,-26.259,6.374,-26.259,6.374C-29.435,1.654,-32.455,-3.085,-34.929,-7.605C-36.835,-11.087,1.365,41.872,1.365,41.872Z" fill-opacity="1" fill-rule="nonzero"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Null-16-50" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-18-16" opacity="0" transform="translate(84.28,119.844) translate(-50,-50)"/>
+                </g>
+                <g id="Null-16-51" transform="translate(80,80) translate(-50,-50)">
+                    <g id="Null-17-32" opacity="0" transform="translate(104.271,119.844) translate(-50,-50)"/>
+                </g>
+                <g id="Null-16-52" opacity="0" transform="translate(80,80) translate(-50,-50)"/>
+            </g>
+        </g>
+    </g>
+    <g id="Loading" opacity="1" transform="translate(140,140) translate(-140,-140)">
+        <g id="Background" opacity="1" transform="translate(140,140) scale(0.92,0.92)">
+            <g id="Ellipse-1" opacity="1" transform="translate(0.469,-0.609)">
+                <path id="Ellipse-Path-1" fill="#000000" d="M0,-120C66.2742,-120,120,-66.2742,120,0C120,66.2742,66.2742,120,0,120C-66.2742,120,-120,66.2742,-120,0C-120,-66.2742,-66.2742,-120,0,-120Z" fill-opacity="0.12" fill-rule="nonzero"/>
+            </g>
+        </g>
+        <g id="Outline" opacity="1" transform="translate(140,140)">
+            <g id="Ellipse-1-2" opacity="1" transform="translate(0.469,-0.609)">
+                <path id="Ellipse-Path-1-2" fill="none" d="M0,-115C63.5127,-115,115,-63.5127,115,0C115,63.5127,63.5127,115,0,115C-63.5127,115,-115,63.5127,-115,0C-115,-63.5127,-63.5127,-115,0,-115Z" stroke="#000000" stroke-opacity="0.2" stroke-width="8" stroke-miterlimit="4" stroke-linecap="round" stroke-linejoin="miter"/>
+            </g>
+        </g>
+        <g id="Progress" opacity="1" transform="translate(140,140)">
+            <g id="Ellipse-1-3" opacity="1" transform="translate(0.469,-0.609)">
+                <path id="Ellipse-Path-1-3" fill="none" d="M0,-115C63.5127,-115,115,-63.5127,115,0C115,63.5127,63.5127,115,0,115C-63.5127,115,-115,63.5127,-115,0C-115,-63.5127,-63.5127,-115,0,-115Z" stroke="#ffffff" stroke-opacity="0.6" stroke-width="8" stroke-miterlimit="4" stroke-linecap="round" stroke-linejoin="miter" stroke-dasharray="722.377" stroke-dashoffset="-722.377"/>
+            </g>
+        </g>
+    </g>
+    <script><![CDATA[/*
+ KeyshapeJS v1.1.1 (c) 2018-2021 Pixofield Ltd | pixofield.com/keyshapejs/mit-license */
+window.KeyshapeJS=function(){function t(a){return"undefined"!==typeof a}function x(a,b){return a&&0==a.indexOf(b)}function R(a){var b={},c;for(c in a)b[c]=a[c];return b}function H(a){if(!isFinite(a))throw Error("Non-finite value");}function S(a){if(14>=a)return 16;var b=T[a];b||(b=t(da[a])?0|(a.toLowerCase().indexOf("color")==a.length-5?48:0):1);return b}function K(a){return 0<=a?Math.pow(a,1/3):-Math.pow(-a,1/3)}function ea(a,b,c,d){if(0==a)return 0==b?b=-d/c:(a=Math.sqrt(c*c-4*b*d),d=(-c+a)/(2*
+b),0<=d&&1>=d?b=d:(d=(-c-a)/(2*b),b=0<=d&&1>=d?d:0)),b;var e=c/a-b*b/(a*a)/3;c=b*b*b/(a*a*a)/13.5-b*c/(a*a)/3+d/a;var n=c*c/4+e*e*e/27;b=-b/(3*a);if(0>=n){if(0==e&&0==c)return-K(d/a);a=Math.sqrt(c*c/4-n);d=Math.acos(-c/2/a);c=Math.cos(d/3);d=Math.sqrt(3)*Math.sin(d/3);a=K(a);e=2*a*c+b;if(0<=e&&1>=e)return e;e=-a*(c+d)+b;if(0<=e&&1>=e)return e;e=a*(d-c)+b;if(0<=e&&1>=e)return e}else{a=K(-c/2+Math.sqrt(n));c=K(-c/2-Math.sqrt(n));d=a+c+b;if(0<=d&&1>=d)return d;d=-(a+c)/2+b;if(0<=d&&1>=d)return d}return 0}
+function fa(a,b){if(48==a&&"number"===typeof b)return"rgba("+(b>>>24)+","+(b>>>16&255)+","+(b>>>8&255)+","+(b&255)/255+")";if(64==a)return b=b.map(function(a){return a+"px"}),b.join(",");if(96==a){a="";for(var c=b.length,d=0;d<c;d+=2)a+=b[d],a+=b[d+1].join(",");return a}if(80==a){if(0==b[0])return"none";a="";c=b.length;for(d=0;d<c;)a+=U[b[d]],1==b[d]?a+="("+b[d+1]+") ":5==b[d]?(a+="("+b[d+1]+"px "+b[d+2]+"px "+b[d+3]+"px rgba("+(b[d+4]>>>24)+","+(b[d+4]>>16&255)+","+(b[d+4]>>8&255)+","+(b[d+4]&255)/
+255+")) ",d+=3):a=2==b[d]?a+("("+b[d+1]+"px) "):7==b[d]?a+("("+b[d+1]+"deg) "):a+("("+(0>b[d+1]?0:b[d+1])+") "),d+=2;return a}return 32==a?b+"px":b}function y(a){return 0>=a?0:255<=a?255:a}function ha(a,b,c,d){if(16==a||32==a)return(c-b)*d+b;if(0==a)return.5>d?b:c;if(48==a){if("number"===typeof b&&"number"===typeof c){var e=1-d;return(y(e*(b>>>24)+d*(c>>>24))<<24|y(e*(b>>>16&255)+d*(c>>>16&255))<<16|y(e*(b>>>8&255)+d*(c>>>8&255))<<8|y(e*(b&255)+d*(c&255)))>>>0}return.5>d?b:c}if(64==a){0==b.length&&
+(b=[0]);0==c.length&&(c=[0]);var n=b.length;b.length!=c.length&&(n=b.length*c.length);var q=[];for(a=0;a<n;++a){var h=b[a%b.length];var g=(c[a%c.length]-h)*d+h;0>g&&(g=0);q.push(g)}return q}if(96==a){if(b.length!=c.length)return.5>d?b:c;n=b.length;q=[];for(a=0;a<n;a+=2){if(b[a]!==c[a])return.5>d?b:c;q[a]=b[a];q[a+1]=[];for(h=0;h<b[a+1].length;++h)q[a+1].push((c[a+1][h]-b[a+1][h])*d+b[a+1][h])}return q}if(80==a){n=b.length;if(n!=c.length)return.5>d?b:c;q=[];for(a=0;a<n;){if(b[a]!=c[a]||1==b[a])return.5>
+d?b:c;q[a]=b[a];q[a+1]=(c[a+1]-b[a+1])*d+b[a+1];if(5==b[a]){q[a+2]=(c[a+2]-b[a+2])*d+b[a+2];q[a+3]=(c[a+3]-b[a+3])*d+b[a+3];e=1-d;var f=b[a+4],l=c[a+4];g=e*(f>>>24)+d*(l>>>24);var m=e*(f>>16&255)+d*(l>>16&255);h=e*(f>>8&255)+d*(l>>8&255);e=e*(f&255)+d*(l&255);q[a+4]=(y(m)<<16|y(h)<<8|y(e))+16777216*(y(g)|0);a+=3}a+=2}return q}return 0}function V(a,b){a:{var c=a+b[2];var d=b[4].length;for(var e=0;e<d;++e)if(c<b[4][e]){c=e;break a}c=d-1}d=b[2];e=b[4][c-1]-d;a=(a-e)/(b[4][c]-d-e);if(b[6]&&b[6].length>
+c-1)if(d=b[6][c-1],1==d[0])if(0>=a)a=0;else if(1<=a)a=1;else{e=d[1];var n=d[3];a=ea(3*e-3*n+1,-6*e+3*n,3*e,-a);a=3*a*(1-a)*(1-a)*d[2]+3*a*a*(1-a)*d[4]+a*a*a}else 2==d[0]?(d=d[1],a=Math.ceil(a*d)/d):3==d[0]&&(d=d[1],a=Math.floor(a*d)/d);return ha(b[1]&240,b[5][c-1],b[5][c],a)}function L(){u||(v=(new Date).getTime()+W)}function O(a){if(a||!E){for(var b=!1,c=0;c<w.length;++c)w[c].J(a)&&(b=!0);if(a)for(;0<I.length;)if(a=I.shift(),c=a[0],1==a[1])c.onfinish&&(c.onfinish(),b=!0),c.I();else if(2==a[1]&&c.onloop)c.onloop();
+return b}}function X(){L();O(!0)&&!u?(E=!0,M(X)):E=!1}function N(){E||(E=!0,M(X))}function Y(a,b){var c=[];a.split(b).forEach(function(a){c.push(parseFloat(a))});return c}function A(a){-1==a.indexOf(",")&&(a=a.replace(" ",","));return Y(a,",")}function Z(a){a._ks||(a._ks={});if(!a._ks.transform){for(var b=a._ks.transform=[],c=0;14>=c;++c)b[c]=0;b[10]=1;b[11]=1;if(a=a.getAttribute("transform")){a=a.trim().split(") ");for(c=a.length-2;0<=c;--c)if(x(a[c],"translate(")){for(var d=0;d<c;d++)a.shift();
+break}c=a.shift();x(c,"translate(")&&(c=A(c.substring(10)),b[1]=c[0],b[2]=t(c[1])?c[1]:0,c=a.shift());x(c,"rotate(")&&(c=A(c.substring(7)),b[6]=c[0],c=a.shift());x(c,"skewX(")&&(c=A(c.substring(6)),b[7]=c[0],c=a.shift());x(c,"skewY(")&&(c=A(c.substring(6)),b[8]=c[0],c=a.shift());x(c,"scale(")&&(c=A(c.substring(6)),b[10]=c[0],b[11]=t(c[1])?c[1]:c[0],c=a.shift());x(c,"translate(")&&(c=A(c.substring(10)),b[13]=c[0],b[14]=t(c[1])?c[1]:0)}}}function aa(a){this.h=a;this.A=[];this.C=[];this.v=0;this.s=this.a=
+this.c=null;this.i=this.f=this.g=0;this.b=1;this.j=this.F=this.o=!1}function J(a,b,c){b=a[b];void 0===b&&(b=a[c]);return b}function ia(a){return Array.isArray(a)?a:x(a,"cubic-bezier(")?(a=a.substring(13,a.length-1).split(","),[1,parseFloat(a[0]),parseFloat(a[1]),parseFloat(a[2]),parseFloat(a[3])]):x(a,"steps(")?(a=a.substring(6,a.length-1).split(","),[a[1]&&"start"==a[1].trim()?2:3,parseFloat(a[0])]):[0]}function ja(a){a=a.trim();return x(a,"#")?(parseInt(a.substring(1),16)<<8)+255:x(a,"rgba(")?(a=
+a.substring(5,a.length-1),a=a.split(","),(parseInt(a[0],10)<<24)+(parseInt(a[1],10)<<16)+(parseInt(a[2],10)<<8)+255*parseFloat(a[3])<<0):a}function ba(a){!1===a.j&&(w.push(a),a.j=!0,!1!==a.h.autoplay&&a.play());return this}function P(a){if(!0===a.j){a._cancel();var b=w.indexOf(a);-1<b&&w.splice(b,1);b=I.indexOf(a);-1<b&&I.splice(b,1);a.j=!1}return this}var Q=Error("Not in timeline list"),ca="mpath posX posY    rotate skewX skewY  scaleX scaleY  anchorX anchorY".split(" "),ka=" translate translate    rotate skewX skewY  scale scale  translate translate".split(" "),
+U="none url blur brightness contrast drop-shadow grayscale hue-rotate invert opacity saturate sepia".split(" "),M=window.requestAnimationFrame||window.webkitRequestAnimationFrame||window.mozRequestAnimationFrame||window.oRequestAnimationFrame||window.msRequestAnimationFrame||null;M||(M=function(a){window.setTimeout(a,16)});var la=navigator.vendor.match(/apple/i),T={d:97,fill:48,fillOpacity:16,filter:80,height:33,opacity:16,offsetDistance:33,stroke:48,strokeDasharray:64,strokeDashoffset:32,strokeOpacity:16,
+strokeWidth:32,transform:1,width:33},da=window.getComputedStyle(document.documentElement),E=!1,v=(new Date).getTime(),u,W=0,w=[],I=[];aa.prototype={B:function(a){var b=0;if(null!==this.c){var c=this.l();0<this.b&&null!==c&&c>=this.f?this.i?(this.c=v-this.g/this.b,this.i--,b=2):(b=1,a?this.a=c:this.a=this.s?Math.max(this.s,this.f):this.f):0>this.b&&null!==c&&c<=this.g?this.i&&Infinity!=this.f?(this.c=v-this.f/this.b,this.i--,b=2):(this.i=0,b=1,a?this.a=c:this.a=this.s?Math.min(this.s,this.g):this.g):
+null!==c&&0!=this.b&&(a&&null!==this.a&&(this.c=v-this.a/this.b),this.a=null)}this.s=this.l();return b},J:function(a){a&&(this.o&&(this.o=!1,null===this.c&&(0!=this.b&&null!==this.a?(this.c=v-this.a/this.b,this.a=null):this.c=v)),null===this.a&&null!==this.c&&(a=this.B(!1),0!=a&&I.push([this,a])));a=this.l();if(null===a)return!1;for(var b=this.A,c=this.C,d=0;d<b.length;++d){for(var e=b[d],n=!1,q=0;q<c[d].length;++q){var h=c[d][q],g=h[0];if(null!==g){var f=h[2];var l=h[4].length,m=h[4][l-1]-f;f=0==
+m?h[5][l-1]:a<=f?h[5][0]:a>=f+h[3]?0==h[3]%m?h[5][l-1]:V(h[3]%m,h):V((a-f)%m,h);0==g?(e._ks.mpath=h[8],e._ks.transform[g]=f,n=!0):14>=g?(e._ks.transform[g]=f,n=!0):(f=fa(h[1]&240,f),h[1]&1?e.setAttribute(g,f):e.style[g]=f)}}if(n){n=e;Z(n);q=n._ks.transform;h="";if(g=n._ks.mpath)l=q[0],0>l&&(l=0),100<l&&(l=100),l=l*g[2]/100,f=g[1].getPointAtLength(l),h="translate("+f.x+","+f.y+") ",g[0]&&(.5>l?(l=f,f=g[1].getPointAtLength(.5)):l=g[1].getPointAtLength(l-.5),h+="rotate("+180*Math.atan2(f.y-l.y,f.x-l.x)/
+Math.PI+") ");for(g=1;g<q.length;++g)f=q[g],f!=(10==g||11==g?1:0)&&(h+=" "+ka[g]+"(",h=2>=g?h+(1==g?f+",0":"0,"+f):13<=g?h+(13==g?f+",0":"0,"+f):10<=g?h+(10==g?f+",1":"1,"+f):h+f,h+=")");n.setAttribute("transform",h)}la&&e.setAttribute("opacity",e.getAttribute("opacity"))}return"running"==this.m()},I:function(){!1!==this.h.autoremove&&"finished"==this.m()&&P(this)},D:function(){if(!this.F){this.F=!0;for(var a=this.A,b=this.C,c=0;c<a.length;++c)for(var d=a[c],e=0;e<b[c].length;++e)14>=b[c][e][0]&&
+Z(d)}},u:function(a){if("number"==typeof a)return a;if(!t(this.h.markers)||!t(this.h.markers[a]))throw Error("Invalid marker: "+a);return+this.h.markers[a]},play:function(a){t(a)&&null!==a&&(a=this.u(a),H(a),0>this.b&&a<this.g&&(a=this.g),0<this.b&&a>this.f&&(a=this.f),this.w(a,!0));if(!this.j)throw Q;a=this.l();if(0<this.b&&(null===a||a>=this.f))this.a=this.g;else if(0>this.b&&(null===a||a<=this.g)){if(Infinity==this.f)throw Error("Cannot seek to Infinity");this.a=this.f}else 0==this.b&&null===a&&
+(this.a=this.g);if(null===this.a)return this;this.c=null;this.o=!0;this.D();N();return this},pause:function(a){if(!this.j)throw Q;t(a)&&(a=this.u(a),H(a));if("paused"!=this.m()){L();var b=this.l();if(null===b)if(0<=this.b)this.a=this.g;else{if(Infinity==this.f)throw Error("Cannot seek to Infinity");this.a=this.f}null!==this.c&&null===this.a&&(this.a=b);this.c=null;this.o=!1;this.B(!1);this.D();N()}t(a)&&this.w(a,!0);return this},range:function(a,b){if(0==arguments.length)return{"in":this.g,out:this.f};
+var c=this.u(a),d=this.v;t(b)&&(d=this.u(b));H(c);if(0>c||0>d||c>=d||isNaN(d))throw Error("Invalid range");var e=this.m();this.g=c;this.f=d;"finished"==e&&"running"==this.m()&&this.play();return this},loop:function(a){if(!t(a))return{count:this.i};this.i=!0===a?Infinity:Math.floor(a);if(0>this.i||isNaN(this.i))this.i=0;return this},l:function(){return null!==this.a?this.a:null===this.c?null:(v-this.c)*this.b},w:function(a,b){b&&L();null!==a&&(this.D(),null!==this.a||null===this.c||0==this.b?(this.a=
+a,O(!1)):this.c=v-a/this.b,this.j||(this.c=null),this.s=null,this.B(!0),N())},G:function(){return this.l()},time:function(a){if(t(a)){if(!this.j)throw Q;a=this.u(a);H(a);this.w(a,!0);return this}return this.G()},m:function(){var a=this.l();return this.o?"running":null===a?"idle":null===this.c?"paused":0<this.b&&a>=this.f||0>this.b&&a<=this.g?"finished":"running"},state:function(){return this.m()},duration:function(){return this.v},H:function(a){H(a);L();var b=this.l();this.b=a;null!==b&&this.w(b,
+!1)},rate:function(a){return t(a)?(this.H(a),this):this.b},markers:function(a){return t(a)?(this.h.markers=R(a),this):t(this.h.markers)?this.h.markers:{}},marker:function(a){return t(this.h.markers)?this.h.markers[a]:void 0},_cancel:function(){if(!this.j||"idle"==this.m())return this;this.c=this.a=null;this.o=!1;return this}};return{version:"1.1.1",animate:function(){var a={};1==arguments.length%2&&(a=R(arguments[arguments.length-1]));a=new aa(a);for(var b=arguments,c=0,d=0;d<b.length-1;d+=2){var e=
+b[d];var n=e instanceof Element?e:document.getElementById(e.substring(1));if(!n)throw Error("Invalid target: "+e);e=n;n=b[d+1];e._ks||(e._ks={});for(var q=[],h=0;h<n.length;++h){var g=n[h],f=J(g,"p","property");if("string"!=typeof f||-1!=f.indexOf("-")||""===f||!(0<T[f]||0<=ca.indexOf(f)))throw Error("Invalid property: "+f);var l=ca.indexOf(f);""!==f&&0<=l&&(f=l);l=S(f);var m=J(g,"t","times");if(!m||2>m.length)throw Error("Not enough times");m=m.slice();if(!isFinite(m[0])||0>m[0])throw Error("Invalid time: "+
+m[0]);for(var B=1;B<m.length;++B)if(!isFinite(m[B])||0>m[B]||m[B]<m[B-1])throw Error("Invalid time: "+m[B]);B=m[0];var v=m[m.length-1]-B,y=g.iterations||0;1>y&&(y=1);v*=y;c<v+B&&(c=v+B);var u=J(g,"v","values");if(!u||u.length!=m.length)throw Error("Values do not match times");u=u.slice();for(var C=f,k=u,w=S(C)&240,p=0;p<k.length;++p)if(96==w){for(var G=k[p].substring(6,k[p].length-2).match(/[A-DF-Za-df-z][-+0-9eE., ]*/ig),A=[],r=0;r<G.length;++r){A.push(G[r][0]);for(var z=1<G[r].trim().length?G[r].substring(1).split(","):
+[],F=0;F<z.length;++F)z[F]=parseFloat(z[F]);A.push(z)}k[p]=A}else if(48==w)x(k[p],"#")?(G=9==k[p].length,k[p]=parseInt(k[p].substring(1),16),G||(k[p]=256*k[p]|255)):x(k[p],"url(")||"none"==k[p]||(console.warn("unsupported color: "+k[p]),k[p]=0);else if(80==w){G=k;A=p;r=k[p];if("none"==r)r=[0];else{z=[];for(var D=r.indexOf("(");0<D;)if(F=U.indexOf(r.substring(0,D)),0<=F){z.push(F);var E=r.indexOf(") ");0>E&&(E=r.length-1);D=r.substring(D+1,E).split(" ");5==F?(z.push(parseFloat(D[0])),z.push(parseFloat(D[1])),
+z.push(parseFloat(D[2])),z.push(ja(D[3]))):1==F?z.push(D[0]):z.push(parseFloat(D[0]));r=r.substring(E+1).trim();D=r.indexOf("(")}else break;r=z}G[A]=r}else 64==w?"none"!=k[p]?/^[0-9 .]*$/.test(k[p])?k[p]=Y(k[p]," "):(console.warn("unsupported value: "+k[p]),k[p]=[0]):k[p]=[0]:32==w?(H(k[p]),k[p]=parseFloat(k[p])):0===C&&(k[p]=parseFloat(k[p]));C=J(g,"e","easing");k=m.length;for(C||(C=[]);C.length<k;)C.push([1,0,0,.58,1]);for(k=0;k<C.length;++k)C[k]=ia(C[k]);l=[f,l,B,v,m,u,C,y];m=J(g,"mp","motionPath");
+t(m)&&0===f&&(l[8]=[],l[8][0]=g.motionRotate,g=document.createElementNS("http://www.w3.org/2000/svg","path"),m||(m="M0,0"),g.setAttribute("d",m),l[8][1]=g,l[8][2]=g.getTotalLength());q.push(l)}0<q.length&&(a.A.push(e),a.C.push(q))}a.v=c;a.g=0;a.f=a.v;ba(a);return a},add:ba,remove:P,removeAll:function(){for(var a=w.length-1;0<=a;--a)P(w[a]);return this},timelines:function(){return w.slice()},globalPlay:function(){u&&(W=u-(new Date).getTime(),u=void 0,N());return this},globalPause:function(){u||(u=
+v,O(!1));return this},globalState:function(){return u?"paused":"running"}}}();
+]]></script>
+    <script><![CDATA[if(KeyshapeJS.version.indexOf('1.')!=0)throw Error('Expected KeyshapeJS v1.*.*');window.ks=document.ks=KeyshapeJS;(function(ks){
+ks.animate("#Loop-5s-with-loading",[{p:'mpath',t:[2333,2542,3375],v:['0%','82.03971%','100%'],e:[[1,0.333,0,0.667,0.949],[1,0.178,0.482,0.667,1],[0]],mp:"M139.751,139.005L212.378,211.794C221.363,221.399,227.673,227.694,228,228"},{p:'scaleX',t:[1083,2333,2542,3375,4533,4833],v:[1.15,1.15,0.72542,0.6,0.62,0.2],e:[[1,0.333,0,0.833,1],[1,0.147,0,0.674,0.888],[1,0.161,0.751,0.759,0.992],[1,0.167,0,0.833,1],[1,0.167,0,0.833,1],[0]]},{p:'scaleY',t:[1083,2333,2542,3375,4533,4833],v:[1.15,1.15,0.72542,0.6,0.62,0.2],e:[[1,0.333,0,0.833,1],[1,0.147,0,0.674,0.888],[1,0.161,0.751,0.759,0.992],[1,0.167,0,0.833,1],[1,0.167,0,0.833,1],[0]]},{p:'opacity',t:[1083,4533,4833],v:[1,1,0],e:[[1,0.167,0,0.833,1],[0],[0]]}],
+"#Library",[{p:'opacity',t:[0,1000,2500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#clap-skintone2",[{p:'opacity',t:[0,1000,2500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16",[{p:'posX',t:[1000,1167,1833,2100],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[1000,1167,1833,2100],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-18",[{p:'posX',t:[1000,1167,1333,1500,1667,1833,2100],v:[84.28,74.28,84.28,74.28,84.28,74.28,84.28],e:[[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.396,0,0.582,1],[0]]},{p:'posY',t:[1000,1167,1333,1500,1667,1833,2100],v:[119.844,125.844,119.844,125.844,119.844,125.844,119.844],e:[[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.396,0,0.582,1],[0]]},{p:'scaleX',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.88,1,0.88,1,0.88,1],e:[[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.438,0,0.546,1],[0]]},{p:'scaleY',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.88,1,0.88,1,0.88,1],e:[[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.438,0,0.546,1],[0]]}],
+"#Layer-8",[{p:'opacity',t:[0,1000,2500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-2",[{p:'posX',t:[1000,1167,1833,2100],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[1000,1167,1833,2100],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-18-2",[{p:'posX',t:[1000,1167,1333,1500,1667,1833,2100],v:[84.28,74.28,84.28,74.28,84.28,74.28,84.28],e:[[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.396,0,0.582,1],[0]]},{p:'posY',t:[1000,1167,1333,1500,1667,1833,2100],v:[119.844,125.844,119.844,125.844,119.844,125.844,119.844],e:[[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.396,0,0.582,1],[0]]},{p:'scaleX',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.88,1,0.88,1,0.88,1],e:[[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.438,0,0.546,1],[0]]},{p:'scaleY',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.88,1,0.88,1,0.88,1],e:[[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.438,0,0.546,1],[0]]}],
+"#Layer-5",[{p:'opacity',t:[0,1000,2500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-3",[{p:'posX',t:[1000,1167,1833,2100],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[1000,1167,1833,2100],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-18-3",[{p:'posX',t:[1000,1167,1333,1500,1667,1833,2100],v:[84.28,74.28,84.28,74.28,84.28,74.28,84.28],e:[[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.396,0,0.582,1],[0]]},{p:'posY',t:[1000,1167,1333,1500,1667,1833,2100],v:[119.844,125.844,119.844,125.844,119.844,125.844,119.844],e:[[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.396,0,0.582,1],[0]]},{p:'scaleX',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.88,1,0.88,1,0.88,1],e:[[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.438,0,0.546,1],[0]]},{p:'scaleY',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.88,1,0.88,1,0.88,1],e:[[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.438,0,0.546,1],[0]]}],
+"#Layer-3",[{p:'opacity',t:[0,1000,2500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-4",[{p:'posX',t:[1000,1167,1833,2100],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[1000,1167,1833,2100],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-17",[{p:'posX',t:[1000,1167,1333,1500,1667,1833,2100],v:[104.271,99.771,104.271,99.771,104.271,99.771,104.271],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'rotate',t:[1000,1167,1333,1500,1667,1833,2100],v:[0,15,0,15,0,15,0],e:[[1,0.333,0,0.667,1],[1,0.869,0,0.418,1],[1,0.333,0,0.667,1],[1,0.869,0,0.667,1],[1,0.333,0,0.667,1],[1,0.421,0,0.641,1],[0]]},{p:'scaleX',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'scaleY',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]}],
+"#Layer-12",[{p:'opacity',t:[0,1000,2500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-5",[{p:'posX',t:[1000,1167,1833,2100],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[1000,1167,1833,2100],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-17-2",[{p:'posX',t:[1000,1167,1333,1500,1667,1833,2100],v:[104.271,99.771,104.271,99.771,104.271,99.771,104.271],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'rotate',t:[1000,1167,1333,1500,1667,1833,2100],v:[0,15,0,15,0,15,0],e:[[1,0.333,0,0.667,1],[1,0.869,0,0.418,1],[1,0.333,0,0.667,1],[1,0.869,0,0.667,1],[1,0.333,0,0.667,1],[1,0.421,0,0.641,1],[0]]},{p:'scaleX',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'scaleY',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]}],
+"#Layer-11",[{p:'opacity',t:[0,1000,2500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-6",[{p:'posX',t:[1000,1167,1833,2100],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[1000,1167,1833,2100],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-17-3",[{p:'posX',t:[1000,1167,1333,1500,1667,1833,2100],v:[104.271,99.771,104.271,99.771,104.271,99.771,104.271],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'rotate',t:[1000,1167,1333,1500,1667,1833,2100],v:[0,15,0,15,0,15,0],e:[[1,0.333,0,0.667,1],[1,0.869,0,0.418,1],[1,0.333,0,0.667,1],[1,0.869,0,0.667,1],[1,0.333,0,0.667,1],[1,0.421,0,0.641,1],[0]]},{p:'scaleX',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'scaleY',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]}],
+"#Layer-10",[{p:'opacity',t:[0,1000,2500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-7",[{p:'posX',t:[1000,1167,1833,2100],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[1000,1167,1833,2100],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-17-4",[{p:'posX',t:[1000,1167,1333,1500,1667,1833,2100],v:[104.271,99.771,104.271,99.771,104.271,99.771,104.271],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'rotate',t:[1000,1167,1333,1500,1667,1833,2100],v:[0,15,0,15,0,15,0],e:[[1,0.333,0,0.667,1],[1,0.869,0,0.418,1],[1,0.333,0,0.667,1],[1,0.869,0,0.667,1],[1,0.333,0,0.667,1],[1,0.421,0,0.641,1],[0]]},{p:'scaleX',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'scaleY',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]}],
+"#Layer-13",[{p:'opacity',t:[0,1000,2500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-8",[{p:'posX',t:[1000,1167,1833,2100],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[1000,1167,1833,2100],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-17-5",[{p:'posX',t:[1000,1167,1333,1500,1667,1833,2100],v:[104.271,99.771,104.271,99.771,104.271,99.771,104.271],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'rotate',t:[1000,1167,1333,1500,1667,1833,2100],v:[0,15,0,15,0,15,0],e:[[1,0.333,0,0.667,1],[1,0.869,0,0.418,1],[1,0.333,0,0.667,1],[1,0.869,0,0.667,1],[1,0.333,0,0.667,1],[1,0.421,0,0.641,1],[0]]},{p:'scaleX',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'scaleY',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]}],
+"#Layer-14",[{p:'opacity',t:[0,1000,2500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-9",[{p:'posX',t:[1000,1167,1833,2100],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[1000,1167,1833,2100],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-17-6",[{p:'posX',t:[1000,1167,1333,1500,1667,1833,2100],v:[104.271,99.771,104.271,99.771,104.271,99.771,104.271],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'rotate',t:[1000,1167,1333,1500,1667,1833,2100],v:[0,15,0,15,0,15,0],e:[[1,0.333,0,0.667,1],[1,0.869,0,0.418,1],[1,0.333,0,0.667,1],[1,0.869,0,0.667,1],[1,0.333,0,0.667,1],[1,0.421,0,0.641,1],[0]]},{p:'scaleX',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'scaleY',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]}],
+"#Layer-18",[{p:'opacity',t:[0,1000,2500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-10",[{p:'posX',t:[1000,1167,1833,2100],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[1000,1167,1833,2100],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-17-7",[{p:'posX',t:[1000,1167,1333,1500,1667,1833,2100],v:[104.271,99.771,104.271,99.771,104.271,99.771,104.271],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'rotate',t:[1000,1167,1333,1500,1667,1833,2100],v:[0,15,0,15,0,15,0],e:[[1,0.333,0,0.667,1],[1,0.869,0,0.418,1],[1,0.333,0,0.667,1],[1,0.869,0,0.667,1],[1,0.333,0,0.667,1],[1,0.421,0,0.641,1],[0]]},{p:'scaleX',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'scaleY',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]}],
+"#Layer-1",[{p:'opacity',t:[0,1000,2500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-11",[{p:'posX',t:[1000,1167,1833,2100],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[1000,1167,1833,2100],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-18-4",[{p:'posX',t:[1000,1167,1333,1500,1667,1833,2100],v:[84.28,74.28,84.28,74.28,84.28,74.28,84.28],e:[[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.396,0,0.582,1],[0]]},{p:'posY',t:[1000,1167,1333,1500,1667,1833,2100],v:[119.844,125.844,119.844,125.844,119.844,125.844,119.844],e:[[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.396,0,0.582,1],[0]]},{p:'scaleX',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.88,1,0.88,1,0.88,1],e:[[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.438,0,0.546,1],[0]]},{p:'scaleY',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.88,1,0.88,1,0.88,1],e:[[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.438,0,0.546,1],[0]]},{p:'opacity',t:[0,1000,2500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-12",[{p:'posX',t:[1000,1167,1833,2100],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[1000,1167,1833,2100],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-17-8",[{p:'posX',t:[1000,1167,1333,1500,1667,1833,2100],v:[104.271,99.771,104.271,99.771,104.271,99.771,104.271],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'rotate',t:[1000,1167,1333,1500,1667,1833,2100],v:[0,15,0,15,0,15,0],e:[[1,0.333,0,0.667,1],[1,0.869,0,0.418,1],[1,0.333,0,0.667,1],[1,0.869,0,0.667,1],[1,0.333,0,0.667,1],[1,0.421,0,0.641,1],[0]]},{p:'scaleX',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'scaleY',t:[1000,1167,1333,1500,1667,1833,2100],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'opacity',t:[0,1000,2500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-13",[{p:'posX',t:[1000,1167,1833,2100],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[1000,1167,1833,2100],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[1000,1083,1167,1833,1967,2100],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'opacity',t:[0,1000,2500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Library-3",[{p:'opacity',t:[0,2500,4000],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#clap-skintone2-3",[{p:'opacity',t:[0,2500,4000],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-14",[{p:'posX',t:[2500,2667,3333,3600],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[2500,2667,3333,3600],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-18-5",[{p:'posX',t:[2500,2667,2833,3000,3167,3333,3600],v:[84.28,74.28,84.28,74.28,84.28,74.28,84.28],e:[[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.396,0,0.582,1],[0]]},{p:'posY',t:[2500,2667,2833,3000,3167,3333,3600],v:[119.844,125.844,119.844,125.844,119.844,125.844,119.844],e:[[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.396,0,0.582,1],[0]]},{p:'scaleX',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.88,1,0.88,1,0.88,1],e:[[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.438,0,0.546,1],[0]]},{p:'scaleY',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.88,1,0.88,1,0.88,1],e:[[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.438,0,0.546,1],[0]]}],
+"#Layer-8-2",[{p:'opacity',t:[0,2500,4000],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-15",[{p:'posX',t:[2500,2667,3333,3600],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[2500,2667,3333,3600],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-18-6",[{p:'posX',t:[2500,2667,2833,3000,3167,3333,3600],v:[84.28,74.28,84.28,74.28,84.28,74.28,84.28],e:[[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.396,0,0.582,1],[0]]},{p:'posY',t:[2500,2667,2833,3000,3167,3333,3600],v:[119.844,125.844,119.844,125.844,119.844,125.844,119.844],e:[[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.396,0,0.582,1],[0]]},{p:'scaleX',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.88,1,0.88,1,0.88,1],e:[[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.438,0,0.546,1],[0]]},{p:'scaleY',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.88,1,0.88,1,0.88,1],e:[[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.438,0,0.546,1],[0]]}],
+"#Layer-5-2",[{p:'opacity',t:[0,2500,4000],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-16",[{p:'posX',t:[2500,2667,3333,3600],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[2500,2667,3333,3600],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-18-7",[{p:'posX',t:[2500,2667,2833,3000,3167,3333,3600],v:[84.28,74.28,84.28,74.28,84.28,74.28,84.28],e:[[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.396,0,0.582,1],[0]]},{p:'posY',t:[2500,2667,2833,3000,3167,3333,3600],v:[119.844,125.844,119.844,125.844,119.844,125.844,119.844],e:[[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.396,0,0.582,1],[0]]},{p:'scaleX',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.88,1,0.88,1,0.88,1],e:[[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.438,0,0.546,1],[0]]},{p:'scaleY',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.88,1,0.88,1,0.88,1],e:[[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.438,0,0.546,1],[0]]}],
+"#Layer-3-2",[{p:'opacity',t:[0,2500,4000],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-17",[{p:'posX',t:[2500,2667,3333,3600],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[2500,2667,3333,3600],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-17-9",[{p:'posX',t:[2500,2667,2833,3000,3167,3333,3600],v:[104.271,99.771,104.271,99.771,104.271,99.771,104.271],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'rotate',t:[2500,2667,2833,3000,3167,3333,3600],v:[0,15,0,15,0,15,0],e:[[1,0.333,0,0.667,1],[1,0.869,0,0.418,1],[1,0.333,0,0.667,1],[1,0.869,0,0.667,1],[1,0.333,0,0.667,1],[1,0.421,0,0.641,1],[0]]},{p:'scaleX',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'scaleY',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]}],
+"#Layer-12-2",[{p:'opacity',t:[0,2500,4000],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-18",[{p:'posX',t:[2500,2667,3333,3600],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[2500,2667,3333,3600],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-17-10",[{p:'posX',t:[2500,2667,2833,3000,3167,3333,3600],v:[104.271,99.771,104.271,99.771,104.271,99.771,104.271],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'rotate',t:[2500,2667,2833,3000,3167,3333,3600],v:[0,15,0,15,0,15,0],e:[[1,0.333,0,0.667,1],[1,0.869,0,0.418,1],[1,0.333,0,0.667,1],[1,0.869,0,0.667,1],[1,0.333,0,0.667,1],[1,0.421,0,0.641,1],[0]]},{p:'scaleX',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'scaleY',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]}],
+"#Layer-11-2",[{p:'opacity',t:[0,2500,4000],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-19",[{p:'posX',t:[2500,2667,3333,3600],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[2500,2667,3333,3600],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-17-11",[{p:'posX',t:[2500,2667,2833,3000,3167,3333,3600],v:[104.271,99.771,104.271,99.771,104.271,99.771,104.271],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'rotate',t:[2500,2667,2833,3000,3167,3333,3600],v:[0,15,0,15,0,15,0],e:[[1,0.333,0,0.667,1],[1,0.869,0,0.418,1],[1,0.333,0,0.667,1],[1,0.869,0,0.667,1],[1,0.333,0,0.667,1],[1,0.421,0,0.641,1],[0]]},{p:'scaleX',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'scaleY',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]}],
+"#Layer-10-2",[{p:'opacity',t:[0,2500,4000],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-20",[{p:'posX',t:[2500,2667,3333,3600],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[2500,2667,3333,3600],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-17-12",[{p:'posX',t:[2500,2667,2833,3000,3167,3333,3600],v:[104.271,99.771,104.271,99.771,104.271,99.771,104.271],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'rotate',t:[2500,2667,2833,3000,3167,3333,3600],v:[0,15,0,15,0,15,0],e:[[1,0.333,0,0.667,1],[1,0.869,0,0.418,1],[1,0.333,0,0.667,1],[1,0.869,0,0.667,1],[1,0.333,0,0.667,1],[1,0.421,0,0.641,1],[0]]},{p:'scaleX',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'scaleY',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]}],
+"#Layer-13-2",[{p:'opacity',t:[0,2500,4000],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-21",[{p:'posX',t:[2500,2667,3333,3600],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[2500,2667,3333,3600],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-17-13",[{p:'posX',t:[2500,2667,2833,3000,3167,3333,3600],v:[104.271,99.771,104.271,99.771,104.271,99.771,104.271],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'rotate',t:[2500,2667,2833,3000,3167,3333,3600],v:[0,15,0,15,0,15,0],e:[[1,0.333,0,0.667,1],[1,0.869,0,0.418,1],[1,0.333,0,0.667,1],[1,0.869,0,0.667,1],[1,0.333,0,0.667,1],[1,0.421,0,0.641,1],[0]]},{p:'scaleX',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'scaleY',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]}],
+"#Layer-14-2",[{p:'opacity',t:[0,2500,4000],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-22",[{p:'posX',t:[2500,2667,3333,3600],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[2500,2667,3333,3600],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-17-14",[{p:'posX',t:[2500,2667,2833,3000,3167,3333,3600],v:[104.271,99.771,104.271,99.771,104.271,99.771,104.271],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'rotate',t:[2500,2667,2833,3000,3167,3333,3600],v:[0,15,0,15,0,15,0],e:[[1,0.333,0,0.667,1],[1,0.869,0,0.418,1],[1,0.333,0,0.667,1],[1,0.869,0,0.667,1],[1,0.333,0,0.667,1],[1,0.421,0,0.641,1],[0]]},{p:'scaleX',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'scaleY',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]}],
+"#Layer-18-2",[{p:'opacity',t:[0,2500,4000],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-23",[{p:'posX',t:[2500,2667,3333,3600],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[2500,2667,3333,3600],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-17-15",[{p:'posX',t:[2500,2667,2833,3000,3167,3333,3600],v:[104.271,99.771,104.271,99.771,104.271,99.771,104.271],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'rotate',t:[2500,2667,2833,3000,3167,3333,3600],v:[0,15,0,15,0,15,0],e:[[1,0.333,0,0.667,1],[1,0.869,0,0.418,1],[1,0.333,0,0.667,1],[1,0.869,0,0.667,1],[1,0.333,0,0.667,1],[1,0.421,0,0.641,1],[0]]},{p:'scaleX',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'scaleY',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]}],
+"#Layer-1-2",[{p:'opacity',t:[0,2500,4000],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-24",[{p:'posX',t:[2500,2667,3333,3600],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[2500,2667,3333,3600],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-18-8",[{p:'posX',t:[2500,2667,2833,3000,3167,3333,3600],v:[84.28,74.28,84.28,74.28,84.28,74.28,84.28],e:[[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.396,0,0.582,1],[0]]},{p:'posY',t:[2500,2667,2833,3000,3167,3333,3600],v:[119.844,125.844,119.844,125.844,119.844,125.844,119.844],e:[[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.858,0,0.667,1],[1,0.333,0,0.667,1],[1,0.396,0,0.582,1],[0]]},{p:'scaleX',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.88,1,0.88,1,0.88,1],e:[[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.438,0,0.546,1],[0]]},{p:'scaleY',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.88,1,0.88,1,0.88,1],e:[[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.899,0,0.667,1],[1,0.333,0,0.667,1],[1,0.438,0,0.546,1],[0]]},{p:'opacity',t:[0,2500,4000],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-25",[{p:'posX',t:[2500,2667,3333,3600],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[2500,2667,3333,3600],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]}],
+"#Null-17-16",[{p:'posX',t:[2500,2667,2833,3000,3167,3333,3600],v:[104.271,99.771,104.271,99.771,104.271,99.771,104.271],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'rotate',t:[2500,2667,2833,3000,3167,3333,3600],v:[0,15,0,15,0,15,0],e:[[1,0.333,0,0.667,1],[1,0.869,0,0.418,1],[1,0.333,0,0.667,1],[1,0.869,0,0.667,1],[1,0.333,0,0.667,1],[1,0.421,0,0.641,1],[0]]},{p:'scaleX',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'scaleY',t:[2500,2667,2833,3000,3167,3333,3600],v:[1,0.98,1,0.98,1,0.98,1],e:[[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.821,0,0.667,1],[1,0.333,0,0.667,1],[1,0.373,0,0.802,1],[0]]},{p:'opacity',t:[0,2500,4000],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-26",[{p:'posX',t:[2500,2667,3333,3600],v:[80,72.5,72.5,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'posY',t:[2500,2667,3333,3600],v:[80,85,85,80],e:[[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.667,1],[0]]},{p:'scaleX',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'scaleY',t:[2500,2583,2667,3333,3467,3600],v:[1,0.91,0.9,0.9,0.91,1],e:[[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[1,0.333,0,0.667,1],[1,0.333,0,0.833,0.833],[1,0.167,0.167,0.667,1],[0]]},{p:'opacity',t:[0,2500,4000],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Library-2",[{p:'opacity',t:[0,1000],v:[1,0],e:[[3,1],[0]]}],
+"#clap-skintone2-2",[{p:'opacity',t:[0,1500],v:[1,0],e:[[3,1],[0]]}],
+"#Layer-8-3",[{p:'opacity',t:[0,1500],v:[1,0],e:[[3,1],[0]]}],
+"#Layer-5-3",[{p:'opacity',t:[0,1500],v:[1,0],e:[[3,1],[0]]}],
+"#Layer-3-3",[{p:'opacity',t:[0,1500],v:[1,0],e:[[3,1],[0]]}],
+"#Layer-12-3",[{p:'opacity',t:[0,1500],v:[1,0],e:[[3,1],[0]]}],
+"#Layer-11-3",[{p:'opacity',t:[0,1500],v:[1,0],e:[[3,1],[0]]}],
+"#Layer-10-3",[{p:'opacity',t:[0,1500],v:[1,0],e:[[3,1],[0]]}],
+"#Layer-13-3",[{p:'opacity',t:[0,1500],v:[1,0],e:[[3,1],[0]]}],
+"#Layer-14-3",[{p:'opacity',t:[0,1500],v:[1,0],e:[[3,1],[0]]}],
+"#Layer-18-3",[{p:'opacity',t:[0,1500],v:[1,0],e:[[3,1],[0]]}],
+"#Layer-1-3",[{p:'opacity',t:[0,1500],v:[1,0],e:[[3,1],[0]]}],
+"#Null-18-12",[{p:'opacity',t:[0,1500],v:[1,0],e:[[3,1],[0]]}],
+"#Null-17-24",[{p:'opacity',t:[0,1500],v:[1,0],e:[[3,1],[0]]}],
+"#Null-16-39",[{p:'opacity',t:[0,1500],v:[1,0],e:[[3,1],[0]]}],
+"#Library-2-2",[{p:'opacity',t:[0,4000,5000],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#clap-skintone2-2-2",[{p:'opacity',t:[0,4000,5500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Layer-8-4",[{p:'opacity',t:[0,4000,5500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Layer-5-4",[{p:'opacity',t:[0,4000,5500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Layer-3-4",[{p:'opacity',t:[0,4000,5500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Layer-12-4",[{p:'opacity',t:[0,4000,5500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Layer-11-4",[{p:'opacity',t:[0,4000,5500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Layer-10-4",[{p:'opacity',t:[0,4000,5500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Layer-13-4",[{p:'opacity',t:[0,4000,5500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Layer-14-4",[{p:'opacity',t:[0,4000,5500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Layer-18-4",[{p:'opacity',t:[0,4000,5500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Layer-1-4",[{p:'opacity',t:[0,4000,5500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-18-16",[{p:'opacity',t:[0,4000,5500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-17-32",[{p:'opacity',t:[0,4000,5500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Null-16-52",[{p:'opacity',t:[0,4000,5500],v:[0,1,0],e:[[3,1],[3,1],[0]]}],
+"#Loading",[{p:'opacity',t:[0,1000],v:[1,0],e:[[3,1],[0]]}],
+"#Background",[{p:'opacity',t:[0,1000],v:[1,0],e:[[3,1],[0]]}],
+"#Outline",[{p:'opacity',t:[0,1000],v:[1,0],e:[[3,1],[0]]}],
+"#Progress",[{p:'opacity',t:[0,1000],v:[1,0],e:[[3,1],[0]]}],
+"#Ellipse-Path-1-3",[{p:'strokeDashoffset',t:[0,958],v:[-722.377,-1444.75],e:[[0],[0]]}],
+{autoremove:false}).range(0,5000).loop(true);
+if(document.location.search.substr(1).split('&').indexOf('global=paused')>=0)ks.globalPause()})(KeyshapeJS);
+]]></script>
+</svg>
